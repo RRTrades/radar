@@ -224,35 +224,80 @@ def fmt(c, pair, plat, liq, mcap, ch):
             f"RISQUE : GoPlus OK | rug possible")
 
 
+
 def main():
     problems = load(PROBLEMS_FILE, [])
-    state = load(STATE_FILE, {"alerted": [], "watch": {}, "day": "", "count": 0})
+    state = load(STATE_FILE, {
+        "alerted": [], "watch": {}, "day": "", "count": 0
+    })
+
     today = dt.date.today().isoformat()
     if state["day"] != today:
         state["day"], state["count"] = today, 0
 
-    for c in fetch_early(state, problems) + fetch_candidates(state, problems):
+    print("===== DIAGNOSTIC RADAR =====", flush=True)
+    print(f"Catégories surveillées : {len(problems)}")
+
+    early = fetch_early(state, problems)
+    candidates = fetch_candidates(state, problems)
+
+    print(f"Candidats DexScreener : {len(early)}")
+    print(f"Candidats DefiLlama : {len(candidates)}")
+
+    stats = {
+        "deja_alertes": 0,
+        "sans_paire": 0,
+        "marche_rejete": 0,
+        "securite_rejetee": 0,
+        "plateforme_absente": 0,
+        "alertes_envoyees": 0
+    }
+
+    for c in early + candidates:
         if state["count"] >= MAX_ALERTS_PER_DAY:
+            print("Limite quotidienne d'alertes atteinte")
             break
+
         if c["slug"] in state["alerted"]:
+            stats["deja_alertes"] += 1
             continue
+
         pair = find_pair(c)
         if not pair:
+            stats["sans_paire"] += 1
             continue
+
         ok, liq, mcap, ch = market_gate(pair)
         if not ok:
+            stats["marche_rejete"] += 1
             continue
-        chain, token = pair["chainId"], pair["baseToken"]["address"]
+
+        chain = pair["chainId"]
+        token = pair["baseToken"]["address"]
+
         if not security_gate(chain, token):
+            stats["securite_rejetee"] += 1
             continue
+
         plat = platform(chain, c["sym"])
         if not plat:
+            stats["plateforme_absente"] += 1
             continue
+
         send(fmt(c, pair, plat, liq, mcap, ch))
+
         state["alerted"].append(c["slug"])
         state["count"] += 1
+        stats["alertes_envoyees"] += 1
+
+    print("===== RÉSULTATS DES FILTRES =====")
+    for raison, nombre in stats.items():
+        print(f"{raison}: {nombre}")
+
+    print("===== FIN DU DIAGNOSTIC =====", flush=True)
 
     save(STATE_FILE, state)
+
 
 
 if __name__ == "__main__":
