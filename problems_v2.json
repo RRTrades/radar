@@ -1,0 +1,10 @@
+[
+  {"id":"mev-execution","problem":"MEV et exécution défavorable","keywords":["mev","sandwich","front-running","intent","private mempool"],"status":"UNRESOLVED_OR_PARTIAL","review_required":true},
+  {"id":"crosschain-fragmentation","problem":"Liquidité et UX fragmentées entre réseaux","keywords":["cross-chain","omnichain","chain abstraction","unified liquidity"],"status":"UNRESOLVED_OR_PARTIAL","review_required":true},
+  {"id":"wallet-usability","problem":"Complexité des wallets et récupération","keywords":["account abstraction","smart wallet","passkey","social recovery"],"status":"UNRESOLVED_OR_PARTIAL","review_required":true},
+  {"id":"oracle-integrity","problem":"Manipulation, latence et disponibilité des oracles","keywords":["oracle","price feed","pull oracle","latency"],"status":"UNRESOLVED_OR_PARTIAL","review_required":true},
+  {"id":"privacy-compliance","problem":"Confidentialité et conformité des usages on-chain","keywords":["zero knowledge","privacy","confidential","selective disclosure"],"status":"UNRESOLVED_OR_PARTIAL","review_required":true},
+  {"id":"onchain-risk","problem":"Risque de contrats et permissions malveillantes","keywords":["smart contract risk","exploit prevention","wallet security","simulation"],"status":"UNRESOLVED_OR_PARTIAL","review_required":true},
+  {"id":"stablecoin-resilience","problem":"Risque de réserve et de liquidité des stablecoins","keywords":["stablecoin","proof of reserves","redemption","depeg"],"status":"UNRESOLVED_OR_PARTIAL","review_required":true},
+  {"id":"agent-payments","problem":"Paiements et identité des agents autonomes","keywords":["agent payments","machine payments","agent identity","autonomous payments"],"status":"UNRESOLVED_OR_PARTIAL","review_required":true}
+]
