@@ -104,7 +104,7 @@ def fetch_early(state, problems):
     dont la description correspond à un problème de la carte. Détectés AVANT
     qu'un protocole soit indexé par DefiLlama."""
     profiles = get("https://api.dexscreener.com/token-profiles/latest/v1") or []
-  print(f"DEXSCREENER : {len(profiles)} profils reçus")
+    print(f"DEXSCREENER : {len(profiles)} profils reçus")
     out = []
     for pr in profiles:
         chain, addr = pr.get("chainId"), pr.get("tokenAddress")
