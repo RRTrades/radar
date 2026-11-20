@@ -29,7 +29,7 @@ jobs:
       - name: Install
         run: pip install -r requirements-v2.txt
       - name: Test
-        run: python -m unittest test_radar_v2 test_innovation_watch test_qualify_research test_evidence_audit test_fundamental_ai test_token_identity test_token_first test_token_watch_alerts -v
+        run: python -m unittest test_radar_v2 test_innovation_watch test_qualify_research test_evidence_audit test_fundamental_ai test_token_identity test_token_first test_token_watch_alerts test_conviction_engine -v
       - name: Scan and review queue
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
@@ -43,6 +43,8 @@ jobs:
           python radar_v2.py $ARGS
       - name: Token-first market discovery (each scan)
         run: python token_first.py
+      - name: Conviction risk register (each scan)
+        run: python conviction_engine.py
       - name: Telegram token watchlist alerts (each scan)
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
@@ -91,6 +93,7 @@ jobs:
             token_identity_report.json
             token_first_report.json
             token_watch_alerts_report.json
+            conviction_report.json
           if-no-files-found: ignore
           retention-days: 14
       - name: Persist research state
@@ -105,6 +108,7 @@ jobs:
           if [ -f token_identity_state.json ]; then git add token_identity_state.json; fi
           if [ -f token_first_state.json ]; then git add token_first_state.json; fi
           if [ -f token_watch_alerts_state.json ]; then git add token_watch_alerts_state.json; fi
+          if [ -f conviction_state.json ]; then git add conviction_state.json; fi
           if ! git diff --cached --quiet; then
             git commit -m 'chore: update radar v2 research state [skip ci]'
             git push
