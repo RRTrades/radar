@@ -1,0 +1,22 @@
+[
+  {"id": "mev", "problem": "MEV / front-running / sandwich",
+   "keywords": ["mev", "front-running", "frontrunning", "sandwich", "intent", "batch auction", "protected"]},
+  {"id": "liquidity-fragmentation", "problem": "Liquidité fragmentée entre chaînes",
+   "keywords": ["cross-chain", "omnichain", "unified liquidity", "chain abstraction", "bridge", "intents"]},
+  {"id": "perp-dex-liquidity", "problem": "Perps/options on-chain : liquidité et capital inefficaces",
+   "keywords": ["perpetual", "perp", "options", "derivatives", "orderbook", "margin", "capital efficiency"]},
+  {"id": "lp-impermanent-loss", "problem": "Perte impermanente / rendement LP faible",
+   "keywords": ["impermanent loss", "concentrated liquidity", "lp", "market maker", "amm", "hedged"]},
+  {"id": "stablecoin-yield-risk", "problem": "Rendement stablecoin non durable ou risqué",
+   "keywords": ["stablecoin", "delta-neutral", "yield", "real yield", "treasury", "backed"]},
+  {"id": "oracle-manipulation", "problem": "Oracles manipulables / lents",
+   "keywords": ["oracle", "price feed", "low latency", "pull oracle", "manipulation"]},
+  {"id": "ux-wallet-gas", "problem": "UX : gas, seed phrase, onboarding",
+   "keywords": ["account abstraction", "gasless", "smart wallet", "passkey", "paymaster", "sponsored"]},
+  {"id": "privacy", "problem": "Pas de confidentialité on-chain utilisable",
+   "keywords": ["privacy", "zero-knowledge", "zk", "confidential", "shielded", "encrypted"]},
+  {"id": "rwa-access", "problem": "Accès on-chain aux actifs réels (RWA) limité",
+   "keywords": ["rwa", "real world", "tokenized", "treasury bills", "equities", "credit"]},
+  {"id": "ai-agent-payments", "problem": "Agents IA sans rails de paiement/identité",
+   "keywords": ["ai agent", "agents", "autonomous", "machine payments", "inference", "compute marketplace"]}
+]
