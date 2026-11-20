@@ -1,0 +1,2223 @@
+{
+  "problem_evidence": {
+    "https://github.com/ethereum-optimism/optimism/issues/23551": {
+      "finding": "Open issue; unresolved systemic problem NOT established",
+      "issue_created_at": "2026-10-21T12:02:00Z",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "problem_id": "crosschain-fragmentation",
+      "source_url": "https://github.com/ethereum-optimism/optimism/issues/23551",
+      "status": "UNVERIFIED_PROBLEM_EVIDENCE",
+      "title": "Help recovering 0.01798 ETH from pre-Bedrock withdrawal (December 2022)"
+    },
+    "https://github.com/ethereum-optimism/optimism/issues/24014": {
+      "finding": "Open issue; unresolved systemic problem NOT established",
+      "issue_created_at": "2026-11-09T21:39:56Z",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "problem_id": "crosschain-fragmentation",
+      "source_url": "https://github.com/ethereum-optimism/optimism/issues/24014",
+      "status": "UNVERIFIED_PROBLEM_EVIDENCE",
+      "title": "[BP-CM] contracts-bedrock: support bridge hooks on interop chains"
+    },
+    "https://github.com/ethereum-optimism/optimism/issues/24098": {
+      "finding": "Open issue; unresolved systemic problem NOT established",
+      "issue_created_at": "2026-11-12T12:43:05Z",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "problem_id": "crosschain-fragmentation",
+      "source_url": "https://github.com/ethereum-optimism/optimism/issues/24098",
+      "status": "UNVERIFIED_PROBLEM_EVIDENCE",
+      "title": "op-service, op-devstack: review the eth client APIs for L2 reads"
+    },
+    "https://github.com/ethereum/go-ethereum/issues/35563": {
+      "finding": "Open issue; unresolved systemic problem NOT established",
+      "issue_created_at": "2026-08-21T19:11:53Z",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "problem_id": "onchain-risk",
+      "source_url": "https://github.com/ethereum/go-ethereum/issues/35563",
+      "status": "UNVERIFIED_PROBLEM_EVIDENCE",
+      "title": "core/ssz: add SSZ encoding, decoding, merkleization and proof generation"
+    },
+    "https://github.com/ethereum/go-ethereum/issues/35625": {
+      "finding": "Open issue; unresolved systemic problem NOT established",
+      "issue_created_at": "2026-09-01T08:40:26Z",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "problem_id": "onchain-risk",
+      "source_url": "https://github.com/ethereum/go-ethereum/issues/35625",
+      "status": "UNVERIFIED_PROBLEM_EVIDENCE",
+      "title": "v1.17.2: withdrawals-only payload state root matches recipient balance from three blocks earlier"
+    },
+    "https://github.com/ethereum/go-ethereum/issues/36173": {
+      "finding": "Open issue; unresolved systemic problem NOT established",
+      "issue_created_at": "2026-11-18T22:17:09Z",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "problem_id": "mev-execution",
+      "source_url": "https://github.com/ethereum/go-ethereum/issues/36173",
+      "status": "UNVERIFIED_PROBLEM_EVIDENCE",
+      "title": "core: a sender with an EIP-7702 designator is accepted before Prague"
+    },
+    "https://github.com/ethereum/go-ethereum/issues/36176": {
+      "finding": "Open issue; unresolved systemic problem NOT established",
+      "issue_created_at": "2026-11-19T07:27:13Z",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "problem_id": "mev-execution",
+      "source_url": "https://github.com/ethereum/go-ethereum/issues/36176",
+      "status": "UNVERIFIED_PROBLEM_EVIDENCE",
+      "title": "core/txpool/legacypool: transactions made invalid by the Amsterdam fork stay pending"
+    },
+    "https://github.com/ethereum/go-ethereum/issues/36181": {
+      "finding": "Open issue; unresolved systemic problem NOT established",
+      "issue_created_at": "2026-11-20T14:53:12Z",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "problem_id": "mev-execution",
+      "source_url": "https://github.com/ethereum/go-ethereum/issues/36181",
+      "status": "UNVERIFIED_PROBLEM_EVIDENCE",
+      "title": "eth_simulateV1 returns chainId 0x7fffffffffffffee for a simulated legacy transaction"
+    },
+    "https://github.com/ethereum/go-ethereum/issues/36184": {
+      "finding": "Open issue; unresolved systemic problem NOT established",
+      "issue_created_at": "2026-11-20T15:23:51Z",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "problem_id": "mev-execution",
+      "source_url": "https://github.com/ethereum/go-ethereum/issues/36184",
+      "status": "UNVERIFIED_PROBLEM_EVIDENCE",
+      "title": "eth_simulateV1: receipts mix the logs of calls with equal transaction hashes"
+    },
+    "https://github.com/ethereum/go-ethereum/issues/36185": {
+      "finding": "Open issue; unresolved systemic problem NOT established",
+      "issue_created_at": "2026-11-20T15:27:00Z",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "problem_id": "mev-execution",
+      "source_url": "https://github.com/ethereum/go-ethereum/issues/36185",
+      "status": "UNVERIFIED_PROBLEM_EVIDENCE",
+      "title": "cmd/devp2p/internal/ethtest: BlobTxWithInvalidCells hangs when it runs after GetCells"
+    },
+    "https://github.com/smartcontractkit/chainlink/issues/24123": {
+      "finding": "Open issue; unresolved systemic problem NOT established",
+      "issue_created_at": "2026-10-31T21:10:50Z",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "problem_id": "oracle-integrity",
+      "source_url": "https://github.com/smartcontractkit/chainlink/issues/24123",
+      "status": "UNVERIFIED_PROBLEM_EVIDENCE",
+      "title": "[SMRT] Base VRF v2.5 subscription cannot be cancelled after the consumer already finished"
+    }
+  },
+  "problem_landscape": {
+    "agent-payments": {
+      "competitors_status": "SUGGESTIONS_ONLY_NOT_COMPARATIVE_ASSESSMENT",
+      "problem_id": "agent-payments",
+      "problem_text": "Paiements et identité des agents autonomes",
+      "status": "UNRESOLVED_NOT_ESTABLISHED",
+      "suggested_alternatives": [
+        {
+          "name": "alsk1992/CloddsBot",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/alsk1992/CloddsBot"
+        },
+        {
+          "name": "FinAegis/core-banking-prototype-laravel",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/FinAegis/core-banking-prototype-laravel"
+        },
+        {
+          "name": "wevm/mppx",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/wevm/mppx"
+        },
+        {
+          "name": "tempoxyz/mpp-specs",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/tempoxyz/mpp-specs"
+        },
+        {
+          "name": "tempoxyz/mpp-rs",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/tempoxyz/mpp-rs"
+        }
+      ],
+      "updated_at": "2026-11-20T16:59:30+00:00"
+    },
+    "crosschain-fragmentation": {
+      "competitors_status": "SUGGESTIONS_ONLY_NOT_COMPARATIVE_ASSESSMENT",
+      "problem_id": "crosschain-fragmentation",
+      "problem_text": "Liquidité et UX fragmentées entre réseaux",
+      "status": "UNRESOLVED_NOT_ESTABLISHED",
+      "suggested_alternatives": [
+        {
+          "name": "AcalaNetwork/Acala",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/AcalaNetwork/Acala"
+        },
+        {
+          "name": "shentufoundation/shentu",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/shentufoundation/shentu"
+        },
+        {
+          "name": "b3-fun/b3os",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/b3-fun/b3os"
+        },
+        {
+          "name": "irisnet/irishub",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/irisnet/irishub"
+        },
+        {
+          "name": "anyswap/CrossChain-Bridge",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/anyswap/CrossChain-Bridge"
+        }
+      ],
+      "updated_at": "2026-11-20T16:59:30+00:00"
+    },
+    "mev-execution": {
+      "competitors_status": "SUGGESTIONS_ONLY_NOT_COMPARATIVE_ASSESSMENT",
+      "problem_id": "mev-execution",
+      "problem_text": "MEV et exécution défavorable",
+      "status": "UNRESOLVED_NOT_ESTABLISHED",
+      "suggested_alternatives": [
+        {
+          "name": "mortdeus/solana-copy-sniper-mev-trading-bot",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/mortdeus/solana-copy-sniper-mev-trading-bot"
+        },
+        {
+          "name": "paradigmxyz/artemis",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/paradigmxyz/artemis"
+        },
+        {
+          "name": "flashbots/mev-boost",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/flashbots/mev-boost"
+        },
+        {
+          "name": "flashbots/mev-research",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/flashbots/mev-research"
+        },
+        {
+          "name": "lawmaster10/howcryptoworksbook",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/lawmaster10/howcryptoworksbook"
+        }
+      ],
+      "updated_at": "2026-11-20T16:59:30+00:00"
+    },
+    "onchain-risk": {
+      "competitors_status": "SUGGESTIONS_ONLY_NOT_COMPARATIVE_ASSESSMENT",
+      "problem_id": "onchain-risk",
+      "problem_text": "Risque de contrats et permissions malveillantes",
+      "status": "UNRESOLVED_NOT_ESTABLISHED",
+      "suggested_alternatives": [
+        {
+          "name": "ConsenSysDiligence/smart-contract-best-practices",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/ConsenSysDiligence/smart-contract-best-practices"
+        },
+        {
+          "name": "ConsenSysDiligence/mythril",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/ConsenSysDiligence/mythril"
+        },
+        {
+          "name": "transmissions11/solcurity",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/transmissions11/solcurity"
+        },
+        {
+          "name": "TokenMarketNet/smart-contracts",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/TokenMarketNet/smart-contracts"
+        },
+        {
+          "name": "nascentxyz/simple-security-toolkit",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/nascentxyz/simple-security-toolkit"
+        }
+      ],
+      "updated_at": "2026-11-20T16:59:30+00:00"
+    },
+    "oracle-integrity": {
+      "competitors_status": "SUGGESTIONS_ONLY_NOT_COMPARATIVE_ASSESSMENT",
+      "problem_id": "oracle-integrity",
+      "problem_text": "Manipulation, latence et disponibilité des oracles",
+      "status": "UNRESOLVED_NOT_ESTABLISHED",
+      "suggested_alternatives": [
+        {
+          "name": "tacoinfra/harbinger",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/tacoinfra/harbinger"
+        },
+        {
+          "name": "decentralizedlabs/uniswap-v3-price-feed",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/decentralizedlabs/uniswap-v3-price-feed"
+        }
+      ],
+      "updated_at": "2026-11-20T16:59:30+00:00"
+    },
+    "privacy-compliance": {
+      "competitors_status": "SUGGESTIONS_ONLY_NOT_COMPARATIVE_ASSESSMENT",
+      "problem_id": "privacy-compliance",
+      "problem_text": "Confidentialité et conformité des usages on-chain",
+      "status": "UNRESOLVED_NOT_ESTABLISHED",
+      "suggested_alternatives": [
+        {
+          "name": "corda/corda",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/corda/corda"
+        },
+        {
+          "name": "horizontalsystems/unstoppable-wallet-android",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/horizontalsystems/unstoppable-wallet-android"
+        },
+        {
+          "name": "P20-ORG/P-20-Blockchain",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/P20-ORG/P-20-Blockchain"
+        },
+        {
+          "name": "ScopeLift/umbra-protocol",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/ScopeLift/umbra-protocol"
+        },
+        {
+          "name": "cardano-foundation/jormungandr",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/cardano-foundation/jormungandr"
+        }
+      ],
+      "updated_at": "2026-11-20T16:59:30+00:00"
+    },
+    "stablecoin-resilience": {
+      "competitors_status": "SUGGESTIONS_ONLY_NOT_COMPARATIVE_ASSESSMENT",
+      "problem_id": "stablecoin-resilience",
+      "problem_text": "Risque de réserve et de liquidité des stablecoins",
+      "status": "UNRESOLVED_NOT_ESTABLISHED",
+      "suggested_alternatives": [
+        {
+          "name": "lawmaster10/howcryptoworksbook",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/lawmaster10/howcryptoworksbook"
+        },
+        {
+          "name": "sky-ecosystem/dss",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/sky-ecosystem/dss"
+        },
+        {
+          "name": "circlefin/stablecoin-evm",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/circlefin/stablecoin-evm"
+        },
+        {
+          "name": "AcalaNetwork/Acala",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/AcalaNetwork/Acala"
+        },
+        {
+          "name": "LedgityLabs/LedgityYield",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/LedgityLabs/LedgityYield"
+        }
+      ],
+      "updated_at": "2026-11-20T16:59:30+00:00"
+    },
+    "wallet-usability": {
+      "competitors_status": "SUGGESTIONS_ONLY_NOT_COMPARATIVE_ASSESSMENT",
+      "problem_id": "wallet-usability",
+      "problem_text": "Complexité des wallets et récupération",
+      "status": "UNRESOLVED_NOT_ESTABLISHED",
+      "suggested_alternatives": [
+        {
+          "name": "radioman/polymarket-arbitrage-trading-bot",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/radioman/polymarket-arbitrage-trading-bot"
+        },
+        {
+          "name": "adrianhajdin/project_web3_battle_game",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/adrianhajdin/project_web3_battle_game"
+        },
+        {
+          "name": "dharma-eng/dharma-smart-wallet",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/dharma-eng/dharma-smart-wallet"
+        },
+        {
+          "name": "FastLane-Labs/atlas",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/FastLane-Labs/atlas"
+        },
+        {
+          "name": "dawnwallet/erc4337-wallet",
+          "note": "Search match only; relevance, competition, quality not validated",
+          "url": "https://github.com/dawnwallet/erc4337-wallet"
+        }
+      ],
+      "updated_at": "2026-11-20T16:59:30+00:00"
+    }
+  },
+  "project_research_queue": {
+    "0xgoryu/security-research-lab": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-20T10:20:22Z",
+      "description": "Personal lab notes and small tools from smart-contract security research and bug bounty work",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T10:32:12Z",
+      "repository": "0xgoryu/security-research-lab",
+      "repository_url": "https://github.com/0xgoryu/security-research-lab",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "onchain-risk"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "ATULPANDEYIITR/cryptography-blockchain-and-decentralized-technologies-learning-journey": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-08-30T09:26:00Z",
+      "description": "Learning cryptography, blockchain, distributed systems, smart contracts, Web3, decentralized technologies, blockchain security, zero-knowledge proofs, and post-quantum cryptography.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T06:20:15Z",
+      "repository": "ATULPANDEYIITR/cryptography-blockchain-and-decentralized-technologies-learning-journey",
+      "repository_url": "https://github.com/ATULPANDEYIITR/cryptography-blockchain-and-decentralized-technologies-learning-journey",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "Anondevnet/contract-auditor": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-20T15:20:59Z",
+      "description": "Local-first smart-contract security auditing and research engine",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T15:21:05Z",
+      "repository": "Anondevnet/contract-auditor",
+      "repository_url": "https://github.com/Anondevnet/contract-auditor",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "onchain-risk"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "BeedS101/domain-atlas": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-08-23T15:22:00Z",
+      "description": "A protocol that gives users portable cryptographic identities and signed credentials, usable across independent domains on both ordinary web pages and 3D spaces, without requiring a blockchain. Includes trading, federated mail, and a browser-extension wallet. Reference issuer in Node and plain PHP.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T12:25:56Z",
+      "repository": "BeedS101/domain-atlas",
+      "repository_url": "https://github.com/BeedS101/domain-atlas",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "Candra0x6/sake": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-14T17:48:25Z",
+      "description": "Launch your own USDC-backed stablecoin on NEAR. Reserves in plain sight. NEAR HACKATHON 2026.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-14T19:06:30Z",
+      "repository": "Candra0x6/sake",
+      "repository_url": "https://github.com/Candra0x6/sake",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "stablecoin-resilience"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "Chainaremancipate/Spideroak-One-2026": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-18T14:50:18Z",
+      "description": "Spideroakone Spideroak One Repack 2026 Backup Sync Share Zero Knowledge Privacy Cloud Version Lifetime License Secure Storage For Win Mac Linux",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T14:26:19Z",
+      "repository": "Chainaremancipate/Spideroak-One-2026",
+      "repository_url": "https://github.com/Chainaremancipate/Spideroak-One-2026",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "privacy-compliance"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "CoderMisaki/aevum-agent-pay": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-20T03:54:11Z",
+      "description": "Aevum Agent Pay — scoped autonomous-agent payments in tUSD8 on QDay Aevum Testnet (Aevum Builder Challenge #1)",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T09:21:50Z",
+      "repository": "CoderMisaki/aevum-agent-pay",
+      "repository_url": "https://github.com/CoderMisaki/aevum-agent-pay",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "agent-payments"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "Coin-Lotto/coinlotto-protocol-public": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-28T16:31:36Z",
+      "description": "CoinLotto protocol smart contracts, tests, and security audits.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T10:23:25Z",
+      "repository": "Coin-Lotto/coinlotto-protocol-public",
+      "repository_url": "https://github.com/Coin-Lotto/coinlotto-protocol-public",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "onchain-risk"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "Considus/Catchlight-MacOS": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-01T17:54:41Z",
+      "description": "Privacy-first, zero-knowledge macOS productivity app. Offline-first, end-to-end encrypted, always.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://catchlight.app",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T16:58:50Z",
+      "repository": "Considus/Catchlight-MacOS",
+      "repository_url": "https://github.com/Considus/Catchlight-MacOS",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "privacy-compliance"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "DhruPtel/UBC-2026-Probability-Oracle": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-16T08:00:22Z",
+      "description": "A probability oracle  that puts prediction market odds on chain to automate risk management and open up AI agent insurance. UBC 2026 (University Blockchain Conference). ",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T00:20:49Z",
+      "repository": "DhruPtel/UBC-2026-Probability-Oracle",
+      "repository_url": "https://github.com/DhruPtel/UBC-2026-Probability-Oracle",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "oracle-integrity"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "DrianOps/BinaryLiquid": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-09T16:15:34Z",
+      "description": "BinaryLiquid: Non-Custodial Cross-Chain Liquidity & Lending Infrastructure Connecting Bitcoin Cash CashTokens and EVM Networks",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-18T20:56:38Z",
+      "repository": "DrianOps/BinaryLiquid",
+      "repository_url": "https://github.com/DrianOps/BinaryLiquid",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "crosschain-fragmentation"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "Ekenmisireyakakum/Anagu": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-16T14:49:18Z",
+      "description": "An integrated Blockchain–GIS–NFT–Community Verification Oracle–MQTT frame- work for land title registration, verification, and lawful revocation.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://anagu-web-one.vercel.app",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T14:58:45Z",
+      "repository": "Ekenmisireyakakum/Anagu",
+      "repository_url": "https://github.com/Ekenmisireyakakum/Anagu",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "oracle-integrity"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "Jean-Regis-M/tidewater": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-16T21:51:24Z",
+      "description": "Cross-chain withdrawal queue settled by Reactive Omni the moment liquidity returns. Reactive Omni Buildathon 2026, Track: Every Second Counts.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://jean-regis-m.github.io/tidewater/",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-17T08:28:01Z",
+      "repository": "Jean-Regis-M/tidewater",
+      "repository_url": "https://github.com/Jean-Regis-M/tidewater",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "crosschain-fragmentation"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "JoeBosi/fuel-token-demo": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-02T07:12:59Z",
+      "description": "Educational blockchain use case: a petrol token on Polygon Amoy with a daily real-price oracle (Arezzo, Italy). Contracts, backend, frontend and tutorial.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://rwa-fuel.blockchain.giuseppebosi.com",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-02T18:07:27Z",
+      "repository": "JoeBosi/fuel-token-demo",
+      "repository_url": "https://github.com/JoeBosi/fuel-token-demo",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "oracle-integrity"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "Keelcodes/keel": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-07T03:56:06Z",
+      "description": "Open infrastructure for onchain agent accounts, authorization and payments.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://keel.codes",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T11:41:47Z",
+      "repository": "Keelcodes/keel",
+      "repository_url": "https://github.com/Keelcodes/keel",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "KhadriImran/sentryx": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-09-07T14:46:55Z",
+      "description": "Source of sentryxaudit.com - smart contract security audits + free on-chain security tools",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://sentryxaudit.com",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T11:01:11Z",
+      "repository": "KhadriImran/sentryx",
+      "repository_url": "https://github.com/KhadriImran/sentryx",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "onchain-risk"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "M-coderr/lumina-photos": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-19T14:12:08Z",
+      "description": "Self-hosted Google Photos alternative with PC as server, live sync, and zero-knowledge privacy",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T16:16:57Z",
+      "repository": "M-coderr/lumina-photos",
+      "repository_url": "https://github.com/M-coderr/lumina-photos",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "privacy-compliance"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "Men6d656e/dusd-stablecoin": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-16T13:58:38Z",
+      "description": "USD-pegged stablecoin case study on Base Sepolia: Foundry contracts, on-chain reserves, Next.js demo. Testnet only, no real money.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T13:26:54Z",
+      "repository": "Men6d656e/dusd-stablecoin",
+      "repository_url": "https://github.com/Men6d656e/dusd-stablecoin",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "stablecoin-resilience"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "Miles-GU/stableproof": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-18T13:49:01Z",
+      "description": "An interactive dashboard prototype for monitoring stablecoin reserve coverage, stress-testing redemption liquidity, and flagging risks using issuer disclosures and simulated scenarios.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-18T15:25:37Z",
+      "repository": "Miles-GU/stableproof",
+      "repository_url": "https://github.com/Miles-GU/stableproof",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "stablecoin-resilience"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "Miles-GU/stableproof-V2": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-18T15:33:17Z",
+      "description": "An interactive dashboard prototype for monitoring stablecoin reserve coverage, stress-testing redemption liquidity, and flagging risks using issuer disclosures and simulated scenarios.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-18T15:43:48Z",
+      "repository": "Miles-GU/stableproof-V2",
+      "repository_url": "https://github.com/Miles-GU/stableproof-V2",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "stablecoin-resilience"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "NaitikJaiswal/HHH": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-20T09:00:30Z",
+      "description": "HHH (Hash. Hunt. Harden.) is a blockchain-powered digital forensics platform that detects log tampering, secures digital evidence, and ensures data integrity using cryptographic hashing, Merkle trees, and immutable blockchain records. It enables transparent audit trails, threat detection, and reliable forensic investig",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T16:45:45Z",
+      "repository": "NaitikJaiswal/HHH",
+      "repository_url": "https://github.com/NaitikJaiswal/HHH",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "Naxx069/Team-Vallaris": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-20T11:09:20Z",
+      "description": "FAIRPASS is a secure event ticketing platform that uses cryptographic keys and blockchain to verify ticket ownership. It aims to prevent fake tickets, scalping and duplicate entry, while supporting secure ticket recovery, resale and sharing.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T15:47:20Z",
+      "repository": "Naxx069/Team-Vallaris",
+      "repository_url": "https://github.com/Naxx069/Team-Vallaris",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "Nearx-Labs/abstraction-stellar": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-08-26T13:55:46Z",
+      "description": "Generalized account abstraction na Stellar: smart accounts, taxas patrocinadas e NFT por UUID. Serve o MintVRS.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-19T03:18:11Z",
+      "repository": "Nearx-Labs/abstraction-stellar",
+      "repository_url": "https://github.com/Nearx-Labs/abstraction-stellar",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "wallet-usability"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "NeoChronomancer/stablecoin-compare": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-17T05:16:52Z",
+      "description": "Stablecoin comparison notes — reserves, yields and depeg history.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://go-release.xyz/",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-17T05:17:59Z",
+      "repository": "NeoChronomancer/stablecoin-compare",
+      "repository_url": "https://github.com/NeoChronomancer/stablecoin-compare",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "stablecoin-resilience"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "RetinaX-Org/RetinaX": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-07-30T17:37:53Z",
+      "description": "RetinaX is an open-source, patient-controlled vision care protocol on the Stellar blockchain that combines zero-knowledge privacy proofs, FHIR healthcare standards, and automated AI diagnostic verification to eliminate medical data siloes.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://retinax.kairos-devs.com/",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T16:39:58Z",
+      "repository": "RetinaX-Org/RetinaX",
+      "repository_url": "https://github.com/RetinaX-Org/RetinaX",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "privacy-compliance"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "Romil10/gap133-arc": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-06T08:32:29Z",
+      "description": "Agentic payment for arb opportunities in prediction markets using Arc.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://gap133-arc.vercel.app",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T11:37:42Z",
+      "repository": "Romil10/gap133-arc",
+      "repository_url": "https://github.com/Romil10/gap133-arc",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "agent-payments"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "STUSMA/Lofd": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-20T10:27:48Z",
+      "description": "Lofd (Лофд) — privacy-focused web messenger with Zero-Knowledge encryption, 48 customization settings, NFT marketplace, badges, and internal economy.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T10:31:05Z",
+      "repository": "STUSMA/Lofd",
+      "repository_url": "https://github.com/STUSMA/Lofd",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "privacy-compliance"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "Sabbirnde/ZeroID": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-07-26T03:09:31Z",
+      "description": "ZeroID:  A comprehensive privacy and identity protection application built with Next.js, TypeScript, and modern web technologies. ZeroID provides real-time monitoring, data firewall protection, and zero-knowledge credential management for enhanced digital privacy.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T14:28:53Z",
+      "repository": "Sabbirnde/ZeroID",
+      "repository_url": "https://github.com/Sabbirnde/ZeroID",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "privacy-compliance"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "StellarFoundry/soroban-security-scanner": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-09-21T11:06:44Z",
+      "description": "Deterministic security analysis for Stellar Soroban smart contracts and Rust projects.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T11:43:04Z",
+      "repository": "StellarFoundry/soroban-security-scanner",
+      "repository_url": "https://github.com/StellarFoundry/soroban-security-scanner",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "onchain-risk"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "signal d'intérêt GitHub (manipulable)"
+      ]
+    },
+    "Tgood91/Monad-OPSTACK-DEX": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-09T15:15:06Z",
+      "description": "Swap with several different sources, same chain, or cross chain.                          eventually, once the dex hits a certain volume, my idea is for the generated fees will allow us to become relay/solvers-(liquidity so we won't have to rely on ANY 1 single dex/bridge)!              I hope this idea vibes with yall",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-18T00:46:39Z",
+      "repository": "Tgood91/Monad-OPSTACK-DEX",
+      "repository_url": "https://github.com/Tgood91/Monad-OPSTACK-DEX",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "crosschain-fragmentation"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "Tom910117/cex-dex-arb-engine-public": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-09-22T16:29:49Z",
+      "description": "High-performance cross-market arbitrage engine between Binance and Solana AMMs, built with Go, WebSocket streaming, and Jito MEV protection.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-09-22T16:37:31Z",
+      "repository": "Tom910117/cex-dex-arb-engine-public",
+      "repository_url": "https://github.com/Tom910117/cex-dex-arb-engine-public",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "mev-execution"
+      ],
+      "triage_priority_0_to_5": 2,
+      "triage_reasons": [
+        "dépôt récent",
+        "description publique"
+      ]
+    },
+    "Trustlink-Labs/TSN-Protocol": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-09-12T09:23:11Z",
+      "description": "TSN is the settlement protocol developed by TrustLink Labs. An identity-first, privacy-aware, intent-based stablecoin settlement infrastructure connecting Solana, Creditcoin, and supported EVM liquidity networks through cryptographic verification, cross-chain messaging, and decentralized execution.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://trust-link-tsn.mintlify.site/",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-18T13:20:53Z",
+      "repository": "Trustlink-Labs/TSN-Protocol",
+      "repository_url": "https://github.com/Trustlink-Labs/TSN-Protocol",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "crosschain-fragmentation"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "ValentinHerrmann/Examance": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-07-25T16:56:21Z",
+      "description": "Privacy-first, zero-knowledge-encrypted anonymous exam grading. Teachers author LaTeX exams, print QR-coded booklets, scan and grade submissions against a pseudonym rather than a name, and get class-level analytics — all with student identity, scans and grading annotations encrypted client-side before they ever reach a",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://valentin-herrmann.com/examance/",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T16:49:49Z",
+      "repository": "ValentinHerrmann/Examance",
+      "repository_url": "https://github.com/ValentinHerrmann/Examance",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "privacy-compliance"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "WyrmMoonPassage/stablecoin-compare": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-17T07:16:55Z",
+      "description": "Stablecoin comparison notes — reserves, yields and depeg history.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-17T07:17:54Z",
+      "repository": "WyrmMoonPassage/stablecoin-compare",
+      "repository_url": "https://github.com/WyrmMoonPassage/stablecoin-compare",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "stablecoin-resilience"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "ZKRP-Collective/orangehail": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-20T12:45:07Z",
+      "description": "Privacy-preserving payment infrastructure built on zero-knowledge cryptography and decentralized routing.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T12:45:09Z",
+      "repository": "ZKRP-Collective/orangehail",
+      "repository_url": "https://github.com/ZKRP-Collective/orangehail",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "privacy-compliance"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "aaron11998/mev-protection-scanner": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-12T04:26:50Z",
+      "description": "MEV Protection Scanner — x402-gated Cloudflare Worker: sandwich/fronation risk detection via mempool (bounty #45)",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-10-12T04:27:41Z",
+      "repository": "aaron11998/mev-protection-scanner",
+      "repository_url": "https://github.com/aaron11998/mev-protection-scanner",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "mev-execution"
+      ],
+      "triage_priority_0_to_5": 2,
+      "triage_reasons": [
+        "dépôt récent",
+        "description publique"
+      ]
+    },
+    "ack3-education/tutorial-6": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-30T09:21:03Z",
+      "description": "Smart contract security exercises: find the bug, prove it with a Wake test, fix it. Reentrancy, underflow, front-running. NIE-BLO, FIT ČVUT, by ack3.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://courses.fit.cvut.cz/NIE-BLO/tutorials/06/index.html",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T12:55:59Z",
+      "repository": "ack3-education/tutorial-6",
+      "repository_url": "https://github.com/ack3-education/tutorial-6",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "onchain-risk"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "adevty/Ledgerly": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-05T11:38:36Z",
+      "description": "Private Financial Infrastructure for Onchain Businesses",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://tryledgerly.up.railway.app/",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-12T14:33:53Z",
+      "repository": "adevty/Ledgerly",
+      "repository_url": "https://github.com/adevty/Ledgerly",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "andedauda2-alt/Anagu": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-17T08:59:40Z",
+      "description": "Integrated Blockchain-GIS-NFT-Community Verification Oracle-MQTT framework for land title registration, spatial verification, and lawful revocation under Nigeria's Land Use Act (1978).",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://anagu-lyart.vercel.app",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-17T09:49:54Z",
+      "repository": "andedauda2-alt/Anagu",
+      "repository_url": "https://github.com/andedauda2-alt/Anagu",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "oracle-integrity"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "apelevel/whisper": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-28T06:49:33Z",
+      "description": "The public, open-source infrastructure for The Whisper Market in RAGE REALMZ, built by ApeLevel. Includes automated marketplace logic, economic safeguards, Oracle verification, and publicly auditable transaction proofs connecting private game events with Polygon blockchain transactions.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-03T10:57:13Z",
+      "repository": "apelevel/whisper",
+      "repository_url": "https://github.com/apelevel/whisper",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "oracle-integrity"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "api-evangelist/redstone": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-08-01T08:44:46Z",
+      "description": "RedStone — independent third-party profile of a public API surface, by API Evangelist. RedStone is a modular blockchain oracle infrastructure provider delivering tamper-proof price feeds and off-chain data to smart contracts across 100+ EVM and non-EVM networks. It aggregates data from 20+ centralized and decentralized",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-10-31T19:21:09Z",
+      "repository": "api-evangelist/redstone",
+      "repository_url": "https://github.com/api-evangelist/redstone",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "oracle-integrity"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "api-evangelist/vana": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-08-02T08:56:37Z",
+      "description": "Vana — independent third-party profile of a public API surface, by API Evangelist. Vana is an open protocol for user-owned, portable personal data — sovereign data infrastructure for the AI economy. Users store personal data in Personal Servers, grant builders access via signed, scope-native EIP-712 permissions, pay pr",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-01T11:57:31Z",
+      "repository": "api-evangelist/vana",
+      "repository_url": "https://github.com/api-evangelist/vana",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "apoorv-xs/valence-sol-capital-agent": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-16T12:42:13Z",
+      "description": "Valence-Sol: Enterprise-grade autonomous capital allocation agent on Solana. Pyth pull oracles, Jupiter v6 routing, Jito MEV protection, and on-chain Memo program reasoning audit trail.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-16T16:36:53Z",
+      "repository": "apoorv-xs/valence-sol-capital-agent",
+      "repository_url": "https://github.com/apoorv-xs/valence-sol-capital-agent",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "mev-execution"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "basantzp/v4-volatility-fee-hook": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-10T04:58:20Z",
+      "description": "⚡ Uniswap v4 Dynamic Volatility-Fee Hook for Loss-Versus-Rebalancing (LVR) Mitigation & Anti-MEV Protection",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://v4-volatility-fee-hook.vercel.app",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-03T18:03:11Z",
+      "repository": "basantzp/v4-volatility-fee-hook",
+      "repository_url": "https://github.com/basantzp/v4-volatility-fee-hook",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "mev-execution"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "cukco/agentP_demo": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-19T10:43:29Z",
+      "description": "AgentPay: session escrow + spending rules + ERC-8004 reputation for x402 AI-agent payments on Avalanche Fuji (BK Fintech Hackday S15)",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T11:42:48Z",
+      "repository": "cukco/agentP_demo",
+      "repository_url": "https://github.com/cukco/agentP_demo",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "agent-payments"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "elon00/ethmumbai-erc4337-paymaster-ai": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-26T19:33:33Z",
+      "description": "ETHMumbai ERC-4337 Paymaster AI ($EM4337) [Arbitrum / Ethereum L2]: Gasless account abstraction and ",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-19T13:04:12Z",
+      "repository": "elon00/ethmumbai-erc4337-paymaster-ai",
+      "repository_url": "https://github.com/elon00/ethmumbai-erc4337-paymaster-ai",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "wallet-usability"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "elon00/hashkey-crosschain-bridge-ai": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-26T19:21:15Z",
+      "description": "HashKey Cross-Chain Bridge AI ($HKBRIDGE) [HashKey Chain]: Zero-slippage atomic HashKey liquidity br",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-19T16:31:15Z",
+      "repository": "elon00/hashkey-crosschain-bridge-ai",
+      "repository_url": "https://github.com/elon00/hashkey-crosschain-bridge-ai",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "crosschain-fragmentation"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "elon00/qmoosa-nexus-platform": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-08-09T10:38:50Z",
+      "description": "Autonomous Web 4.0 Multi-Chain AI Agent Engine — ERC-4337 Account Abstraction, Policy Guardians, NIST PQC, & Conway Automata",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://qmoosa-nexus-platform.netlify.app/",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-19T10:16:33Z",
+      "repository": "elon00/qmoosa-nexus-platform",
+      "repository_url": "https://github.com/elon00/qmoosa-nexus-platform",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "wallet-usability"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "ergrato-dev/bc-smartcontracts": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-18T07:40:27Z",
+      "description": "Bootcamp Smart Contracts Zero to Advanced — 34 semanas / 476 h. Solidity y Foundry, estándares ERC, proxies, dApps con viem/wagmi, auditoría de seguridad, EVM y Yul, DeFi, account abstraction y L2.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-18T07:53:39Z",
+      "repository": "ergrato-dev/bc-smartcontracts",
+      "repository_url": "https://github.com/ergrato-dev/bc-smartcontracts",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "wallet-usability"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "farawayuplift/kite-agent-arbitrage-scanner": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-04T12:02:54Z",
+      "description": "Multi-DEX Cross-Chain Liquidity & Arbitrage Scanner Agent with x402 Gas Sponsorship",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T02:31:21Z",
+      "repository": "farawayuplift/kite-agent-arbitrage-scanner",
+      "repository_url": "https://github.com/farawayuplift/kite-agent-arbitrage-scanner",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "crosschain-fragmentation"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "farzanamustafa936-dot/solana-pump-fun-sniper-bot": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-15T20:42:49Z",
+      "description": "Feature-rich Solana Pump.fun Sniper Bot with Jito MEV protection and community filters",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T11:00:48Z",
+      "repository": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+      "repository_url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "mev-execution"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "signal d'intérêt GitHub (manipulable)"
+      ]
+    },
+    "fathiaomar/SolGuard-AI": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-13T14:25:05Z",
+      "description": "An AI-powered smart contract security auditor built with Next.js, Tailwind CSS, and Solidity. Features automated vulnerability scanning, severity ranking, and instant code patches",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://sol-guard-ai-47px.vercel.app/",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T12:28:24Z",
+      "repository": "fathiaomar/SolGuard-AI",
+      "repository_url": "https://github.com/fathiaomar/SolGuard-AI",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "onchain-risk"
+      ],
+      "triage_priority_0_to_5": 5,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée",
+        "signal d'intérêt GitHub (manipulable)"
+      ]
+    },
+    "freshstart2066-create/prismdex": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-09-30T05:51:11Z",
+      "description": "PrismDEX — Cross-Chain Multi-Hop Liquidity Routing Engine & Concentrated Liquidity Visualizer with slippage optimization and MEV protection.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-10-07T06:57:51Z",
+      "repository": "freshstart2066-create/prismdex",
+      "repository_url": "https://github.com/freshstart2066-create/prismdex",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "mev-execution"
+      ],
+      "triage_priority_0_to_5": 2,
+      "triage_reasons": [
+        "dépôt récent",
+        "description publique"
+      ]
+    },
+    "gsmart2k/EGIDE": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-13T13:13:28Z",
+      "description": "Intent-aware security infrastructure that protects autonomous AI agents by enforcing human-approved permissions, preventing unauthorized transactions, and securing onchain execution.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-13T15:40:38Z",
+      "repository": "gsmart2k/EGIDE",
+      "repository_url": "https://github.com/gsmart2k/EGIDE",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "holistis/agent-receipt-verify": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-16T20:42:57Z",
+      "description": "MCP server and library for independent verification of agent payment and outcome receipts. Written against the published specs, tested against the protocol authors' own vectors.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T16:53:49Z",
+      "repository": "holistis/agent-receipt-verify",
+      "repository_url": "https://github.com/holistis/agent-receipt-verify",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "agent-payments"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "hxuvsck/minimal-account-abstraction": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-09-09T05:33:30Z",
+      "description": "Lesson for account abstraction on ETH and ZKSync for signing TX whatever user wants",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-18T01:26:56Z",
+      "repository": "hxuvsck/minimal-account-abstraction",
+      "repository_url": "https://github.com/hxuvsck/minimal-account-abstraction",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "wallet-usability"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "indraprhmbd/Kriptografi-MedVault": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-05T04:09:00Z",
+      "description": "MedVault Crypto: Medical Record Cryptography, Steganography, and Blockchain Audit System",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T05:29:31Z",
+      "repository": "indraprhmbd/Kriptografi-MedVault",
+      "repository_url": "https://github.com/indraprhmbd/Kriptografi-MedVault",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "jxhnsebastian/achilles": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-17T04:24:11Z",
+      "description": "Achilles is a cross-chain liquidity automation platform for Solana and Sui—managing concentrated-liquidity positions across Orca, Raydium, Bluefin, and Cetus with automated rebalancing, strategy execution, monitoring, and an operator dashboard.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-17T04:24:57Z",
+      "repository": "jxhnsebastian/achilles",
+      "repository_url": "https://github.com/jxhnsebastian/achilles",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "crosschain-fragmentation"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "kerne-protocol/reserve-circuit-breaker": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-14T02:26:09Z",
+      "description": "Reactive contract that trips an on-chain alarm when a stablecoin's reserves fall below its supply. Reactive Omni Buildathon, Set It and Forget It. Lasna + Base Sepolia.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-14T20:25:10Z",
+      "repository": "kerne-protocol/reserve-circuit-breaker",
+      "repository_url": "https://github.com/kerne-protocol/reserve-circuit-breaker",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "stablecoin-resilience"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "ksuklondon/oracle-mongo-neo4j-blockchain-database-models-comparison": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-14T17:25:16Z",
+      "description": "The same order problem in Oracle, MongoDB and Neo4j + educational blockchain tamper detection",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-14T17:33:49Z",
+      "repository": "ksuklondon/oracle-mongo-neo4j-blockchain-database-models-comparison",
+      "repository_url": "https://github.com/ksuklondon/oracle-mongo-neo4j-blockchain-database-models-comparison",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "oracle-integrity"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "lydenofficial/skills": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-20T15:52:36Z",
+      "description": "A collection of agent skills: bug bounty hunting, smart contract and protocol security auditing, UI/design, human-voice writing, and on-chain wallet safety.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T16:04:29Z",
+      "repository": "lydenofficial/skills",
+      "repository_url": "https://github.com/lydenofficial/skills",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "onchain-risk"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "maxwelldagadu/EasyPay": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-19T12:14:09Z",
+      "description": "AI-powered agentic payment platform",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T16:27:01Z",
+      "repository": "maxwelldagadu/EasyPay",
+      "repository_url": "https://github.com/maxwelldagadu/EasyPay",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "agent-payments"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "michaelllowenstein/ledgerlab": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-19T21:22:48Z",
+      "description": "A real working **single-authority, tamper-evident** ledger in NestJS, TypeScript, Node.js built-in SQLite, with vanilla HTML/CSS/JS client. Rather than a decentralized blockchain, this tool teaches the cryptographic building blocks underlying blockchains and the difference between cryptographic history, distributed con",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-19T21:22:50Z",
+      "repository": "michaelllowenstein/ledgerlab",
+      "repository_url": "https://github.com/michaelllowenstein/ledgerlab",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "murisco/near-autonomous-research": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-13T12:36:08Z",
+      "description": "An autonomous AI-powered onchain research business built for the NEAR Hackathon. It researches blockchain projects, generates and sells intelligence reports, manages operational costs, and automates revenue distribution using NEAR infrastructure.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-14T07:35:33Z",
+      "repository": "murisco/near-autonomous-research",
+      "repository_url": "https://github.com/murisco/near-autonomous-research",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "nirholas/nirholas": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-10T22:42:27Z",
+      "description": "Open-source tooling for 3D AI agents, agent payments and on-chain builders. Catalog of every public repository.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://three.ws",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T09:19:39Z",
+      "repository": "nirholas/nirholas",
+      "repository_url": "https://github.com/nirholas/nirholas",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "agent-payments"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "ohmbrewerglorify/stablecoin-compare": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-17T08:29:53Z",
+      "description": "Stablecoin comparison notes — reserves, yields and depeg history.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://go-release.xyz/",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-17T08:31:07Z",
+      "repository": "ohmbrewerglorify/stablecoin-compare",
+      "repository_url": "https://github.com/ohmbrewerglorify/stablecoin-compare",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "stablecoin-resilience"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "pprofithacks-hub/Apex-Mev-Shield": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-10T10:54:09Z",
+      "description": "Production-ready MEV protection and slippage guard for automated trading systems.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-10-10T10:57:53Z",
+      "repository": "pprofithacks-hub/Apex-Mev-Shield",
+      "repository_url": "https://github.com/pprofithacks-hub/Apex-Mev-Shield",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "mev-execution"
+      ],
+      "triage_priority_0_to_5": 2,
+      "triage_reasons": [
+        "dépôt récent",
+        "description publique"
+      ]
+    },
+    "ralphcompute-dev/Ralph-Compute": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-16T23:58:25Z",
+      "description": "Building AI compute infrastructure on Robinhood Chain. Inference APIs, developer tools & onchain-powered compute.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-17T00:16:53Z",
+      "repository": "ralphcompute-dev/Ralph-Compute",
+      "repository_url": "https://github.com/ralphcompute-dev/Ralph-Compute",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "red-cup-engineering/account-abstraction-engineering-services-section": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-19T14:24:30Z",
+      "description": "ERC-4337 account-abstraction arena; bundling, sponsorship, and technical account-provisioning actors live below this locus.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T13:09:04Z",
+      "repository": "red-cup-engineering/account-abstraction-engineering-services-section",
+      "repository_url": "https://github.com/red-cup-engineering/account-abstraction-engineering-services-section",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "wallet-usability"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "safalagr/RBAC-ABAC-Enterprise-System": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-18T07:03:31Z",
+      "description": "An advanced, production-grade enterprise authorization platform. It demonstrates state-of-the-art access governance by combining Hierarchical RBAC, dynamic ABAC, 4-Eyes Dual-Control workflows, and a blockchain-style cryptographically chained SHA-256 audit ledger.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-19T16:04:41Z",
+      "repository": "safalagr/RBAC-ABAC-Enterprise-System",
+      "repository_url": "https://github.com/safalagr/RBAC-ABAC-Enterprise-System",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "sawi57003-ops/ubc-agentpay": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-14T01:12:42Z",
+      "description": "AgentPay — an AI agent that pays per API call in USDC (x402) with on-chain budget guardrails. UBC 2026, Agentic Payments and AI track.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T09:00:30Z",
+      "repository": "sawi57003-ops/ubc-agentpay",
+      "repository_url": "https://github.com/sawi57003-ops/ubc-agentpay",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "agent-payments"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "shabbiryk/institutional-ai-fieldnotes": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-09T16:47:11Z",
+      "description": "Practical notes on AI agents, institutional workflows and onchain infrastructure. Sources, trade-offs and questions worth testing.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-15T03:30:14Z",
+      "repository": "shabbiryk/institutional-ai-fieldnotes",
+      "repository_url": "https://github.com/shabbiryk/institutional-ai-fieldnotes",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "sparkx313/blockchain-defi-yield-optimizer": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-19T19:28:49Z",
+      "description": "DeFi yield farming strategy optimizer with MEV protection and gas optimization",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-10-19T19:28:57Z",
+      "repository": "sparkx313/blockchain-defi-yield-optimizer",
+      "repository_url": "https://github.com/sparkx313/blockchain-defi-yield-optimizer",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "mev-execution"
+      ],
+      "triage_priority_0_to_5": 2,
+      "triage_reasons": [
+        "dépôt récent",
+        "description publique"
+      ]
+    },
+    "stash21x-crypto/foundry-account-abstraction": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-20T14:54:10Z",
+      "description": "Account Abstraction Contract built using Foundry",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T14:56:26Z",
+      "repository": "stash21x-crypto/foundry-account-abstraction",
+      "repository_url": "https://github.com/stash21x-crypto/foundry-account-abstraction",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "wallet-usability"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "stellar-abstraction-labs/stellar-account-abstraction-sdk": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-10-06T22:54:51Z",
+      "description": "Social login account abstraction SDK for Stellar",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-18T14:21:22Z",
+      "repository": "stellar-abstraction-labs/stellar-account-abstraction-sdk",
+      "repository_url": "https://github.com/stellar-abstraction-labs/stellar-account-abstraction-sdk",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "wallet-usability"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-01T20:10:06Z",
+      "description": "A trigger-based cryptographic audit system implemented natively in Oracle PL/SQL using DBMS_CRYPTO SHA-256 hash chains to make historical INSERT, UPDATE, and DELETE tampering mathematically detectable without an external blockchain.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-01T20:14:36Z",
+      "repository": "vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail",
+      "repository_url": "https://github.com/vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "oracle-integrity"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "voidtrace-ai/crypto-liquidity-intelligence": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-08-28T20:36:52Z",
+      "description": "Crypto Liquidity Intelligence is an open-source framework for tracking and scoring cross-chain liquidity, stablecoin activity, capital rotation, DEX activity, bridge flows, and ecosystem momentum to provide a clearer view of liquidity trends and market movement across blockchain ecosystems.",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://voidtrace-ai.github.io/crypto-liquidity-intelligence/",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-19T17:52:41Z",
+      "repository": "voidtrace-ai/crypto-liquidity-intelligence",
+      "repository_url": "https://github.com/voidtrace-ai/crypto-liquidity-intelligence",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "crosschain-fragmentation"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "wrappedcbdc/strails_docs": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-07-23T17:10:32Z",
+      "description": "Stablecoin Orchestration and Orderbook Engine for cNGN, USDC, USDT stablecoin that enables onramp and offramp to naira fiat, P2P onchain FX trading, multi-chain wallet infrastructure, and transaction management",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "https://docs.strails.co",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-03T14:11:17Z",
+      "repository": "wrappedcbdc/strails_docs",
+      "repository_url": "https://github.com/wrappedcbdc/strails_docs",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 4,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique",
+        "page projet déclarée"
+      ]
+    },
+    "zdne/paidbyagent-site": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-09-21T16:06:34Z",
+      "description": "Static site for paidbyagent.com — daily agentic-payments briefings, published from the briefed pipeline",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T12:33:54Z",
+      "repository": "zdne/paidbyagent-site",
+      "repository_url": "https://github.com/zdne/paidbyagent-site",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "agent-payments"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    },
+    "zxfae/TIL": {
+      "competitor_comparison_status": "NOT_DONE",
+      "created_at": "2026-11-10T23:36:49Z",
+      "description": "Today I Learned: game theory, cryptography and blockchain protocols",
+      "first_seen": "2026-11-20T16:59:30+00:00",
+      "homepage_claim": "",
+      "innovation_assessment": "NOT_DONE",
+      "last_seen": "2026-11-20T16:59:30+00:00",
+      "pushed_at": "2026-11-20T14:47:16Z",
+      "repository": "zxfae/TIL",
+      "repository_url": "https://github.com/zxfae/TIL",
+      "status": "UNVERIFIED_RESEARCH_LEAD",
+      "token_status": "UNKNOWN_NOT_CHECKED",
+      "topics_to_review": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_priority_0_to_5": 3,
+      "triage_reasons": [
+        "dépôt récent",
+        "activité récente",
+        "description publique"
+      ]
+    }
+  }
+}
