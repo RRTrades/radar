@@ -256,4 +256,5 @@ def main():
 
 
 if __name__ == "__main__":
+    send("TEST RADAR : connexion Telegram réussie")
     main()
