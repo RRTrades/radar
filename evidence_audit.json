@@ -1,0 +1,423 @@
+{
+  "approved_for_buy": 0,
+  "audit_scope": "GitHub repository existence, root file names and recent commit links only",
+  "audited_at_utc": "2026-11-20T21:34:42+00:00",
+  "audited_count": 12,
+  "entries": [
+    {
+      "audited_at_utc": "2026-11-20T21:34:42+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/0xgoryu/security-research-lab",
+        "https://github.com/0xgoryu/security-research-lab/commit/7a2144a6b2b21e0ad41a6b1b2499cfb8d7394e9b",
+        "https://github.com/0xgoryu/security-research-lab/commit/c91a5bfbbf7e5cacc76bdc4e2ce193c73b4be396"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "0xgoryu/security-research-lab",
+      "repository_url": "https://github.com/0xgoryu/security-research-lab",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:34:42+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/aaron11998/mev-protection-scanner",
+        "https://github.com/aaron11998/mev-protection-scanner/commit/8540a1069a72b7eb2776c1270d471e3043e85b2d",
+        "https://github.com/aaron11998/mev-protection-scanner/commit/7f68956e5c761a11de2b3cb0c7c010ccd26bb3a1",
+        "https://github.com/aaron11998/mev-protection-scanner/commit/b18343d068edc77a1fcc83886a6b4a0375816282"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": false,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "aaron11998/mev-protection-scanner",
+      "repository_url": "https://github.com/aaron11998/mev-protection-scanner",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:34:42+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/andedauda2-alt/Anagu",
+        "https://github.com/andedauda2-alt/Anagu/commit/c4a64e5f431c99f7b60cb73a23751e8de9dae7e1",
+        "https://github.com/andedauda2-alt/Anagu/commit/199e9a4edaa4b044431078e24b1747c0c3ebc2b4",
+        "https://github.com/andedauda2-alt/Anagu/commit/f78e849ba438e6744bcfab12ca44b6cbbfa532d9"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": false,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "andedauda2-alt/Anagu",
+      "repository_url": "https://github.com/andedauda2-alt/Anagu",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:34:42+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Anondevnet/contract-auditor",
+        "https://github.com/Anondevnet/contract-auditor/commit/11776ce9bc3e9f889c0d85bd057db2dbf37bc39d"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 1
+      },
+      "repository": "Anondevnet/contract-auditor",
+      "repository_url": "https://github.com/Anondevnet/contract-auditor",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:34:42+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/apelevel/whisper",
+        "https://github.com/apelevel/whisper/commit/a63fb9b949f31dd210e6cf463171b975f1920aa1",
+        "https://github.com/apelevel/whisper/commit/50e9c7995b1822e316015253e73f95a61a6c451a",
+        "https://github.com/apelevel/whisper/commit/94411739dbce536b8735dcf6d7adcef5d73d382b"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "apelevel/whisper",
+      "repository_url": "https://github.com/apelevel/whisper",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:34:42+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/api-evangelist/redstone",
+        "https://github.com/api-evangelist/redstone/commit/4b731253c489b4b03305bf6715ac86bc92ebbbe5",
+        "https://github.com/api-evangelist/redstone/commit/aed72347236ee5b2e8a68c360ed9a217bb5c42f7"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "api-evangelist/redstone",
+      "repository_url": "https://github.com/api-evangelist/redstone",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:34:42+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/apoorv-xs/valence-sol-capital-agent",
+        "https://github.com/apoorv-xs/valence-sol-capital-agent/commit/8da6a18e038786dc9c7bfb2d5104ad6ad6c2dee8",
+        "https://github.com/apoorv-xs/valence-sol-capital-agent/commit/e39117fac1305a10c60fa922855091bf71664d96",
+        "https://github.com/apoorv-xs/valence-sol-capital-agent/commit/bbf7a2253c1c3801a9150f7247978dd615b47b77"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "apoorv-xs/valence-sol-capital-agent",
+      "repository_url": "https://github.com/apoorv-xs/valence-sol-capital-agent",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:34:42+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Candra0x6/sake",
+        "https://github.com/Candra0x6/sake/commit/5b4c973dd4c83bd4675b148bf5b45581acc52c4e",
+        "https://github.com/Candra0x6/sake/commit/471702360a491bd4f5ccb181a8d7f3e86068ad89"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "Candra0x6/sake",
+      "repository_url": "https://github.com/Candra0x6/sake",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:34:42+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/cukco/agentP_demo",
+        "https://github.com/cukco/agentP_demo/commit/9ee9eac0bde95da573acf2dc30d0ab035ce3b7f3"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 1
+      },
+      "repository": "cukco/agentP_demo",
+      "repository_url": "https://github.com/cukco/agentP_demo",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:34:42+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/dalsc-dev/leak-sentinel",
+        "https://github.com/dalsc-dev/leak-sentinel/commit/5179058f4d8fde2978d6ab0584be4e2f6d1fc8fd"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 1,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 1
+      },
+      "repository": "dalsc-dev/leak-sentinel",
+      "repository_url": "https://github.com/dalsc-dev/leak-sentinel",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:34:42+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/DhruPtel/UBC-2026-Probability-Oracle",
+        "https://github.com/DhruPtel/UBC-2026-Probability-Oracle/commit/770fb7ba2371d2b33781e5b63b331579189e8475",
+        "https://github.com/DhruPtel/UBC-2026-Probability-Oracle/commit/c220b5d03ce5d5048cef604612544e9ccdd3bbf6",
+        "https://github.com/DhruPtel/UBC-2026-Probability-Oracle/commit/8b05895b19256cf874ac6b0f3612e317c3f2170e"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "DhruPtel/UBC-2026-Probability-Oracle",
+      "repository_url": "https://github.com/DhruPtel/UBC-2026-Probability-Oracle",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:34:42+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/DrianOps/BinaryLiquid",
+        "https://github.com/DrianOps/BinaryLiquid/commit/3c10befb500b5e4db7094dd0eefafd7756312607",
+        "https://github.com/DrianOps/BinaryLiquid/commit/9fe71a7303ee7dfd86c7e4ce5c2a79ca0a810648",
+        "https://github.com/DrianOps/BinaryLiquid/commit/df952dc060a8edde459e10e9f5973e0c0e471cbb"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "DrianOps/BinaryLiquid",
+      "repository_url": "https://github.com/DrianOps/BinaryLiquid",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    }
+  ],
+  "error_count": 0,
+  "errors": [],
+  "schema_version": 1,
+  "selected_count": 12
+}
