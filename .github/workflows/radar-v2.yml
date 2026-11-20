@@ -29,7 +29,7 @@ jobs:
       - name: Install
         run: pip install -r requirements-v2.txt
       - name: Test
-        run: python -m unittest test_radar_v2 test_innovation_watch test_qualify_research test_evidence_audit test_fundamental_ai test_token_identity -v
+        run: python -m unittest test_radar_v2 test_innovation_watch test_qualify_research test_evidence_audit test_fundamental_ai test_token_identity test_token_first -v
       - name: Scan and review queue
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
@@ -41,6 +41,8 @@ jobs:
           if [ "$DRY_RUN_INPUT" = "true" ]; then ARGS="$ARGS --dry-run"; fi
           if [ "$EVENT_SCHEDULE" = '13 5 * * *' ]; then ARGS="$ARGS --daily"; fi
           python radar_v2.py $ARGS
+      - name: Token-first market discovery (each scan)
+        run: python token_first.py
       - name: Innovation evidence discovery (daily or manual)
         if: github.event_name == 'workflow_dispatch' || github.event.schedule == '13 5 * * *'
         env:
@@ -76,6 +78,7 @@ jobs:
             evidence_audit_report.json
             fundamental_ai_report.json
             token_identity_report.json
+            token_first_report.json
           if-no-files-found: ignore
           retention-days: 14
       - name: Persist research state
@@ -88,6 +91,7 @@ jobs:
           if [ -f innovation_state.json ]; then git add innovation_state.json; fi
           if [ -f fundamental_ai_state.json ]; then git add fundamental_ai_state.json; fi
           if [ -f token_identity_state.json ]; then git add token_identity_state.json; fi
+          if [ -f token_first_state.json ]; then git add token_first_state.json; fi
           if ! git diff --cached --quiet; then
             git commit -m 'chore: update radar v2 research state [skip ci]'
             git push
