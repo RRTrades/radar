@@ -371,6 +371,119 @@
       "repository": "dalsc-dev/leak-sentinel",
       "source_readme_available": true,
       "token_contract_verified": false
+    },
+    "dhruptel/ubc-2026-probability-oracle": {
+      "analyzed_at_utc": "2026-11-20T22:59:53+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [],
+            "missing_evidence": "Independent usage statistics, third‑party analytics, or user testimonials",
+            "rationale": "Demo links and transaction hashes are unverified and not corroborated by external usage metrics.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [],
+            "missing_evidence": "Objective comparison studies or head‑to‑head tests",
+            "rationale": "Potential competitors are listed without analysis of relative performance or features.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [],
+            "missing_evidence": "Benchmarks, audits, or peer reviews from independent entities",
+            "rationale": "Claims of unique architecture and low‑cost gas usage lack third‑party validation.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [],
+            "missing_evidence": "Audited financial models or on‑chain fee data",
+            "rationale": "No verifiable data on token economics, fee collection, or value capture mechanisms.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [],
+            "missing_evidence": "Independent market analysis or user demand data",
+            "rationale": "No external sources confirm a genuine need for this oracle solution.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "The repository claims to provide a probability oracle linking Gemini prediction markets to Arc testnet contracts, with AI agent insurance demos, but no independent evidence verifies the problem addressed, technical edge, competition, token economics, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "DhruPtel/UBC-2026-Probability-Oracle",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
+    "ekenmisireyakakum/anagu": {
+      "analyzed_at_utc": "2026-11-20T22:59:53+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/Ekenmisireyakakum/Anagu#readme"
+            ],
+            "missing_evidence": "Independent adoption reports, user metrics, or case studies",
+            "rationale": "No external proof of pilots, users, or deployments beyond the repo itself",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/tacoinfra/harbinger",
+              "https://github.com/decentralizedlabs/uniswap-v3-price-feed"
+            ],
+            "missing_evidence": "Independent comparison of features, performance, and adoption with listed competitors",
+            "rationale": "Only unverified search matches listed; no side‑by‑side evaluation provided",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/Ekenmisireyakakum/Anagu#readme"
+            ],
+            "missing_evidence": "Performance/security audits, comparative technical analyses",
+            "rationale": "No benchmarks, audits, or third‑party validation of the claimed tech stack advantages",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/Ekenmisireyakakum/Anagu"
+            ],
+            "missing_evidence": "Token specifications, whitepaper, or market data",
+            "rationale": "Repository contains no token contract or economic model to assess value capture",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/Ekenmisireyakakum/Anagu#readme"
+            ],
+            "missing_evidence": "Independent studies or reports on Lagos land title challenges",
+            "rationale": "No external data confirming the land title registration problem or need for blockchain solution",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "ANAGU claims a blockchain‑GIS‑NFT land title system for Lagos, but no independent evidence supports its problem relevance, technical edge, competitor standing, token economics, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "Ekenmisireyakakum/Anagu",
+      "source_readme_available": true,
+      "token_contract_verified": false
     }
   },
   "schema_version": 1
