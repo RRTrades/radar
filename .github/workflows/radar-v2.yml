@@ -69,3 +69,4 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m 'chore: update radar v2 research state [skip ci]'
             git push
+          fi
