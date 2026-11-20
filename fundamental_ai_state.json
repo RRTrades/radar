@@ -1,0 +1,128 @@
+{
+  "entries": {
+    "aaron11998/mev-protection-scanner": {
+      "analyzed_at_utc": "2026-11-20T21:59:17+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/aaron11998/mev-protection-scanner/commit/b18343d068edc77a1fcc83886a6b4a0375816282"
+            ],
+            "missing_evidence": "User testimonials, deployment logs, or third‑party references to active usage.",
+            "rationale": "No evidence of users, deployments, or integrations beyond the code repository itself.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/flashbots/mev-boost"
+            ],
+            "missing_evidence": "Side‑by‑side feature or effectiveness comparison with listed competitors.",
+            "rationale": "The repository lists potential competitors but offers no analysis or evidence of superiority or differentiation.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/aaron11998/mev-protection-scanner/commit/8540a1069a72b7eb2776c1270d471e3043e85b2d"
+            ],
+            "missing_evidence": "Performance metrics, comparative tests, or peer reviews.",
+            "rationale": "No benchmark data or third‑party validation of the scanner’s performance versus alternatives.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/aaron11998/mev-protection-scanner"
+            ],
+            "missing_evidence": "Tokenomics documentation, smart‑contract address, or financial model.",
+            "rationale": "No token contract, economic model, or revenue mechanism is presented in the repository.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/aaron11998/mev-protection-scanner"
+            ],
+            "missing_evidence": "Independent analysis or industry reports describing the sandwich/fronation risk addressed.",
+            "rationale": "No external sources confirm the existence or significance of the claimed MEV risk detection problem.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "The repo offers a Cloudflare Worker MEV scanner but provides no independent evidence of the problem it solves, technical superiority, competitor context, token economics, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "aaron11998/mev-protection-scanner",
+      "source_readme_available": false,
+      "token_contract_verified": false
+    },
+    "andedauda2-alt/anagu": {
+      "analyzed_at_utc": "2026-11-20T21:59:17+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/andedauda2-alt/Anagu"
+            ],
+            "missing_evidence": "Adoption metrics, case studies, stakeholder endorsements",
+            "rationale": "No evidence of users, pilots, partnerships, or real‑world deployment",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/tacoinfra/harbinger",
+              "https://github.com/decentralizedlabs/uniswap-v3-price-feed"
+            ],
+            "missing_evidence": "Feature/price/utility comparison with identified competitors",
+            "rationale": "Only raw search matches listed; no analysis of how this project differs or improves on them",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/andedauda2-alt/Anagu"
+            ],
+            "missing_evidence": "Technical specifications, performance metrics, peer review",
+            "rationale": "No benchmarks, architecture details, or comparative performance data provided",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/andedauda2-alt/Anagu"
+            ],
+            "missing_evidence": "Token contract address, tokenomics, revenue model",
+            "rationale": "No token contract, economics, or value‑capture mechanism disclosed",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/andedauda2-alt/Anagu"
+            ],
+            "missing_evidence": "Problem statement, user pain points, regulatory analysis",
+            "rationale": "No independent evidence defining or validating the land title problem addressed",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "Project claims a blockchain‑GIS‑NFT oracle for Nigerian land titles, but no independent evidence supports the problem, technical edge, competitor context, token economics, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "andedauda2-alt/Anagu",
+      "source_readme_available": false,
+      "token_contract_verified": false
+    }
+  },
+  "schema_version": 1
+}
