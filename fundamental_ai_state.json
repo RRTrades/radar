@@ -122,6 +122,68 @@
       "repository": "andedauda2-alt/Anagu",
       "source_readme_available": false,
       "token_contract_verified": false
+    },
+    "apelevel/whisper": {
+      "analyzed_at_utc": "2026-11-20T22:20:40+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/apelevel/whisper#readme"
+            ],
+            "missing_evidence": "Independent usage metrics, case studies, or community reports.",
+            "rationale": "No evidence of real users, integrations, or adoption beyond the repository itself.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/tacoinfra/harbinger",
+              "https://github.com/decentralizedlabs/uniswap-v3-price-feed"
+            ],
+            "missing_evidence": "Independent comparison showing how this project differs from or outperforms listed competitors.",
+            "rationale": "Only unvalidated search matches are listed; no evidence of direct competition or superiority.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/apelevel/whisper#readme"
+            ],
+            "missing_evidence": "Benchmarks, audits, or comparative studies of the infrastructure.",
+            "rationale": "No third‑party evaluation of the claimed technical features or safeguards.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/apelevel/whisper#readme"
+            ],
+            "missing_evidence": "Token specifications, economic models, or third‑party analysis of value capture.",
+            "rationale": "No token contract, economics, or value‑capture mechanisms are documented or verified.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/apelevel/whisper#readme"
+            ],
+            "missing_evidence": "Independent analysis or reports describing the Whisper Market problem.",
+            "rationale": "No external sources verify a market need or problem being solved.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "The repository claims to provide open‑source infrastructure for a Whisper Market linking game events to Polygon, but there is no independent evidence of a real problem, technical edge, competition, token economics, or user adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "apelevel/whisper",
+      "source_readme_available": true,
+      "token_contract_verified": false
     }
   },
   "schema_version": 1

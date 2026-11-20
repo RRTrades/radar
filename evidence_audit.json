@@ -1,8 +1,8 @@
 {
   "approved_for_buy": 0,
   "audit_scope": "GitHub repository existence, root file names and recent commit links only",
-  "audited_at_utc": "2026-11-20T21:59:04+00:00",
-  "audited_count": 12,
+  "audited_at_utc": "2026-11-20T22:20:26+00:00",
+  "audited_count": 11,
   "entries": [
     {
       "audited_at_utc": "2026-11-20T21:34:42+00:00",
@@ -1247,12 +1247,398 @@
       "repository_url": "https://github.com/sparkx313/blockchain-defi-yield-optimizer",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/stash21x-crypto/foundry-account-abstraction",
+        "https://github.com/stash21x-crypto/foundry-account-abstraction/commit/9963e1adf432f7526e950fe778c48bcdb8d3e451",
+        "https://github.com/stash21x-crypto/foundry-account-abstraction/commit/b5a8d5bac2161808dbdc4031935c9e52baa81c83",
+        "https://github.com/stash21x-crypto/foundry-account-abstraction/commit/1f01505b65d60d360b42749d91f701bc00aaf482"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "stash21x-crypto/foundry-account-abstraction",
+      "repository_url": "https://github.com/stash21x-crypto/foundry-account-abstraction",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/stellar-abstraction-labs/stellar-account-abstraction-sdk",
+        "https://github.com/stellar-abstraction-labs/stellar-account-abstraction-sdk/commit/066cfec856a0b80920afdded4c4e51b40ccbb6c1",
+        "https://github.com/stellar-abstraction-labs/stellar-account-abstraction-sdk/commit/bdb8deff1bcccbfd6132497057e008ced00bb29e",
+        "https://github.com/stellar-abstraction-labs/stellar-account-abstraction-sdk/commit/2166f680f9c232a6b24d6f30ca590c0606dd36d9"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 1,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "stellar-abstraction-labs/stellar-account-abstraction-sdk",
+      "repository_url": "https://github.com/stellar-abstraction-labs/stellar-account-abstraction-sdk",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/STUSMA/Lofd",
+        "https://github.com/STUSMA/Lofd/commit/8c2b50edb71ea0f7a207a33d79aadb2d412b8054",
+        "https://github.com/STUSMA/Lofd/commit/10498a78d3c7b12bad94c698d5d430f08994aedd"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 2,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "STUSMA/Lofd",
+      "repository_url": "https://github.com/STUSMA/Lofd",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Tgood91/Monad-OPSTACK-DEX",
+        "https://github.com/Tgood91/Monad-OPSTACK-DEX/commit/0c6e6b2c8f8d2869e7a51eb1543d1e99880b957f",
+        "https://github.com/Tgood91/Monad-OPSTACK-DEX/commit/2af47be7dd31bb19e46eee7ec0048d6ba52de0e7",
+        "https://github.com/Tgood91/Monad-OPSTACK-DEX/commit/4dd422844fe00faca1130ab561d3c90e89747e09"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 1,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Tgood91/Monad-OPSTACK-DEX",
+      "repository_url": "https://github.com/Tgood91/Monad-OPSTACK-DEX",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Tom910117/cex-dex-arb-engine-public",
+        "https://github.com/Tom910117/cex-dex-arb-engine-public/commit/b75c7c11a0bf2e11bbbf3b0809330fba9f9ef86a"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": false,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 1
+      },
+      "repository": "Tom910117/cex-dex-arb-engine-public",
+      "repository_url": "https://github.com/Tom910117/cex-dex-arb-engine-public",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Trustlink-Labs/TSN-Protocol",
+        "https://github.com/Trustlink-Labs/TSN-Protocol/commit/0591c0575b1c51e6d4496b4b69c706c6846e97a1",
+        "https://github.com/Trustlink-Labs/TSN-Protocol/commit/bf1b9d2817fcb93a9b9ffb38050eba332e200e20",
+        "https://github.com/Trustlink-Labs/TSN-Protocol/commit/b759cd091c66bfae9850c4dcf6fcb623b873871f"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 1,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Trustlink-Labs/TSN-Protocol",
+      "repository_url": "https://github.com/Trustlink-Labs/TSN-Protocol",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail",
+        "https://github.com/vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail/commit/ea757fd22dba92fbb2d10586513f4b37f09f7b35"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 1
+      },
+      "repository": "vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail",
+      "repository_url": "https://github.com/vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/ValentinHerrmann/Examance",
+        "https://github.com/ValentinHerrmann/Examance/commit/0730ad7b2eba61cd4fe0d8139a0d779d638e5b70",
+        "https://github.com/ValentinHerrmann/Examance/commit/a36bffc78d82d0b7019c1d6420e687ad45acc315",
+        "https://github.com/ValentinHerrmann/Examance/commit/02e0f88b5fe1a857a29d0d288f209e8e7178237d"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "ValentinHerrmann/Examance",
+      "repository_url": "https://github.com/ValentinHerrmann/Examance",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/vjk7989/agent-audit",
+        "https://github.com/vjk7989/agent-audit/commit/5d790985f6b5847c7c4a30789522c617c2971b7a",
+        "https://github.com/vjk7989/agent-audit/commit/0fe8ddbf0add2f301f529d89d449375f31a7391b",
+        "https://github.com/vjk7989/agent-audit/commit/7c84235c4dfc0bb1e3e6d2d2c9669b7fe7e7f431"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "vjk7989/agent-audit",
+      "repository_url": "https://github.com/vjk7989/agent-audit",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/voidtrace-ai/crypto-liquidity-intelligence",
+        "https://github.com/voidtrace-ai/crypto-liquidity-intelligence/commit/fa497602dde57090df5ec7bde06540e9baf48198",
+        "https://github.com/voidtrace-ai/crypto-liquidity-intelligence/commit/84d8e9e5bae02fed3787d27bc9b99c06c843ed41",
+        "https://github.com/voidtrace-ai/crypto-liquidity-intelligence/commit/b0b057ba8e1901f847392df85a505c00ddf750d5"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "voidtrace-ai/crypto-liquidity-intelligence",
+      "repository_url": "https://github.com/voidtrace-ai/crypto-liquidity-intelligence",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/WyrmMoonPassage/stablecoin-compare",
+        "https://github.com/WyrmMoonPassage/stablecoin-compare/commit/5e95f4fdbd91e1420e724f4b3b48f93b905ce4cf",
+        "https://github.com/WyrmMoonPassage/stablecoin-compare/commit/17c6f2dcf9bbaf2901178cfa1324f84752fa9324",
+        "https://github.com/WyrmMoonPassage/stablecoin-compare/commit/df0e085ec19114b94d3dd8a9008cedd1fed7df3b"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "WyrmMoonPassage/stablecoin-compare",
+      "repository_url": "https://github.com/WyrmMoonPassage/stablecoin-compare",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
     }
   ],
-  "error_count": 0,
-  "errors": [],
-  "remaining_unaudited_priority": 12,
+  "error_count": 1,
+  "errors": [
+    {
+      "detail": "GitHub API request failed: HTTPError",
+      "reason": "RuntimeError",
+      "repository": "ZKRP-Collective/orangehail"
+    }
+  ],
+  "remaining_unaudited_priority": 1,
   "schema_version": 2,
   "selected_count": 12,
-  "total_audited_unique": 36
+  "total_audited_unique": 47
 }
