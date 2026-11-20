@@ -184,6 +184,71 @@
       "repository": "apelevel/whisper",
       "source_readme_available": true,
       "token_contract_verified": false
+    },
+    "cukco/agentp_demo": {
+      "analyzed_at_utc": "2026-11-20T22:34:42+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/cukco/agentP_demo#readme"
+            ],
+            "missing_evidence": "Independent usage metrics, audits, or external user endorsements.",
+            "rationale": "Claims of live demo and usage lack independent verification such as usage statistics, third‑party testimonials, or audit logs.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/alsk1992/CloddsBot",
+              "https://github.com/FinAegis/core-banking-prototype-laravel",
+              "https://github.com/wevm/mppx",
+              "https://github.com/tempoxyz/mpp-specs",
+              "https://github.com/tempoxyz/mpp-rs"
+            ],
+            "missing_evidence": "Objective comparison metrics against verified competing solutions.",
+            "rationale": "Only a list of unrelated GitHub projects is provided; no comparative analysis or evidence of superiority over competitors.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/cukco/agentP_demo#readme"
+            ],
+            "missing_evidence": "Independent performance tests, security audits, or peer‑reviewed analyses.",
+            "rationale": "No external benchmarks, audits, or performance data compare the claimed escrow/verification mechanism to alternatives.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/cukco/agentP_demo#readme"
+            ],
+            "missing_evidence": "Verified token contract, tokenomics documentation, and market activity data.",
+            "rationale": "No token contract, economic model, or market data is presented to substantiate any token‑value capture claim.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/cukco/agentP_demo#readme"
+            ],
+            "missing_evidence": "Independent market research or user surveys confirming the problem.",
+            "rationale": "Project description asserts a need for AI payment escrow, but no third‑party validation of the problem’s existence or demand is provided.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "AgentPay claims escrow and verification for AI payments on Avalanche Fuji, but no independent evidence supports problem relevance, technical edge, competition, token economics, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "cukco/agentP_demo",
+      "source_readme_available": true,
+      "token_contract_verified": false
     }
   },
   "schema_version": 1

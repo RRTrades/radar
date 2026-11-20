@@ -2,7 +2,7 @@
   "entries": {
     "aaron11998/mev-protection-scanner": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-20T22:21:26+00:00",
+      "checked_at_utc": "2026-11-20T22:35:28+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -15,7 +15,7 @@
     },
     "andedauda2-alt/anagu": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-20T22:21:26+00:00",
+      "checked_at_utc": "2026-11-20T22:35:28+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -28,7 +28,7 @@
     },
     "apelevel/whisper": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-20T22:21:26+00:00",
+      "checked_at_utc": "2026-11-20T22:35:28+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -37,6 +37,19 @@
       "project_source_url": "https://github.com/apelevel/whisper#readme",
       "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
       "repository": "apelevel/whisper",
+      "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
+    },
+    "cukco/agentp_demo": {
+      "buy_approved": false,
+      "checked_at_utc": "2026-11-20T22:35:28+00:00",
+      "contract_claims": [],
+      "contract_claims_found": 0,
+      "dev_identity_verified": false,
+      "identity_verified": false,
+      "investor_identity_verified": false,
+      "project_source_url": "https://github.com/cukco/agentP_demo#readme",
+      "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
+      "repository": "cukco/agentP_demo",
       "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
     }
   },
