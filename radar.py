@@ -69,7 +69,7 @@ def match_problem(text, problems):
 # ---------------- COUCHE B : candidats ----------------
 def fetch_candidates(state, problems):
     data = get("https://api.llama.fi/protocols") or []
-  print(f"DEFILLAMA : {len(data)} protocoles reçus")
+    print(f"DEFILLAMA : {len(data)} protocoles reçus")
     now = time.time()
     out = []
     for p in data:
