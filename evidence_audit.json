@@ -1,7 +1,7 @@
 {
   "approved_for_buy": 0,
   "audit_scope": "GitHub repository existence, root file names and recent commit links only",
-  "audited_at_utc": "2026-11-20T21:34:42+00:00",
+  "audited_at_utc": "2026-11-20T21:44:04+00:00",
   "audited_count": 12,
   "entries": [
     {
@@ -414,10 +414,427 @@
       "repository_url": "https://github.com/DrianOps/BinaryLiquid",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:44:04+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Ekenmisireyakakum/Anagu",
+        "https://github.com/Ekenmisireyakakum/Anagu/commit/318733550ae566cab250329c17c46e40e304c915",
+        "https://github.com/Ekenmisireyakakum/Anagu/commit/e2b619c3c01bb7699886995580636e79e0d74159",
+        "https://github.com/Ekenmisireyakakum/Anagu/commit/a61b1fc685bfbf832ad92ff01c13fa297480d5a4"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Ekenmisireyakakum/Anagu",
+      "repository_url": "https://github.com/Ekenmisireyakakum/Anagu",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:44:04+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/elon00/ethmumbai-erc4337-paymaster-ai",
+        "https://github.com/elon00/ethmumbai-erc4337-paymaster-ai/commit/d29c2004297e9487b55510a70a70fd8697ad84b7",
+        "https://github.com/elon00/ethmumbai-erc4337-paymaster-ai/commit/2f577e48265fae5d91003e48e0d783d95fbb1a4e",
+        "https://github.com/elon00/ethmumbai-erc4337-paymaster-ai/commit/66e18ac14cee451baf56b76e78c0259065dd673f"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "elon00/ethmumbai-erc4337-paymaster-ai",
+      "repository_url": "https://github.com/elon00/ethmumbai-erc4337-paymaster-ai",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:44:04+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/elon00/hashkey-crosschain-bridge-ai",
+        "https://github.com/elon00/hashkey-crosschain-bridge-ai/commit/f4accb3132cafeabab28055520ce29c52a026002",
+        "https://github.com/elon00/hashkey-crosschain-bridge-ai/commit/c08248e06cb75b106f35425945ea8029de765037",
+        "https://github.com/elon00/hashkey-crosschain-bridge-ai/commit/f4b98cc6965c7725e68d9fb5158e9c187cd2a8f0"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "elon00/hashkey-crosschain-bridge-ai",
+      "repository_url": "https://github.com/elon00/hashkey-crosschain-bridge-ai",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:44:04+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/ergrato-dev/bc-smartcontracts",
+        "https://github.com/ergrato-dev/bc-smartcontracts/commit/f074823ed178e1d433890a00b8a1f1a4e25c879f",
+        "https://github.com/ergrato-dev/bc-smartcontracts/commit/3efd80c82e7b2b60581ce3019610ed20d07fd38a"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "ergrato-dev/bc-smartcontracts",
+      "repository_url": "https://github.com/ergrato-dev/bc-smartcontracts",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:44:04+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/farawayuplift/kite-agent-arbitrage-scanner",
+        "https://github.com/farawayuplift/kite-agent-arbitrage-scanner/commit/00571bfd4dfebed0306e1706b896bb0c01087f20",
+        "https://github.com/farawayuplift/kite-agent-arbitrage-scanner/commit/b92acd13d48589feaa9f86180797eb3f333dfe0f",
+        "https://github.com/farawayuplift/kite-agent-arbitrage-scanner/commit/239a306680b325b93c641715dea238d1043b3d92"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "farawayuplift/kite-agent-arbitrage-scanner",
+      "repository_url": "https://github.com/farawayuplift/kite-agent-arbitrage-scanner",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:44:04+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+        "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot/commit/2a91ee0bc68f83ad679b14660817af377f588dfe",
+        "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot/commit/4a5f85a9e727bc2fa32535c8a621a892de461e0d",
+        "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot/commit/0ee228aa76d2f93bd6d830b379b7e1dc0e7f695f"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 153,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+      "repository_url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:44:04+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/fathiaomar/SolGuard-AI",
+        "https://github.com/fathiaomar/SolGuard-AI/commit/253ba3e2b745e83a7bc980c0b1034b52432d2f0a",
+        "https://github.com/fathiaomar/SolGuard-AI/commit/f504cfce97968d412966f3d3ab4a753ff5f00fb7",
+        "https://github.com/fathiaomar/SolGuard-AI/commit/d250a93e52cd1d1a26fc643b15df561a6e5248da"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 9,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "fathiaomar/SolGuard-AI",
+      "repository_url": "https://github.com/fathiaomar/SolGuard-AI",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:44:04+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/freshstart2066-create/prismdex",
+        "https://github.com/freshstart2066-create/prismdex/commit/8f58b790636d4bdb9f554efdd7713ff68403d14f",
+        "https://github.com/freshstart2066-create/prismdex/commit/f00099abe622f0d5d76741cd0352cf6dd3601bf4"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "freshstart2066-create/prismdex",
+      "repository_url": "https://github.com/freshstart2066-create/prismdex",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:44:04+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/hgdttf/decentralized-voting-system",
+        "https://github.com/hgdttf/decentralized-voting-system/commit/d5e1cbe55ebd1ae8a14bdfed50068aa613b8aa23",
+        "https://github.com/hgdttf/decentralized-voting-system/commit/7b7376bd1269135337ba40cc5fdb1ec6fc11512d"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "hgdttf/decentralized-voting-system",
+      "repository_url": "https://github.com/hgdttf/decentralized-voting-system",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:44:04+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Jean-Regis-M/tidewater",
+        "https://github.com/Jean-Regis-M/tidewater/commit/ca34992c3c403c768a4b246dada023c1c9bdf632",
+        "https://github.com/Jean-Regis-M/tidewater/commit/c43a33b7ad72364b47b676f2ec765a9e64d27f64",
+        "https://github.com/Jean-Regis-M/tidewater/commit/d25e20d2852860b7d77d06a7b4c44aebb543923c"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Jean-Regis-M/tidewater",
+      "repository_url": "https://github.com/Jean-Regis-M/tidewater",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:44:04+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/jxhnsebastian/achilles",
+        "https://github.com/jxhnsebastian/achilles/commit/3535b1dd5482a900d743eb1187ff258d97d7f423",
+        "https://github.com/jxhnsebastian/achilles/commit/fef0bb8dbbd9cc3732689c1922c577f873876f1a",
+        "https://github.com/jxhnsebastian/achilles/commit/f6c9bce2a942091ea3c3c6a45cc358096ce11807"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "jxhnsebastian/achilles",
+      "repository_url": "https://github.com/jxhnsebastian/achilles",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-20T21:44:04+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/kerne-protocol/reserve-circuit-breaker",
+        "https://github.com/kerne-protocol/reserve-circuit-breaker/commit/6f58bdf01f815853521ca0452c75eba7196f433d"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 1
+      },
+      "repository": "kerne-protocol/reserve-circuit-breaker",
+      "repository_url": "https://github.com/kerne-protocol/reserve-circuit-breaker",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
     }
   ],
   "error_count": 0,
   "errors": [],
-  "schema_version": 1,
-  "selected_count": 12
+  "remaining_unaudited_priority": 24,
+  "schema_version": 2,
+  "selected_count": 12,
+  "total_audited_unique": 24
 }
