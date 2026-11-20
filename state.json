@@ -1,0 +1,39 @@
+{
+ "alerted": [],
+ "watch": {
+  "nuva": {
+   "name": "NUVA",
+   "problem": "stablecoin-yield-risk"
+  },
+  "monolith-market": {
+   "name": "Monolith Market",
+   "problem": "stablecoin-yield-risk"
+  },
+  "swan-dao": {
+   "name": "Swan DAO",
+   "problem": "stablecoin-yield-risk"
+  },
+  "exceed-finance-exusdc": {
+   "name": "Exceed Finance exUSDC",
+   "problem": "rwa-access"
+  },
+  "privacy-pools-v2": {
+   "name": "Privacy Pools V2",
+   "problem": "privacy"
+  },
+  "birch-hill": {
+   "name": "Birch Hill",
+   "problem": "rwa-access"
+  },
+  "true-dex": {
+   "name": "TRUE DEX",
+   "problem": "perp-dex-liquidity"
+  },
+  "bitty-vaults": {
+   "name": "Bitty Vaults",
+   "problem": "ai-agent-payments"
+  }
+ },
+ "day": "2026-11-20",
+ "count": 0
+}
