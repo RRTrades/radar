@@ -1,6 +1,217 @@
 {
   "alerted": {},
-  "problem_evidence": {},
+  "problem_evidence": {
+    "https://github.com/Automattic/harper/issues/4057": {
+      "first_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-21T06:04:06+00:00",
+      "source_url": "https://github.com/Automattic/harper/issues/4057",
+      "status": "NEEDS_REVIEW",
+      "title": "bitcoin-cli (bitcoin-cli is a command-line interface for interacting with the Bitcoin Core software, allowing users to manage wallets, query blockchain data, and perform transactions) marked as spelli"
+    },
+    "https://github.com/Automattic/harper/issues/4075": {
+      "first_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-21T06:04:06+00:00",
+      "source_url": "https://github.com/Automattic/harper/issues/4075",
+      "status": "NEEDS_REVIEW",
+      "title": "Polkadot (decentralized, nominated proof-of-stake blockchain with smart contract functionality) marked as spelling problem"
+    },
+    "https://github.com/Automattic/harper/issues/4113": {
+      "first_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-21T06:04:06+00:00",
+      "source_url": "https://github.com/Automattic/harper/issues/4113",
+      "status": "NEEDS_REVIEW",
+      "title": "parachains (In December 2021, Polkadot introduced parachain functionality, allowing multiple blockchains to run simultaneously and connect to the network's Relay Chain) marked as spelling problem"
+    },
+    "https://github.com/Emeka000/Health-chain-stellar/issues/1852": {
+      "first_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-21T06:04:06+00:00",
+      "source_url": "https://github.com/Emeka000/Health-chain-stellar/issues/1852",
+      "status": "NEEDS_REVIEW",
+      "title": "[backend/blockchain] submitTransaction burns the idempotency key before enqueueing, never releases it, and reports duplicates as a 500"
+    },
+    "https://github.com/Emeka000/Health-chain-stellar/issues/1853": {
+      "first_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-21T06:04:06+00:00",
+      "source_url": "https://github.com/Emeka000/Health-chain-stellar/issues/1853",
+      "status": "NEEDS_REVIEW",
+      "title": "[backend/blockchain] Webhook callbacks consume their idempotency key before processing, so a failed callback is lost and retries get 409"
+    },
+    "https://github.com/Emeka000/Health-chain-stellar/issues/1873": {
+      "first_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-21T06:04:06+00:00",
+      "source_url": "https://github.com/Emeka000/Health-chain-stellar/issues/1873",
+      "status": "NEEDS_REVIEW",
+      "title": "[backend/blockchain] The blockchain IdempotencyService creates a Redis client it never connects, so every submitTransaction and webhook call fails with ClientClosedError"
+    },
+    "https://github.com/Emeka000/Health-chain-stellar/issues/1876": {
+      "first_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-21T06:04:06+00:00",
+      "source_url": "https://github.com/Emeka000/Health-chain-stellar/issues/1876",
+      "status": "NEEDS_REVIEW",
+      "title": "[backend/blockchain] AdminGuard re-verifies JWTs with only JWT_SECRET, so admin endpoints reject tokens signed with the previous key during rotation, and it overwrites req.user"
+    },
+    "https://github.com/Footloose9/hyperfabric-evolution/issues/36": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/Footloose9/hyperfabric-evolution/issues/36",
+      "status": "NEEDS_REVIEW",
+      "title": "Design public-source to staged-product promotion: verified builds, environment gates, wallet release separation"
+    },
+    "https://github.com/Gloriachinedu/lumenflow-contracts/issues/1534": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/Gloriachinedu/lumenflow-contracts/issues/1534",
+      "status": "NEEDS_REVIEW",
+      "title": "[Frontend] Add wallet connection status indicator to all payment pages"
+    },
+    "https://github.com/Konfirm-xyz/konfirm-backend/issues/275": {
+      "first_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-21T06:04:06+00:00",
+      "source_url": "https://github.com/Konfirm-xyz/konfirm-backend/issues/275",
+      "status": "NEEDS_REVIEW",
+      "title": "checkComplianceCanary (the backend#210 fix) has no scheduled run or alert escalation — it only fires when an admin opens the blockchain-status page"
+    },
+    "https://github.com/OpenAgentsInc/openagents/issues/13897": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/OpenAgentsInc/openagents/issues/13897",
+      "status": "NEEDS_REVIEW",
+      "title": "Desktop & iOS: Portable Nostr Identity & Bitcoin/Lightning Wallet Panel with Spend Approvals (Episode 289, Wave 1)"
+    },
+    "https://github.com/Orbit-xyz/Orbit/issues/323": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/Orbit-xyz/Orbit/issues/323",
+      "status": "NEEDS_REVIEW",
+      "title": "widget: implement zero-click wallet autodetection and smart connector priority fallback"
+    },
+    "https://github.com/RetinaX-Org/RetinaX/issues/480": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/RetinaX-Org/RetinaX/issues/480",
+      "status": "NEEDS_REVIEW",
+      "title": "Website: support Albedo and xBull wallets"
+    },
+    "https://github.com/SorobanKit/sorobanKit/issues/435": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/SorobanKit/sorobanKit/issues/435",
+      "status": "NEEDS_REVIEW",
+      "title": "Introduce a wallet-provider adapter boundary"
+    },
+    "https://github.com/Stellar-Agent-Guard/stellar-agent-guard-dashboard/issues/512": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/Stellar-Agent-Guard/stellar-agent-guard-dashboard/issues/512",
+      "status": "NEEDS_REVIEW",
+      "title": "feat(wallet): show the selected account in every pending action summary"
+    },
+    "https://github.com/bsv-blockchain/teranode/issues/2241": {
+      "first_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-21T06:04:06+00:00",
+      "source_url": "https://github.com/bsv-blockchain/teranode/issues/2241",
+      "status": "NEEDS_REVIEW",
+      "title": "fix(blockchain): bound startup lock waits when the chain-write row is missing"
+    },
+    "https://github.com/coreyphillips/beignet/issues/2098": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/coreyphillips/beignet/issues/2098",
+      "status": "NEEDS_REVIEW",
+      "title": "An asset channel cannot forward, take a payment in parts, be spliced or dual funded, hold more than one asset ID or be announced, so a node cannot convert between bitcoin and an asset for the wallets "
+    },
+    "https://github.com/cortexkit/aft/issues/1482": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/cortexkit/aft/issues/1482",
+      "status": "NEEDS_REVIEW",
+      "title": "Bridge doesn't answer status/version/configure while an index build runs"
+    },
+    "https://github.com/cortexkit/aft/issues/1483": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/cortexkit/aft/issues/1483",
+      "status": "NEEDS_REVIEW",
+      "title": "Hang watchdog kills a bridge with a blocked request loop and keeps restarting it"
+    },
+    "https://github.com/fleetdm/fleet/issues/58865": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/fleetdm/fleet/issues/58865",
+      "status": "NEEDS_REVIEW",
+      "title": "mdm_bridge fails with 0x80070032 on some Dell hosts: Windows rejects fleetd's EmbeddedMode Flags hash (root cause of #36426)"
+    },
+    "https://github.com/leojay-net/Stellar-Dex-Chat/issues/1741": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/leojay-net/Stellar-Dex-Chat/issues/1741",
+      "status": "NEEDS_REVIEW",
+      "title": "feat(frontend): add more wallets than Freighter (Albedo, xBull, Rabet) behind a wallet adapter"
+    },
+    "https://github.com/libracoder/kiri/issues/261": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/libracoder/kiri/issues/261",
+      "status": "NEEDS_REVIEW",
+      "title": "Linux: bridge containers can't reach Tailscale/VPN networks (NAT only on default-route NIC, bridges in no firewalld zone)"
+    },
+    "https://github.com/marioparaschiv/unbound/issues/2083": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/marioparaschiv/unbound/issues/2083",
+      "status": "NEEDS_REVIEW",
+      "title": "crash: (Unbound) com.facebook.react.bridge.UnexpectedNativeTypeException in com.facebook.react.bridge.ReadableNativeMap…"
+    },
+    "https://github.com/mega-yfue/eufy-sdk/issues/257": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/mega-yfue/eufy-sdk/issues/257",
+      "status": "NEEDS_REVIEW",
+      "title": "T85D0 Lock not working since the latest release (0.3 bridge and 0.3 integration)"
+    },
+    "https://github.com/open-gsd/gsd-core/issues/6430": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/open-gsd/gsd-core/issues/6430",
+      "status": "NEEDS_REVIEW",
+      "title": "gsd-core: context monitor never warns on Claude Code plugin installs (no statusline writes its bridge file)"
+    },
+    "https://github.com/openminion/openminion/issues/663": {
+      "first_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-21T06:04:06+00:00",
+      "source_url": "https://github.com/openminion/openminion/issues/663",
+      "status": "NEEDS_REVIEW",
+      "title": "Reject malformed RPC nonce values during blockchain preparation and send checks"
+    },
+    "https://github.com/pendulum-max/Veritag/issues/104": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/pendulum-max/Veritag/issues/104",
+      "status": "NEEDS_REVIEW",
+      "title": "[web] Wallet selector modal supporting Freighter, xBull, Albedo, and Passkey Smart Wallet"
+    },
+    "https://github.com/reticlehq/reticle/issues/2435": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/reticlehq/reticle/issues/2435",
+      "status": "NEEDS_REVIEW",
+      "title": "reticle open says the SDK is missing for a detached tab the bridge refused"
+    },
+    "https://github.com/swc-project/swc-next-issues/issues/46": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/swc-project/swc-next-issues/issues/46",
+      "status": "NEEDS_REVIEW",
+      "title": "bridge: discard the WebAssembly instance after an aborted call"
+    },
+    "https://github.com/wizardmanannan/CX16Agi/issues/62": {
+      "first_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-21T06:04:07+00:00",
+      "source_url": "https://github.com/wizardmanannan/CX16Agi/issues/62",
+      "status": "NEEDS_REVIEW",
+      "title": "Graham and the goat cannot move south on bridge screen"
+    }
+  },
   "review_queue": {
     "base:0x9f4c76f421f47b3c234f841f477897f1d895177d": {
       "chain": "base",
@@ -24,7 +235,7 @@
       "contract": "439nprrEUAawb4nmfnB8Y9AhpEKdRr5MpEfLse7R6HkJ",
       "description_excerpt": "Murmur is a Solana token launchpad where you launch a coin on pump fun, Meteora or Raydium from a single form and choose who earns the creator fees: you, your holders, or a team of up to ten wallets. Every coin can join a Privacy Ring (built on Helius’s Privacy Rings), so holders can shield their balances and send without showing the amount.",
       "first_seen": "2026-11-21T03:50:36+00:00",
-      "last_seen": "2026-11-21T05:54:45+00:00",
+      "last_seen": "2026-11-21T06:04:06+00:00",
       "matched_problems": [
         {
           "hits": [

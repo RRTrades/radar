@@ -484,6 +484,132 @@
       "repository": "Ekenmisireyakakum/Anagu",
       "source_readme_available": true,
       "token_contract_verified": false
+    },
+    "elon00/ethmumbai-erc4337-paymaster-ai": {
+      "analyzed_at_utc": "2026-11-21T06:04:57+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/elon00/ethmumbai-erc4337-paymaster-ai#readme"
+            ],
+            "missing_evidence": "Third‑party usage statistics, partnership announcements, or case studies.",
+            "rationale": "No external evidence of users, integrations, or real‑world deployments is provided.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/elon00/ethmumbai-erc4337-paymaster-ai#readme"
+            ],
+            "missing_evidence": "Objective comparison metrics against verified competitors in the ERC‑4337/paymaster space.",
+            "rationale": "Only a list of unrelated GitHub projects is provided; no comparative data is shown.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/elon00/ethmumbai-erc4337-paymaster-ai#readme"
+            ],
+            "missing_evidence": "Independent performance tests, security audits, or peer‑reviewed analysis.",
+            "rationale": "Claims of high‑velocity, mathematically proven invariants lack external validation or benchmarks.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/elon00/ethmumbai-erc4337-paymaster-ai#readme"
+            ],
+            "missing_evidence": "Verified token contract address, circulation data, and independent valuation analysis.",
+            "rationale": "Token $EM4337 is mentioned without any token contract, market data, or economic analysis.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/elon00/ethmumbai-erc4337-paymaster-ai#readme"
+            ],
+            "missing_evidence": "Third‑party market or user research showing demand for the claimed functionality.",
+            "rationale": "No independent sources confirm the need for this specific gasless paymaster solution.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "Project claims a gasless ERC‑4337 paymaster with its own token, but provides no independent evidence of a real problem, technical advantage, competitor edge, token value capture, or authentic adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "elon00/ethmumbai-erc4337-paymaster-ai",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
+    "elon00/hashkey-crosschain-bridge-ai": {
+      "analyzed_at_utc": "2026-11-21T06:04:57+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/elon00/hashkey-crosschain-bridge-ai#readme"
+            ],
+            "missing_evidence": "independent usage statistics, partnership announcements, or audit reports",
+            "rationale": "No evidence of users, partners, or real‑world deployments beyond the repository itself.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/AcalaNetwork/Acala",
+              "https://github.com/shentufoundation/shentu",
+              "https://github.com/b3-fun/b3os",
+              "https://github.com/irisnet/irishub",
+              "https://github.com/anyswap/CrossChain-Bridge"
+            ],
+            "missing_evidence": "objective comparison metrics against identified competitors",
+            "rationale": "Only unverified search matches to other projects; no analysis of how this solution differs or outperforms them.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/elon00/hashkey-crosschain-bridge-ai#readme"
+            ],
+            "missing_evidence": "independent technical audits or performance comparisons",
+            "rationale": "Claims of mathematically proven invariants lack third‑party validation or benchmarks.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/elon00/hashkey-crosschain-bridge-ai#readme"
+            ],
+            "missing_evidence": "verified tokenomics, supply/demand analysis, or market data",
+            "rationale": "Token symbol $HKBRIDGE is mentioned without any disclosed tokenomics, demand drivers, or economic modeling.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/elon00/hashkey-crosschain-bridge-ai#readme"
+            ],
+            "missing_evidence": "independent market or user research showing the problem",
+            "rationale": "No external data confirming a need for a zero‑slippage bridge in the HashKey ecosystem.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "Project claims zero‑slippage cross‑chain bridge but provides no independent evidence of a real problem, technical superiority, competitive edge, token value capture, or authentic adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "elon00/hashkey-crosschain-bridge-ai",
+      "source_readme_available": true,
+      "token_contract_verified": false
     }
   },
   "schema_version": 1

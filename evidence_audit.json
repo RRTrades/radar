@@ -1,7 +1,7 @@
 {
   "approved_for_buy": 0,
   "audit_scope": "GitHub repository existence, root file names and recent commit links only",
-  "audited_at_utc": "2026-11-20T22:59:41+00:00",
+  "audited_at_utc": "2026-11-21T06:04:46+00:00",
   "audited_count": 11,
   "entries": [
     {
@@ -728,6 +728,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-21T06:04:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Isleem-goui/EtherShield",
+        "https://github.com/Isleem-goui/EtherShield/commit/e07f5d9cb0a132cc00666b923e3fe48cfaad8fc6",
+        "https://github.com/Isleem-goui/EtherShield/commit/0c72e6145c1a9ecd299b695a5f3f79d74859bd6c",
+        "https://github.com/Isleem-goui/EtherShield/commit/176e2bb90b602a463d13a8920b898ebe104cbf8f"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Isleem-goui/EtherShield",
+      "repository_url": "https://github.com/Isleem-goui/EtherShield",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-20T22:43:45+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -936,6 +971,76 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-21T06:04:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Makabeez/qie-sentinel",
+        "https://github.com/Makabeez/qie-sentinel/commit/8f778942811ac80e5ffc802f53a14500637c7e4c",
+        "https://github.com/Makabeez/qie-sentinel/commit/3465a1d172260d49ab98617e537c4349a859a208",
+        "https://github.com/Makabeez/qie-sentinel/commit/d8cae888185365590ceaf99ac9db09d3213dc0e9"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Makabeez/qie-sentinel",
+      "repository_url": "https://github.com/Makabeez/qie-sentinel",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-21T06:04:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/maya-thorne/github-org-map",
+        "https://github.com/maya-thorne/github-org-map/commit/5d44b599d5e594d34ea8f3319f13a1570de0cb84",
+        "https://github.com/maya-thorne/github-org-map/commit/ce2ad0e7deb5e62845e17bf60eda37b45376b4e0",
+        "https://github.com/maya-thorne/github-org-map/commit/9240f4f59432475fcfbc2b4dd299761308f1effc"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "maya-thorne/github-org-map",
+      "repository_url": "https://github.com/maya-thorne/github-org-map",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-20T22:59:41+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -1076,6 +1181,72 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-21T06:04:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Paulos-ui/koraguard-stellar",
+        "https://github.com/Paulos-ui/koraguard-stellar/commit/eed111d6e5b8030da2171505c2bfd0900c5a50f0"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 1
+      },
+      "repository": "Paulos-ui/koraguard-stellar",
+      "repository_url": "https://github.com/Paulos-ui/koraguard-stellar",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-21T06:04:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/phani2582/portfolio",
+        "https://github.com/phani2582/portfolio/commit/2215e27cb6f944cd479b1130e217091a4196a382"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 1,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 1
+      },
+      "repository": "phani2582/portfolio",
+      "repository_url": "https://github.com/phani2582/portfolio",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-20T22:59:41+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -1146,7 +1317,7 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
-      "audited_at_utc": "2026-11-20T21:59:04+00:00",
+      "audited_at_utc": "2026-11-21T06:04:46+00:00",
       "buy_approved": false,
       "evidence_links": [
         "https://github.com/Sabbirnde/ZeroID",
@@ -1181,7 +1352,7 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
-      "audited_at_utc": "2026-11-20T21:59:04+00:00",
+      "audited_at_utc": "2026-11-21T06:04:46+00:00",
       "buy_approved": false,
       "evidence_links": [
         "https://github.com/sawi57003-ops/ubc-agentpay",
@@ -1216,7 +1387,7 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
-      "audited_at_utc": "2026-11-20T21:59:04+00:00",
+      "audited_at_utc": "2026-11-21T06:04:46+00:00",
       "buy_approved": false,
       "evidence_links": [
         "https://github.com/sparkx313/blockchain-defi-yield-optimizer",
@@ -1249,7 +1420,7 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
-      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "audited_at_utc": "2026-11-21T06:04:46+00:00",
       "buy_approved": false,
       "evidence_links": [
         "https://github.com/stash21x-crypto/foundry-account-abstraction",
@@ -1284,7 +1455,7 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
-      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "audited_at_utc": "2026-11-21T06:04:46+00:00",
       "buy_approved": false,
       "evidence_links": [
         "https://github.com/stellar-abstraction-labs/stellar-account-abstraction-sdk",
@@ -1319,7 +1490,7 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
-      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "audited_at_utc": "2026-11-21T06:04:46+00:00",
       "buy_approved": false,
       "evidence_links": [
         "https://github.com/STUSMA/Lofd",
@@ -1640,5 +1811,5 @@
   "remaining_unaudited_priority": 1,
   "schema_version": 2,
   "selected_count": 12,
-  "total_audited_unique": 47
+  "total_audited_unique": 52
 }

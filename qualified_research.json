@@ -2,8 +2,8 @@
   "buy_approved": 0,
   "counts": {
     "LOW_PRIORITY_EXCLUSION_REVIEWABLE": 9,
-    "RESEARCH_PRIORITY_UNVERIFIED": 48,
-    "UNCONFIRMED_RELEVANCE": 32
+    "RESEARCH_PRIORITY_UNVERIFIED": 53,
+    "UNCONFIRMED_RELEVANCE": 38
   },
   "entries": [
     {
@@ -534,6 +534,31 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
+      "description": "Ethereum Smart Contract Security & Exploitation Lab",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "onchain-risk"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "Isleem-goui/EtherShield",
+      "repository_url": "https://github.com/Isleem-goui/EtherShield",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "onchain-risk"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
       "description": "Cross-chain withdrawal queue settled by Reactive Omni the moment liquidity returns. Reactive Omni Buildathon 2026, Track: Every Second Counts.",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -684,6 +709,56 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
+      "description": "AI-agent payment security with owner-signed EIP-712 intents and on-chain QUSDC policy enforcement on QIE Mainnet.",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "agent-payments"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "Makabeez/qie-sentinel",
+      "repository_url": "https://github.com/Makabeez/qie-sentinel",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "agent-payments"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
+      "description": "Automated daily cartography and topology mapping of maya-thorne repositories with zero-knowledge SHA-256 privacy masking.",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "privacy-compliance"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "maya-thorne/github-org-map",
+      "repository_url": "https://github.com/maya-thorne/github-org-map",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "privacy-compliance"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
       "description": "Generalized account abstraction na Stellar: smart accounts, taxas patrocinadas e NFT por UUID. Serve o MintVRS.",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -778,6 +853,56 @@
       "token_contract_verified": false,
       "topics": [
         "stablecoin-resilience"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
+      "description": "KoraGuard is a Stellar powered financial assistant that helps small businesses protect their reserves, manage upcoming commitments, and execute safer stablecoin payments through programmable spending controls.",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "stablecoin-resilience"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "Paulos-ui/koraguard-stellar",
+      "repository_url": "https://github.com/Paulos-ui/koraguard-stellar",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "stablecoin-resilience"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
+      "description": "Personal portfolio — smart contract security research and Solidity development.",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "onchain-risk"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "phani2582/portfolio",
+      "repository_url": "https://github.com/phani2582/portfolio",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "onchain-risk"
       ],
       "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
     },
@@ -1400,6 +1525,52 @@
     },
     {
       "buy_approved": false,
+      "crypto_context_keyword_present": false,
+      "description": "Imported from https://github.com/ever-works/awesome-agentic-payments-data",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "ever-works/awesome-agentic-payments",
+      "repository_url": "https://github.com/ever-works/awesome-agentic-payments",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "agent-payments"
+      ],
+      "triage_status": "UNCONFIRMED_RELEVANCE"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": false,
+      "description": "Data for Awesome Agentic Payments — https://agentic-payments.ever.works (built with Ever Works)",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "ever-works/awesome-agentic-payments-data",
+      "repository_url": "https://github.com/ever-works/awesome-agentic-payments-data",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "agent-payments"
+      ],
+      "triage_status": "UNCONFIRMED_RELEVANCE"
+    },
+    {
+      "buy_approved": false,
       "crypto_context_keyword_present": true,
       "description": "Intent-aware security infrastructure that protects autonomous AI agents by enforcing human-approved permissions, preventing unauthorized transactions, and securing onchain execution.",
       "exclusion_indicators": [],
@@ -1593,6 +1764,29 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
+      "description": "A blockchain and cryptography-based approach for counterfeit product detection and authentication.",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "Mohanasri95/Detection-Of-Counterfeit-Products-Usinng-Blockchain-Technology-And-cryptography",
+      "repository_url": "https://github.com/Mohanasri95/Detection-Of-Counterfeit-Products-Usinng-Blockchain-Technology-And-cryptography",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_status": "UNCONFIRMED_RELEVANCE"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
       "description": "An autonomous AI-powered onchain research business built for the NEAR Hackathon. It researches blockchain projects, generates and sells intelligence reports, manages operational costs, and automates revenue distribution using NEAR infrastructure.",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -1758,6 +1952,31 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": false,
+      "description": "Permission-first workspace for agent payment requests on Celo",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "agent-payments"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "reisofifi-tech/voltra-agentpay",
+      "repository_url": "https://github.com/reisofifi-tech/voltra-agentpay",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "agent-payments"
+      ],
+      "triage_status": "UNCONFIRMED_RELEVANCE"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": false,
       "description": "Agentic payment for arb opportunities in prediction markets using Arc.",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -1894,6 +2113,52 @@
       "token_contract_verified": false,
       "topics": [
         "agent-payments"
+      ],
+      "triage_status": "UNCONFIRMED_RELEVANCE"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
+      "description": "Policy-driven execution infrastructure for autonomous onchain agents.",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "Techsentri/sentri",
+      "repository_url": "https://github.com/Techsentri/sentri",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_status": "UNCONFIRMED_RELEVANCE"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
+      "description": "VeriMark is a secure, blockchain-inspired exam result management and verification platform that uses cryptographic signatures and a tamper-evident digital ledger to protect academic records, detect unauthorized modifications, and ensure transparent, trustworthy result verification.",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "VAIBHAV0528/Verimark",
+      "repository_url": "https://github.com/VAIBHAV0528/Verimark",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
       ],
       "triage_status": "UNCONFIRMED_RELEVANCE"
     },
@@ -2210,7 +2475,7 @@
     }
   ],
   "method": "Free metadata-based prequalification. Not an innovation, safety, or investment determination.",
-  "qualified_count": 89,
+  "qualified_count": 100,
   "schema_version": 1,
-  "source_count": 89
+  "source_count": 100
 }

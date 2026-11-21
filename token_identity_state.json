@@ -2,7 +2,7 @@
   "entries": {
     "aaron11998/mev-protection-scanner": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-20T23:00:38+00:00",
+      "checked_at_utc": "2026-11-21T06:05:41+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -15,7 +15,7 @@
     },
     "andedauda2-alt/anagu": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-20T23:00:38+00:00",
+      "checked_at_utc": "2026-11-21T06:05:41+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -28,7 +28,7 @@
     },
     "apelevel/whisper": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-20T23:00:38+00:00",
+      "checked_at_utc": "2026-11-21T06:05:41+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -41,7 +41,7 @@
     },
     "candra0x6/sake": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-20T23:00:38+00:00",
+      "checked_at_utc": "2026-11-21T06:05:41+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -102,6 +102,32 @@
       "project_source_url": "https://github.com/Ekenmisireyakakum/Anagu#readme",
       "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
       "repository": "Ekenmisireyakakum/Anagu",
+      "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
+    },
+    "elon00/ethmumbai-erc4337-paymaster-ai": {
+      "buy_approved": false,
+      "checked_at_utc": "2026-11-21T06:05:41+00:00",
+      "contract_claims": [],
+      "contract_claims_found": 0,
+      "dev_identity_verified": false,
+      "identity_verified": false,
+      "investor_identity_verified": false,
+      "project_source_url": "https://github.com/elon00/ethmumbai-erc4337-paymaster-ai#readme",
+      "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
+      "repository": "elon00/ethmumbai-erc4337-paymaster-ai",
+      "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
+    },
+    "elon00/hashkey-crosschain-bridge-ai": {
+      "buy_approved": false,
+      "checked_at_utc": "2026-11-21T06:05:41+00:00",
+      "contract_claims": [],
+      "contract_claims_found": 0,
+      "dev_identity_verified": false,
+      "identity_verified": false,
+      "investor_identity_verified": false,
+      "project_source_url": "https://github.com/elon00/hashkey-crosschain-bridge-ai#readme",
+      "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
+      "repository": "elon00/hashkey-crosschain-bridge-ai",
       "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
     }
   },
