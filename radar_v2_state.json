@@ -247,12 +247,29 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:56h3rsryptrncrhyvstqk7dsg6ff4tjwycx8vptcpump": {
+      "chain": "solana",
+      "contract": "56H3RsryPtrnCrhYVsTQk7DsG6Ff4tJwYcX8vpTcpump",
+      "description_excerpt": "launch tokens on pumpfun with privacy rings, powered by helius.",
+      "first_seen": "2026-11-21T14:49:00+00:00",
+      "last_seen": "2026-11-21T14:49:00+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:6k6brawsqsaq13q2vetqnhasxgi5vjfjb3svezm8pump": {
       "chain": "solana",
       "contract": "6k6bRaWSqsAq13q2VetqNhasxgi5vJfJB3svEzM8pump",
       "description_excerpt": "Private launches, encrypted transfers, sealed fees, discreet mutations, shielded fee rights, private OTC, stealth agents & on-chain checks. ALL Privacy.",
       "first_seen": "2026-11-21T12:53:11+00:00",
-      "last_seen": "2026-11-21T13:56:48+00:00",
+      "last_seen": "2026-11-21T14:49:00+00:00",
       "matched_problems": [
         {
           "hits": [
@@ -269,7 +286,7 @@
       "contract": "6M8bCzSP4MvrhVQHnQK693ZQUFkHJwTCEBpaJNnvpump",
       "description_excerpt": "Ring Yield: coins route creator fees here and the holders who keep them in a Privacy Ring get paid every Monday in hSOL, by hold time, amounts encrypted. 5% of every payout buys and burns $RYLD, 5% pays $RYLD holders. $RYLD creator fees: 90% holders, 10% burn.",
       "first_seen": "2026-11-21T12:04:07+00:00",
-      "last_seen": "2026-11-21T13:56:48+00:00",
+      "last_seen": "2026-11-21T14:49:00+00:00",
       "matched_problems": [
         {
           "hits": [
