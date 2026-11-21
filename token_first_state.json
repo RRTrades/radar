@@ -39,6 +39,44 @@
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
     },
+    "base:0xfcb0b407fb6cb34307db9b1f430a99b079f9fee1": {
+      "buy_approved": false,
+      "chain": "base",
+      "community_authenticity_verified": false,
+      "contract": "0xFcB0b407Fb6Cb34307DB9B1f430a99b079F9feE1",
+      "declared_links": [
+        "https://gtaonbase.xyz",
+        "https://x.com/GTAonBaseChain",
+        "https://t.me/GTAonBase"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-21T02:49:14+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
+      "market": {
+        "liquidity_usd": 27641.43,
+        "market_cap_usd": 30663,
+        "name": "Gay Transaction Association",
+        "pair_created_at_ms": 1795213690000,
+        "pair_url": "https://dexscreener.com/base/0x7da11506c16eb9472f6b442cb7f19b3327211c8790960e1194c0166a7ec46447",
+        "price_change_24h_pct": 118,
+        "symbol": "GTA",
+        "volume_24h_usd": 10014.74
+      },
+      "profile_description": "$GTA is the Gay Transaction Association, a Base meme token built around tokenized Take Two. It takes two. Holders earn rewards paid in TTWOc. 1B supply, liquidity permanently locked.",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "hausse 24 h supérieure à 100 %"
+      ],
+      "triage_status": "MARKET_RESEARCH_REVIEW"
+    },
     "ethereum:0x16ab01699756d97490f03e3b4abf199ceee9fa3d": {
       "buy_approved": false,
       "chain": "ethereum",
@@ -57,16 +95,16 @@
       "first_seen_at": "2026-11-21T00:29:29+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-21T00:29:29+00:00",
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
       "market": {
-        "liquidity_usd": 9025.88,
-        "market_cap_usd": 17459,
+        "liquidity_usd": 21451.02,
+        "market_cap_usd": 81448,
         "name": "Fiona the Hippo",
         "pair_created_at_ms": 1795134395000,
         "pair_url": "https://dexscreener.com/ethereum/0xb90cbba03247b80a78f43b6e157df0abc109693d4abbf864be337d6649fcdc63",
-        "price_change_24h_pct": 772,
+        "price_change_24h_pct": 4005,
         "symbol": "FIONA",
-        "volume_24h_usd": 9161.2
+        "volume_24h_usd": 46369.74
       },
       "profile_description": "$FIONA , a crypto meme dedicated to Fiona the most famous hippo and ambassador of her species.",
       "project_token_link_verified": false,
@@ -172,16 +210,16 @@
       "first_seen_at": "2026-11-21T00:29:29+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-21T00:29:29+00:00",
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
       "market": {
-        "liquidity_usd": 3397.32,
-        "market_cap_usd": 3870,
+        "liquidity_usd": 8626.98,
+        "market_cap_usd": 15498,
         "name": "Macca The Gator",
         "pair_created_at_ms": 1795219031000,
         "pair_url": "https://dexscreener.com/ethereum/0x2b5d72666ca14200d896ba76027af9c971a3f2fb1cfa451c22ea0448f6a4e4f4",
-        "price_change_24h_pct": 134,
+        "price_change_24h_pct": 879,
         "symbol": "MACCA",
-        "volume_24h_usd": 2023.19
+        "volume_24h_usd": 12672.95
       },
       "profile_description": "GTA 6’s mascot on Ethereum Chain. 🐊🌴\nPink scales. Purple shades. Vice City attitude.",
       "project_token_link_verified": false,
@@ -606,23 +644,22 @@
       "first_seen_at": "2026-11-21T00:29:29+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-21T00:29:29+00:00",
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
       "market": {
-        "liquidity_usd": 18187.55,
-        "market_cap_usd": 61535,
+        "liquidity_usd": 35342.99,
+        "market_cap_usd": 219110,
         "name": "Solana Beauty Salon",
         "pair_created_at_ms": 1795218539000,
         "pair_url": "https://dexscreener.com/solana/asztn7gufcodmjnfkcqgarc2bb6qniup9hzy4j2pkkl2",
-        "price_change_24h_pct": 101,
+        "price_change_24h_pct": 617,
         "symbol": "SBS",
-        "volume_24h_usd": 315340.78
+        "volume_24h_usd": 658469.2
       },
       "profile_description": "",
       "project_token_link_verified": false,
       "promotion_is_not_endorsement": false,
       "token_value_capture_verified": false,
       "triage_flags": [
-        "liquidité inférieure à 25 000 USD",
         "hausse 24 h supérieure à 100 %"
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
@@ -663,6 +700,42 @@
       "triage_flags": [
         "liquidité inférieure à 25 000 USD",
         "pool de plus de 14 jours"
+      ],
+      "triage_status": "MARKET_RESEARCH_REVIEW"
+    },
+    "solana:5eSAuugtvermtS5W4nB28fJ9coj2mjjj1o8VaqYWUUMo": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "5eSAuugtvermtS5W4nB28fJ9coj2mjjj1o8VaqYWUUMo",
+      "declared_links": [
+        "https://x.com/Wintalt/status/2123952453704208866?a=ZjHBwPBdKD49Y6VHv3E&s=20"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-21T02:49:14+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
+      "market": {
+        "liquidity_usd": 4235.39,
+        "market_cap_usd": 3694,
+        "name": "Ring Cat",
+        "pair_created_at_ms": 1795225988000,
+        "pair_url": "https://dexscreener.com/solana/3wkqqd9rkmmbn99mid72pgvrtz3egzupjzy9buubvlbb",
+        "price_change_24h_pct": -87.46,
+        "symbol": "RCAT",
+        "volume_24h_usd": 92665.14
+      },
+      "profile_description": "",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "liquidité inférieure à 25 000 USD"
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
     },
@@ -717,25 +790,24 @@
       ],
       "developer_verified": false,
       "discovery_sources": [
-        "recent_profile",
         "paid_boost"
       ],
       "exceptional_signal_approved": false,
       "first_seen_at": "2026-11-20T22:43:07+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-20T23:27:46+00:00",
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
       "market": {
-        "liquidity_usd": 66823.85,
-        "market_cap_usd": 1056675,
+        "liquidity_usd": 58630.48,
+        "market_cap_usd": 822131,
         "name": "Crypto of Thrones",
         "pair_created_at_ms": 1795210504000,
         "pair_url": "https://dexscreener.com/solana/9rjezwx6hsnwfgkqtn7sr9ne2ubsz4xemxnoefbrrwe9",
-        "price_change_24h_pct": 63.09,
+        "price_change_24h_pct": 26.89,
         "symbol": "CoT",
-        "volume_24h_usd": 21454.22
+        "volume_24h_usd": 28166.29
       },
-      "profile_description": "⚔️ Crypto of Thrones is a medieval strategy RPG on Solana. Build your kingdom, hunt monsters, clear dungeons, forge gear, hire mercenaries and fight other lords in PvP duels.\n\n👑 $CoT is the in-game coin: earn it by playing, spend it in the game, add liquidity in-game for PvP bonuses, and trade it on PumpSwap.\n\n🔒 Built for trust:\n• Mint and freeze authority revoked\n• Liquidity pool LP burned\n• Reward Pool (52.5% of supply) locked on Jupiter Lock with linear unlock over 24 months\n• Team and treasury tokens locked with a 12 month cliff\n• Every dra",
+      "profile_description": "",
       "project_token_link_verified": false,
       "promotion_is_not_endorsement": true,
       "token_value_capture_verified": false,
@@ -786,7 +858,7 @@
       "first_seen_at": "2026-11-21T00:29:29+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-21T00:29:29+00:00",
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
       "market": null,
       "profile_description": "",
       "project_token_link_verified": false,
@@ -941,6 +1013,45 @@
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
     },
+    "solana:7WCR1tjR5XHYn5xX7d6rXPh1B8RrBkLnJnPwN7bxpump": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "7WCR1tjR5XHYn5xX7d6rXPh1B8RrBkLnJnPwN7bxpump",
+      "declared_links": [
+        "https://spongebobsol.site",
+        "https://x.com/SpongebobSolX",
+        "https://t.me/SpongebobPortal"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-21T02:49:14+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
+      "market": {
+        "liquidity_usd": 19400.13,
+        "market_cap_usd": 84582,
+        "name": "Retarded Spongebob",
+        "pair_created_at_ms": 1795227457000,
+        "pair_url": "https://dexscreener.com/solana/qyvhf4wnrpvgqtwjpxg7fk5aoae1t4sgtfxueqpbe4r",
+        "price_change_24h_pct": 124,
+        "symbol": "SPONGEBOB",
+        "volume_24h_usd": 373849.73
+      },
+      "profile_description": "The goofiest sponge in the ocean just found the Solana button. No grand plan. Just full send energy and a whole lot of bubbles.",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "liquidité inférieure à 25 000 USD",
+        "hausse 24 h supérieure à 100 %"
+      ],
+      "triage_status": "MARKET_RESEARCH_REVIEW"
+    },
     "solana:7bCiddGLe5aM8HE2pigT9jsqkmC1HSPxyXN6GkHEpump": {
       "buy_approved": false,
       "chain": "solana",
@@ -996,16 +1107,16 @@
       "first_seen_at": "2026-11-21T00:29:29+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-21T00:29:29+00:00",
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
       "market": {
-        "liquidity_usd": 32806.27,
-        "market_cap_usd": 232430,
+        "liquidity_usd": 31954.44,
+        "market_cap_usd": 222073,
         "name": "LARES",
         "pair_created_at_ms": 1795216408000,
         "pair_url": "https://dexscreener.com/solana/37kvdt6rkoxvxkbfrd4wu4rbiktpsseklxhsxd8kggyr",
-        "price_change_24h_pct": 703,
+        "price_change_24h_pct": 667,
         "symbol": "LRS",
-        "volume_24h_usd": 26796.51
+        "volume_24h_usd": 30465.72
       },
       "profile_description": "A project can fail like any company.\nIt can never be a scam",
       "project_token_link_verified": false,
@@ -1158,7 +1269,7 @@
       "first_seen_at": "2026-11-20T22:33:45+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-20T23:27:46+00:00",
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
       "market": null,
       "profile_description": "",
       "project_token_link_verified": false,
@@ -1251,16 +1362,16 @@
       "first_seen_at": "2026-11-20T22:33:45+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-20T23:27:46+00:00",
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
       "market": {
-        "liquidity_usd": 28880.47,
-        "market_cap_usd": 79178,
+        "liquidity_usd": 28377.95,
+        "market_cap_usd": 76218,
         "name": "rockstar",
         "pair_created_at_ms": 1794740417000,
         "pair_url": "https://dexscreener.com/solana/5pynpptnpdg5resu3vqejkqhepij1uwp5l7a2cchmxdy",
-        "price_change_24h_pct": -17.33,
+        "price_change_24h_pct": -15.44,
         "symbol": "rockstar",
-        "volume_24h_usd": 85262.1
+        "volume_24h_usd": 74093.47
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -1399,6 +1510,33 @@
       ],
       "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
     },
+    "solana:AHpgYeCLtTC8a8rtpQqfqUa5GMsf5RrGfCyerotApump": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "AHpgYeCLtTC8a8rtpQqfqUa5GMsf5RrGfCyerotApump",
+      "declared_links": [
+        "https://x.com/esotericpigeon/status/2123959647300165990?a=lbJ8MlW3oLNPe98ATb4&s=20"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-21T02:49:14+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
+      "market": null,
+      "profile_description": "SBF is active on X and meming.\n\nHis nickname is the altruist, altruism is the cult of FTX.\n\nThis is Altruism Coin paired to the new SBF basket of assets FTX used to own.",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "aucune paire exacte avec liquidité renseignée"
+      ],
+      "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
+    },
     "solana:AbCYsiWBRxk4JpU1mveQ231pUjE2YgTrqGxaRE5cpump": {
       "buy_approved": false,
       "chain": "solana",
@@ -1477,6 +1615,33 @@
       "last_checked_at": "2026-11-21T00:29:29+00:00",
       "market": null,
       "profile_description": "Hedge the market. Paired with the ultimate Hedge of the market",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "aucune paire exacte avec liquidité renseignée"
+      ],
+      "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
+    },
+    "solana:B1svmpY7ExxMiRJ9x79vptyi6wizQGK4t6TweEhxpump": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "B1svmpY7ExxMiRJ9x79vptyi6wizQGK4t6TweEhxpump",
+      "declared_links": [
+        "https://x.com/ddddddd8a/status/2123964084131405940"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-21T02:49:14+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
+      "market": null,
+      "profile_description": "EVERYONE IS GETTING HACKED? FBI NOW??",
       "project_token_link_verified": false,
       "promotion_is_not_endorsement": false,
       "token_value_capture_verified": false,
@@ -1836,6 +2001,42 @@
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
     },
+    "solana:CktHFigNyDjkk1GesqUXkLM9zm5gXaYJAY8UEbhqpump": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "CktHFigNyDjkk1GesqUXkLM9zm5gXaYJAY8UEbhqpump",
+      "declared_links": [
+        "https://x.com/OnchainPeasant/status/2123958979214655577"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-21T02:49:14+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
+      "market": {
+        "liquidity_usd": 4829.51,
+        "market_cap_usd": 7383,
+        "name": "Lebrain James",
+        "pair_created_at_ms": 1795228169000,
+        "pair_url": "https://dexscreener.com/solana/bb7zwfpvvt4byof8f4ixd2j53oz3ccdntcstytsftsqu",
+        "price_change_24h_pct": -73.71,
+        "symbol": "Lebrain",
+        "volume_24h_usd": 79354.59
+      },
+      "profile_description": "Lebrain",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "liquidité inférieure à 25 000 USD"
+      ],
+      "triage_status": "MARKET_RESEARCH_REVIEW"
+    },
     "solana:Cmf39V6XDhnWf4C7VMwyACBZgJX8K3ztVJ4GeUF4pump": {
       "buy_approved": false,
       "chain": "solana",
@@ -1924,16 +2125,16 @@
       "first_seen_at": "2026-11-20T23:27:46+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-20T23:27:46+00:00",
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
       "market": {
-        "liquidity_usd": 37824.68,
-        "market_cap_usd": 265520,
+        "liquidity_usd": 35575.98,
+        "market_cap_usd": 239709,
         "name": "Christmax",
         "pair_created_at_ms": 1794522589000,
         "pair_url": "https://dexscreener.com/solana/88smwaf7twyij1pblt9tszzgprdqg17b7j5b54avudsd",
-        "price_change_24h_pct": 54.9,
+        "price_change_24h_pct": 59.12,
         "symbol": "Christmax",
-        "volume_24h_usd": 50327.43
+        "volume_24h_usd": 54330.6
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -2601,16 +2802,16 @@
       "first_seen_at": "2026-11-20T22:59:00+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-20T22:59:00+00:00",
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
       "market": {
-        "liquidity_usd": 7149.92,
-        "market_cap_usd": 10449,
+        "liquidity_usd": 7093.99,
+        "market_cap_usd": 10342,
         "name": "Manni Perez GTA VI",
         "pair_created_at_ms": 1737721877000,
         "pair_url": "https://dexscreener.com/solana/gpnizchusmyrag6veyxhmzhkakjawvrjrhv1augjcziw",
-        "price_change_24h_pct": -12.82,
+        "price_change_24h_pct": -12.21,
         "symbol": "MSPEREZ",
-        "volume_24h_usd": 2250.77
+        "volume_24h_usd": 2237.34
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -2771,6 +2972,43 @@
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
     },
+    "solana:GwRU4wwh6A9njT2QPDHtmxBrQnkVogBBLdU7eAXqpump": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "GwRU4wwh6A9njT2QPDHtmxBrQnkVogBBLdU7eAXqpump",
+      "declared_links": [
+        "https://x.com/AaronFlynnX/status/2123965586313290206"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-21T02:49:14+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
+      "market": {
+        "liquidity_usd": 18166.92,
+        "market_cap_usd": 74521,
+        "name": "Solana Beauty Salon",
+        "pair_created_at_ms": 1795228001000,
+        "pair_url": "https://dexscreener.com/solana/rguxxghp4zw2zmicrtfj2wxfhrzkzz6gj8khoeztbzf",
+        "price_change_24h_pct": 157,
+        "symbol": "SBS",
+        "volume_24h_usd": 212042.41
+      },
+      "profile_description": "SBS\n\nSolana Beauty Salon",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "liquidité inférieure à 25 000 USD",
+        "hausse 24 h supérieure à 100 %"
+      ],
+      "triage_status": "MARKET_RESEARCH_REVIEW"
+    },
     "solana:H8BevoVvtuhUJzwQBrJzWvBxcpKaJw19HXzvUh9upump": {
       "buy_approved": false,
       "chain": "solana",
@@ -2834,6 +3072,42 @@
         "volume_24h_usd": 887121.15
       },
       "profile_description": "",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "liquidité inférieure à 25 000 USD"
+      ],
+      "triage_status": "MARKET_RESEARCH_REVIEW"
+    },
+    "solana:HdXKvYk7eDD1YoT5vvmdU46v7ZoyfhZWfTtg4Mhvpump": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "HdXKvYk7eDD1YoT5vvmdU46v7ZoyfhZWfTtg4Mhvpump",
+      "declared_links": [
+        "https://x.com/briann1312/status/2123965877452189809"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-21T02:49:14+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
+      "market": {
+        "liquidity_usd": 1.23,
+        "market_cap_usd": 9837,
+        "name": "Callout And Thesis",
+        "pair_created_at_ms": 1795228509000,
+        "pair_url": "https://dexscreener.com/solana/8nwzm5kvjebdvq1swx8yzmpbh1xnsjyhquv6ztr1dbgq",
+        "price_change_24h_pct": -14.16,
+        "symbol": "CAT",
+        "volume_24h_usd": 0.09
+      },
+      "profile_description": "Callout And Thesis",
       "project_token_link_verified": false,
       "promotion_is_not_endorsement": false,
       "token_value_capture_verified": false,
@@ -2933,16 +3207,16 @@
       "first_seen_at": "2026-11-20T22:59:00+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-20T22:59:00+00:00",
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
       "market": {
-        "liquidity_usd": 193898.27,
-        "market_cap_usd": 3260453,
+        "liquidity_usd": 180435.09,
+        "market_cap_usd": 2858128,
         "name": "GTA6CAT",
         "pair_created_at_ms": 1787660841000,
         "pair_url": "https://dexscreener.com/solana/5e3dxlxgwmtdcoka51wyyakttjfzbwqcoyuhbui5gt2m",
-        "price_change_24h_pct": 83.58,
+        "price_change_24h_pct": 82.51,
         "symbol": "GATO",
-        "volume_24h_usd": 671085.63
+        "volume_24h_usd": 689843.97
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -3006,7 +3280,7 @@
       "first_seen_at": "2026-11-20T22:59:00+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-20T22:59:00+00:00",
+      "last_checked_at": "2026-11-21T02:49:14+00:00",
       "market": null,
       "profile_description": "",
       "project_token_link_verified": false,
