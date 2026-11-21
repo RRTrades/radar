@@ -263,6 +263,24 @@
       ],
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:h6y5mdhewkbtgedvdpnemtqpn7zh9mrtw9ffdbiwpump": {
+      "chain": "solana",
+      "contract": "H6y5mDHewKBtGeDVdpNemTqpN7zH9mrTw9FfDbiwpump",
+      "description_excerpt": "Launch privacy enabled tokens, shield assets, make confidential transfers, trade discreetly, and exchange P2P. Powered by @helius privacy rings.",
+      "first_seen": "2026-11-21T10:09:44+00:00",
+      "last_seen": "2026-11-21T10:09:44+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "confidential",
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
     }
   }
 }
