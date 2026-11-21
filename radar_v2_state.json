@@ -247,6 +247,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:bbbb3nt3qdfotcnjec9zyjad5i6ozkg46ykgu7rjpump": {
+      "chain": "solana",
+      "contract": "BBBB3NT3qDFoTCNjec9zYJad5i6ozKG46yKgU7Rjpump",
+      "description_excerpt": "Onchain trading intelligence for Solana, combining AI agents, market insights, with the use of Helius Privacy Rings.",
+      "first_seen": "2026-11-21T11:08:38+00:00",
+      "last_seen": "2026-11-21T11:08:38+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:eyx45dkqcmycf7ptmyd9kkpoke9pvthvrbtukpqvpump": {
       "chain": "solana",
       "contract": "EYX45DKQCMyCf7PtMyD9kKpokE9PVThVRbtUKPQvpump",
@@ -269,7 +286,7 @@
       "contract": "H6y5mDHewKBtGeDVdpNemTqpN7zH9mrTw9FfDbiwpump",
       "description_excerpt": "Launch privacy enabled tokens, shield assets, make confidential transfers, trade discreetly, and exchange P2P. Powered by @helius privacy rings.",
       "first_seen": "2026-11-21T10:09:44+00:00",
-      "last_seen": "2026-11-21T10:09:44+00:00",
+      "last_seen": "2026-11-21T11:08:38+00:00",
       "matched_problems": [
         {
           "hits": [
