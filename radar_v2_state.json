@@ -370,6 +370,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:23vu8bnwqulvsrltitcxt3i3ywtdxqcqamti2gtcu4pz": {
+      "chain": "solana",
+      "contract": "23vu8bnWQuLvsRLTiTcxt3i3YWTdxqCqamTi2gTCU4pz",
+      "description_excerpt": "You can watch our coins anywhere. You can only buy them here, from a fresh wallet funded through a privacy pool. The chart is public. The buyers are not.",
+      "first_seen": "2026-11-22T20:27:25+00:00",
+      "last_seen": "2026-11-22T20:27:25+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:439nprreuaawb4nmfnb8y9ahpekdrr5mpeflse7r6hkj": {
       "chain": "solana",
       "contract": "439nprrEUAawb4nmfnB8Y9AhpEKdRr5MpEfLse7R6HkJ",
@@ -533,6 +550,23 @@
         {
           "hits": [
             "confidential",
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:helio3xy1xajhbma9fwzmpendjoeim5lrmcjrrrxz5zm": {
+      "chain": "solana",
+      "contract": "HELio3Xy1xAJhbMA9fWZMpeNDjoeiM5LrmCJrrrxZ5zM",
+      "description_excerpt": "Send SOL and a note to any Solana wallet. The amount and the note are encrypted onchain by Helius Privacy Rings, so only the wallet you ring can read them.",
+      "first_seen": "2026-11-22T20:27:25+00:00",
+      "last_seen": "2026-11-22T20:27:25+00:00",
+      "matched_problems": [
+        {
+          "hits": [
             "privacy"
           ],
           "id": "privacy-compliance"
