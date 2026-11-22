@@ -524,6 +524,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:hgz8vhrhf1eptfb17nprxjhcp1rfqwratdvsgvrrpump": {
+      "chain": "solana",
+      "contract": "Hgz8vhRHf1epTfB17NPRXjhcp1RfqWRAtDvSgVRRpump",
+      "description_excerpt": "3,333 private identities // shielded by Privacy Rings // powered by Helius.",
+      "first_seen": "2026-11-22T15:42:57+00:00",
+      "last_seen": "2026-11-22T15:42:57+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:lehktgvvpctrmqngxxdcsasqajrntgqbbek2rytpump": {
       "chain": "solana",
       "contract": "LEHKtGvVPCtrMQngXXDcsasqaJRNTGQBBEK2Rytpump",
