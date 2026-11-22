@@ -315,6 +315,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:dtvehhnxwochmvwwx3zmwuysjhvd9omqrwwhzm7cq4fy": {
+      "chain": "solana",
+      "contract": "DTvEhHnxwochMvWwx3zmwUySJhvD9omQrWWhzM7cQ4fy",
+      "description_excerpt": "Grand Theft Lotto ($GTL) is a lottery protocol on Solana built around token ownership, recurring draws, and verifiable random prize selection.\n\nThe platform is designed to run a new lottery round every 2 hours, giving eligible $GTL holders the opportunity to win PlayStation 5 consoles, Grand Theft Auto VI copies, and tokenized $TTWO rewards.\n\n* Pla",
+      "first_seen": "2026-11-22T04:39:54+00:00",
+      "last_seen": "2026-11-22T04:39:54+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "redemption"
+          ],
+          "id": "stablecoin-resilience"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:eyx45dkqcmycf7ptmyd9kkpoke9pvthvrbtukpqvpump": {
       "chain": "solana",
       "contract": "EYX45DKQCMyCf7PtMyD9kKpokE9PVThVRbtUKPQvpump",
