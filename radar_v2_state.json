@@ -3,49 +3,63 @@
   "problem_evidence": {
     "https://github.com/Automattic/harper/issues/4057": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
       "source_url": "https://github.com/Automattic/harper/issues/4057",
       "status": "NEEDS_REVIEW",
       "title": "bitcoin-cli (bitcoin-cli is a command-line interface for interacting with the Bitcoin Core software, allowing users to manage wallets, query blockchain data, and perform transactions) marked as spelli"
     },
     "https://github.com/Automattic/harper/issues/4075": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
       "source_url": "https://github.com/Automattic/harper/issues/4075",
       "status": "NEEDS_REVIEW",
       "title": "Polkadot (decentralized, nominated proof-of-stake blockchain with smart contract functionality) marked as spelling problem"
     },
     "https://github.com/Automattic/harper/issues/4113": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
       "source_url": "https://github.com/Automattic/harper/issues/4113",
       "status": "NEEDS_REVIEW",
       "title": "parachains (In December 2021, Polkadot introduced parachain functionality, allowing multiple blockchains to run simultaneously and connect to the network's Relay Chain) marked as spelling problem"
     },
+    "https://github.com/Chronostar-Protocol/ChronoStar/issues/405": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/Chronostar-Protocol/ChronoStar/issues/405",
+      "status": "NEEDS_REVIEW",
+      "title": "[Enhancement][Frontend] Show a simulation fee estimate before wallet signing"
+    },
+    "https://github.com/DocForum/docforum-escrow/issues/125": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/DocForum/docforum-escrow/issues/125",
+      "status": "NEEDS_REVIEW",
+      "title": "[Phase E6] Hardware wallet (Ledger) signer adapter"
+    },
     "https://github.com/Emeka000/Health-chain-stellar/issues/1852": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
       "source_url": "https://github.com/Emeka000/Health-chain-stellar/issues/1852",
       "status": "NEEDS_REVIEW",
       "title": "[backend/blockchain] submitTransaction burns the idempotency key before enqueueing, never releases it, and reports duplicates as a 500"
     },
     "https://github.com/Emeka000/Health-chain-stellar/issues/1853": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
       "source_url": "https://github.com/Emeka000/Health-chain-stellar/issues/1853",
       "status": "NEEDS_REVIEW",
       "title": "[backend/blockchain] Webhook callbacks consume their idempotency key before processing, so a failed callback is lost and retries get 409"
     },
     "https://github.com/Emeka000/Health-chain-stellar/issues/1873": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
       "source_url": "https://github.com/Emeka000/Health-chain-stellar/issues/1873",
       "status": "NEEDS_REVIEW",
       "title": "[backend/blockchain] The blockchain IdempotencyService creates a Redis client it never connects, so every submitTransaction and webhook call fails with ClientClosedError"
     },
     "https://github.com/Emeka000/Health-chain-stellar/issues/1876": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
       "source_url": "https://github.com/Emeka000/Health-chain-stellar/issues/1876",
       "status": "NEEDS_REVIEW",
       "title": "[backend/blockchain] AdminGuard re-verifies JWTs with only JWT_SECRET, so admin endpoints reject tokens signed with the previous key during rotation, and it overwrites req.user"
@@ -66,10 +80,24 @@
     },
     "https://github.com/Konfirm-xyz/konfirm-backend/issues/275": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
       "source_url": "https://github.com/Konfirm-xyz/konfirm-backend/issues/275",
       "status": "NEEDS_REVIEW",
       "title": "checkComplianceCanary (the backend#210 fix) has no scheduled run or alert escalation — it only fires when an admin opens the blockchain-status page"
+    },
+    "https://github.com/LuisEduardoAvila/guaipeca/issues/64": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/LuisEduardoAvila/guaipeca/issues/64",
+      "status": "NEEDS_REVIEW",
+      "title": "_bridge_label never merges FCCS chapter labels; duplicate-heading suppression also dead"
+    },
+    "https://github.com/Mymayankyadav/lemma/issues/1796": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/Mymayankyadav/lemma/issues/1796",
+      "status": "NEEDS_REVIEW",
+      "title": "Android acknowledges a shared file even when the local file bridge returns HTTP 404"
     },
     "https://github.com/OpenAgentsInc/openagents/issues/13897": {
       "first_seen": "2026-11-21T06:04:07+00:00",
@@ -106,9 +134,23 @@
       "status": "NEEDS_REVIEW",
       "title": "feat(wallet): show the selected account in every pending action summary"
     },
+    "https://github.com/Stellar-Agent-Guard/stellar-agent-guard-dashboard/issues/513": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/Stellar-Agent-Guard/stellar-agent-guard-dashboard/issues/513",
+      "status": "NEEDS_REVIEW",
+      "title": "feat(wallet): explain refusal separately from user cancellation"
+    },
+    "https://github.com/Trellis-Ecosystem/trellis/issues/665": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/Trellis-Ecosystem/trellis/issues/665",
+      "status": "NEEDS_REVIEW",
+      "title": "Wallet network mismatch is only a navbar hint that always says 'Switch to Testnet'; signing is not blocked"
+    },
     "https://github.com/bsv-blockchain/teranode/issues/2241": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
       "source_url": "https://github.com/bsv-blockchain/teranode/issues/2241",
       "status": "NEEDS_REVIEW",
       "title": "fix(blockchain): bound startup lock waits when the chain-write row is missing"
@@ -134,12 +176,89 @@
       "status": "NEEDS_REVIEW",
       "title": "Hang watchdog kills a bridge with a blocked request loop and keeps restarting it"
     },
+    "https://github.com/dsmcewan/OPHANIM/issues/97": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/dsmcewan/OPHANIM/issues/97",
+      "status": "NEEDS_REVIEW",
+      "title": "Qualify collaboration bridge portability and per-file test coverage"
+    },
+    "https://github.com/elastic/kibana/issues/303886": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/elastic/kibana/issues/303886",
+      "status": "NEEDS_REVIEW",
+      "title": "APM Metrics tab: `opentelemetry_java.json` dashboard does not recognize JVM metrics sent through the OTel Java Micrometer bridge"
+    },
     "https://github.com/fleetdm/fleet/issues/58865": {
       "first_seen": "2026-11-21T06:04:07+00:00",
       "last_seen": "2026-11-21T06:04:07+00:00",
       "source_url": "https://github.com/fleetdm/fleet/issues/58865",
       "status": "NEEDS_REVIEW",
       "title": "mdm_bridge fails with 0x80070032 on some Dell hosts: Windows rejects fleetd's EmbeddedMode Flags hash (root cause of #36426)"
+    },
+    "https://github.com/garrytan/gstack/issues/4298": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/garrytan/gstack/issues/4298",
+      "status": "NEEDS_REVIEW",
+      "title": "autoplan phase publication is unverified when a Remote Control bridge_status record is the journal root"
+    },
+    "https://github.com/irahardianto/pi-mcp-extension/issues/331": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/irahardianto/pi-mcp-extension/issues/331",
+      "status": "NEEDS_REVIEW",
+      "title": "fix(tool-bridge): make cross-server tool name collisions deterministic regardless of connection order"
+    },
+    "https://github.com/irahardianto/pi-mcp-extension/issues/332": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/irahardianto/pi-mcp-extension/issues/332",
+      "status": "NEEDS_REVIEW",
+      "title": "fix(tool-bridge): prevent bridged MCP tools from overwriting and hiding built-in resource and peer-extension tools"
+    },
+    "https://github.com/irahardianto/pi-mcp-extension/issues/343": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/irahardianto/pi-mcp-extension/issues/343",
+      "status": "NEEDS_REVIEW",
+      "title": "fix(tool-bridge): honor narrowing exposure from direct to deferred or codemode across /reload and session resume"
+    },
+    "https://github.com/kramerc/honeyledger/issues/355": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/kramerc/honeyledger/issues/355",
+      "status": "NEEDS_REVIEW",
+      "title": "Track crypto wallets from public blockchain data"
+    },
+    "https://github.com/kramerc/honeyledger/issues/362": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/kramerc/honeyledger/issues/362",
+      "status": "NEEDS_REVIEW",
+      "title": "Track a Bitcoin wallet by address or xpub via Esplora"
+    },
+    "https://github.com/kramerc/honeyledger/issues/363": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/kramerc/honeyledger/issues/363",
+      "status": "NEEDS_REVIEW",
+      "title": "Track an Ethereum wallet by address via an Etherscan-compatible API"
+    },
+    "https://github.com/kramerc/honeyledger/issues/365": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/kramerc/honeyledger/issues/365",
+      "status": "NEEDS_REVIEW",
+      "title": "Track wallets on Arbitrum, Polygon, OP, and Base"
+    },
+    "https://github.com/kramerc/honeyledger/issues/366": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/kramerc/honeyledger/issues/366",
+      "status": "NEEDS_REVIEW",
+      "title": "Pair own-wallet and exchange transfers by transaction hash"
     },
     "https://github.com/leojay-net/Stellar-Dex-Chat/issues/1741": {
       "first_seen": "2026-11-21T06:04:07+00:00",
@@ -169,6 +288,20 @@
       "status": "NEEDS_REVIEW",
       "title": "T85D0 Lock not working since the latest release (0.3 bridge and 0.3 integration)"
     },
+    "https://github.com/mgradwohl/MoTrack/issues/262": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/mgradwohl/MoTrack/issues/262",
+      "status": "NEEDS_REVIEW",
+      "title": "Reference defects in Tracker's post-6.3.5 camera-capture bridge (native capture avoids them)"
+    },
+    "https://github.com/msdyatt/vvcoop-familyportal/issues/172": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/msdyatt/vvcoop-familyportal/issues/172",
+      "status": "NEEDS_REVIEW",
+      "title": "iPhone app: the native bridge accepts messages from any frame or origin"
+    },
     "https://github.com/open-gsd/gsd-core/issues/6430": {
       "first_seen": "2026-11-21T06:04:07+00:00",
       "last_seen": "2026-11-21T06:04:07+00:00",
@@ -178,7 +311,7 @@
     },
     "https://github.com/openminion/openminion/issues/663": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-21T06:04:06+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
       "source_url": "https://github.com/openminion/openminion/issues/663",
       "status": "NEEDS_REVIEW",
       "title": "Reject malformed RPC nonce values during blockchain preparation and send checks"
@@ -196,6 +329,13 @@
       "source_url": "https://github.com/reticlehq/reticle/issues/2435",
       "status": "NEEDS_REVIEW",
       "title": "reticle open says the SDK is missing for a detached tab the bridge refused"
+    },
+    "https://github.com/scout-off/scout-off-contracts/issues/1796": {
+      "first_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-22T06:06:14+00:00",
+      "source_url": "https://github.com/scout-off/scout-off-contracts/issues/1796",
+      "status": "NEEDS_REVIEW",
+      "title": "Backend: deriveRole ignores deactivated players/scouts and can only express one role per wallet"
     },
     "https://github.com/swc-project/swc-next-issues/issues/46": {
       "first_seen": "2026-11-21T06:04:07+00:00",
@@ -269,7 +409,7 @@
       "contract": "6fVQAutGBLpyYJRiekVjSjvKidsmgZx14bKV5HSSpump",
       "description_excerpt": "The first fully private L2 on Solana, powered by Privacy Rings.",
       "first_seen": "2026-11-22T05:37:40+00:00",
-      "last_seen": "2026-11-22T05:37:40+00:00",
+      "last_seen": "2026-11-22T06:06:13+00:00",
       "matched_problems": [
         {
           "hits": [
@@ -337,7 +477,7 @@
       "contract": "DTvEhHnxwochMvWwx3zmwUySJhvD9omQrWWhzM7cQ4fy",
       "description_excerpt": "Grand Theft Lotto ($GTL) is a lottery protocol on Solana built around token ownership, recurring draws, and verifiable random prize selection.\n\nThe platform is designed to run a new lottery round every 2 hours, giving eligible $GTL holders the opportunity to win PlayStation 5 consoles, Grand Theft Auto VI copies, and tokenized $TTWO rewards.\n\n* Pla",
       "first_seen": "2026-11-22T04:39:54+00:00",
-      "last_seen": "2026-11-22T05:37:40+00:00",
+      "last_seen": "2026-11-22T06:06:13+00:00",
       "matched_problems": [
         {
           "hits": [

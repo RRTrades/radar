@@ -1,7 +1,7 @@
 {
   "approved_for_buy": 0,
   "audit_scope": "GitHub repository existence, root file names and recent commit links only",
-  "audited_at_utc": "2026-11-21T06:04:46+00:00",
+  "audited_at_utc": "2026-11-22T06:06:54+00:00",
   "audited_count": 11,
   "entries": [
     {
@@ -70,6 +70,41 @@
       },
       "repository": "aaron11998/mev-protection-scanner",
       "repository_url": "https://github.com/aaron11998/mev-protection-scanner",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-22T06:06:54+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/agent402-dev/agent402-toolkit",
+        "https://github.com/agent402-dev/agent402-toolkit/commit/2d0663e802ec7f58624bbaa9dea22dbaf4ec28b6",
+        "https://github.com/agent402-dev/agent402-toolkit/commit/2317eeed026f6ae3f0f96fd821923f97adfb3ccc",
+        "https://github.com/agent402-dev/agent402-toolkit/commit/9edf4ee04a05cd46512030e2e305989617e1d170"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "agent402-dev/agent402-toolkit",
+      "repository_url": "https://github.com/agent402-dev/agent402-toolkit",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -728,6 +763,39 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-22T06:06:54+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/inemurisandesu/solidity-static-auditor-mcp",
+        "https://github.com/inemurisandesu/solidity-static-auditor-mcp/commit/903f82a797aa304aed3c0da202a1d85cb7686ae1"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 1
+      },
+      "repository": "inemurisandesu/solidity-static-auditor-mcp",
+      "repository_url": "https://github.com/inemurisandesu/solidity-static-auditor-mcp",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-21T06:04:46+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -1247,6 +1315,40 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-22T06:06:54+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/phee24/mandatesettle",
+        "https://github.com/phee24/mandatesettle/commit/ab4029e67999497ac5f9d7ace5b65496eb8fe10f",
+        "https://github.com/phee24/mandatesettle/commit/a7006ac18128d7b5c9a4a79e6490d97d11ed9ad7"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "phee24/mandatesettle",
+      "repository_url": "https://github.com/phee24/mandatesettle",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-20T22:59:41+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -1278,6 +1380,41 @@
       },
       "repository": "RetinaX-Org/RetinaX",
       "repository_url": "https://github.com/RetinaX-Org/RetinaX",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-22T06:06:54+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Ridwannurudeen/siyab",
+        "https://github.com/Ridwannurudeen/siyab/commit/d97fe9ede4a17e19379b17ce3e7b2757ffcb6bc4",
+        "https://github.com/Ridwannurudeen/siyab/commit/6d028041c06ec7f4e8a9f98d01f419d549ade805",
+        "https://github.com/Ridwannurudeen/siyab/commit/89aff5264d43223f739ab4e98115f79fe6d2c30f"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 1,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Ridwannurudeen/siyab",
+      "repository_url": "https://github.com/Ridwannurudeen/siyab",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -1317,6 +1454,40 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-22T06:06:54+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/RJ42-CODER/E2EE-File-sharing-",
+        "https://github.com/RJ42-CODER/E2EE-File-sharing-/commit/4572c7f0152826b1ccfd2d6cbd50150f0868a107",
+        "https://github.com/RJ42-CODER/E2EE-File-sharing-/commit/82a7f362c2a8d7a99fa2ceb45152fb640b23d826"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "RJ42-CODER/E2EE-File-sharing-",
+      "repository_url": "https://github.com/RJ42-CODER/E2EE-File-sharing-",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-21T06:04:46+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -1348,6 +1519,76 @@
       },
       "repository": "Sabbirnde/ZeroID",
       "repository_url": "https://github.com/Sabbirnde/ZeroID",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-22T06:06:54+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Sagiri00/ZeroGate-Vault",
+        "https://github.com/Sagiri00/ZeroGate-Vault/commit/a30abdbcf5217f58c38468aa6bff8496fc8d5356",
+        "https://github.com/Sagiri00/ZeroGate-Vault/commit/7be7f36aa4b027f465f4cff5c8bd3fe19bca1df4",
+        "https://github.com/Sagiri00/ZeroGate-Vault/commit/58fdbb013c59704f20ff166a0e97f6f8a0723354"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Sagiri00/ZeroGate-Vault",
+      "repository_url": "https://github.com/Sagiri00/ZeroGate-Vault",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-22T06:06:54+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/samaily/vault-smart-contract-",
+        "https://github.com/samaily/vault-smart-contract-/commit/c41b37e15d3210c671a88bef38cf154c96ee1d0a",
+        "https://github.com/samaily/vault-smart-contract-/commit/8c74866d6cd5660092ce12051d3587a7051eebad",
+        "https://github.com/samaily/vault-smart-contract-/commit/f1ccf44b65c44472725e6f8da3b4c3d39747c91c"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "samaily/vault-smart-contract-",
+      "repository_url": "https://github.com/samaily/vault-smart-contract-",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -1416,6 +1657,41 @@
       },
       "repository": "sparkx313/blockchain-defi-yield-optimizer",
       "repository_url": "https://github.com/sparkx313/blockchain-defi-yield-optimizer",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-22T06:06:54+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/sriram1983007-dev/sra-riskgate",
+        "https://github.com/sriram1983007-dev/sra-riskgate/commit/e134eaf5400c8aad382d8e33e25d3e5ead829aff",
+        "https://github.com/sriram1983007-dev/sra-riskgate/commit/ffe8bca368f41368c2f16badf0302143427d6663",
+        "https://github.com/sriram1983007-dev/sra-riskgate/commit/c2a5de4aa9c979da881fe6ad55f106c3e8ec60be"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 2,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "sriram1983007-dev/sra-riskgate",
+      "repository_url": "https://github.com/sriram1983007-dev/sra-riskgate",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -1524,13 +1800,13 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
-      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "audited_at_utc": "2026-11-22T06:06:54+00:00",
       "buy_approved": false,
       "evidence_links": [
         "https://github.com/Tgood91/Monad-OPSTACK-DEX",
-        "https://github.com/Tgood91/Monad-OPSTACK-DEX/commit/0c6e6b2c8f8d2869e7a51eb1543d1e99880b957f",
-        "https://github.com/Tgood91/Monad-OPSTACK-DEX/commit/2af47be7dd31bb19e46eee7ec0048d6ba52de0e7",
-        "https://github.com/Tgood91/Monad-OPSTACK-DEX/commit/4dd422844fe00faca1130ab561d3c90e89747e09"
+        "https://github.com/Tgood91/Monad-OPSTACK-DEX/commit/216e1f0680f8e5f3a6020cf1abc824ce7b077310",
+        "https://github.com/Tgood91/Monad-OPSTACK-DEX/commit/30ff0e29dee2bba904f17154ac5671af3e1f2331",
+        "https://github.com/Tgood91/Monad-OPSTACK-DEX/commit/0c6e6b2c8f8d2869e7a51eb1543d1e99880b957f"
       ],
       "fundamental_proofs": {
         "authentic_adoption": "NOT_VERIFIED",
@@ -1559,7 +1835,7 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
-      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "audited_at_utc": "2026-11-22T06:06:54+00:00",
       "buy_approved": false,
       "evidence_links": [
         "https://github.com/Tom910117/cex-dex-arb-engine-public",
@@ -1623,6 +1899,41 @@
       },
       "repository": "Trustlink-Labs/TSN-Protocol",
       "repository_url": "https://github.com/Trustlink-Labs/TSN-Protocol",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-22T06:06:54+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/vahidvl/solsec-b300-finetune",
+        "https://github.com/vahidvl/solsec-b300-finetune/commit/d60f1115c1c4b6ec879ebeecfe53f149cbea95cd",
+        "https://github.com/vahidvl/solsec-b300-finetune/commit/c0abbb93ba2a62839c714207af43a88e17c1219e",
+        "https://github.com/vahidvl/solsec-b300-finetune/commit/4ddcfb81f21e5eea3de9c38deb5c36648bd2bfb9"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "vahidvl/solsec-b300-finetune",
+      "repository_url": "https://github.com/vahidvl/solsec-b300-finetune",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -1811,5 +2122,5 @@
   "remaining_unaudited_priority": 1,
   "schema_version": 2,
   "selected_count": 12,
-  "total_audited_unique": 52
+  "total_audited_unique": 61
 }

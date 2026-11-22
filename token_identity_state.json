@@ -2,7 +2,7 @@
   "entries": {
     "aaron11998/mev-protection-scanner": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-21T06:05:41+00:00",
+      "checked_at_utc": "2026-11-22T06:07:51+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -13,9 +13,22 @@
       "repository": "aaron11998/mev-protection-scanner",
       "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
     },
+    "agent402-dev/agent402-toolkit": {
+      "buy_approved": false,
+      "checked_at_utc": "2026-11-22T06:07:51+00:00",
+      "contract_claims": [],
+      "contract_claims_found": 0,
+      "dev_identity_verified": false,
+      "identity_verified": false,
+      "investor_identity_verified": false,
+      "project_source_url": "https://github.com/agent402-dev/agent402-toolkit#readme",
+      "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
+      "repository": "agent402-dev/agent402-toolkit",
+      "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
+    },
     "andedauda2-alt/anagu": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-21T06:05:41+00:00",
+      "checked_at_utc": "2026-11-22T06:07:51+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -28,7 +41,7 @@
     },
     "apelevel/whisper": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-21T06:05:41+00:00",
+      "checked_at_utc": "2026-11-22T06:07:51+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -41,7 +54,7 @@
     },
     "candra0x6/sake": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-21T06:05:41+00:00",
+      "checked_at_utc": "2026-11-22T06:07:51+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -128,6 +141,19 @@
       "project_source_url": "https://github.com/elon00/hashkey-crosschain-bridge-ai#readme",
       "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
       "repository": "elon00/hashkey-crosschain-bridge-ai",
+      "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
+    },
+    "farawayuplift/kite-agent-arbitrage-scanner": {
+      "buy_approved": false,
+      "checked_at_utc": "2026-11-22T06:07:51+00:00",
+      "contract_claims": [],
+      "contract_claims_found": 0,
+      "dev_identity_verified": false,
+      "identity_verified": false,
+      "investor_identity_verified": false,
+      "project_source_url": "https://github.com/farawayuplift/kite-agent-arbitrage-scanner#readme",
+      "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
+      "repository": "farawayuplift/kite-agent-arbitrage-scanner",
       "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
     }
   },

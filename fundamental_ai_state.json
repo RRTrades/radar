@@ -61,6 +61,71 @@
       "source_readme_available": false,
       "token_contract_verified": false
     },
+    "agent402-dev/agent402-toolkit": {
+      "analyzed_at_utc": "2026-11-22T06:07:06+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/agent402-dev/agent402-toolkit#readme"
+            ],
+            "missing_evidence": "Independent adoption metrics, testimonials, or usage statistics",
+            "rationale": "No external data on users, deployments, or community uptake is provided.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/alsk1992/CloddsBot",
+              "https://github.com/FinAegis/core-banking-prototype-laravel",
+              "https://github.com/wevm/mppx",
+              "https://github.com/tempoxyz/mpp-specs",
+              "https://github.com/tempoxyz/mpp-rs"
+            ],
+            "missing_evidence": "Independent evaluation of how these projects compete or differ",
+            "rationale": "Only speculative GitHub matches are listed; no analysis of relevance or superiority.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/agent402-dev/agent402-toolkit#readme"
+            ],
+            "missing_evidence": "Performance or feature comparisons with competing solutions",
+            "rationale": "No benchmarks or third‑party evaluations compare this toolkit to alternatives.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/agent402-dev/agent402-toolkit#readme"
+            ],
+            "missing_evidence": "Evidence of token economics, usage fees, or value‑capture design",
+            "rationale": "Claims about PREQ token usage lack verification of economic model or capture mechanisms.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/agent402-dev/agent402-toolkit#readme"
+            ],
+            "missing_evidence": "Independent market or user research showing demand",
+            "rationale": "No external sources confirm a need for on‑chain token checks or x402 payment tooling.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "Toolkit claims to provide Solana token checks and payment helpers, but no independent evidence of the problem it solves, technical edge, competitor landscape, token value capture, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "agent402-dev/agent402-toolkit",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
     "andedauda2-alt/anagu": {
       "analyzed_at_utc": "2026-11-20T21:59:17+00:00",
       "assessment": {
@@ -608,6 +673,71 @@
       },
       "model": "openai/gpt-oss-120b",
       "repository": "elon00/hashkey-crosschain-bridge-ai",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
+    "farawayuplift/kite-agent-arbitrage-scanner": {
+      "analyzed_at_utc": "2026-11-22T06:07:06+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/farawayuplift/kite-agent-arbitrage-scanner"
+            ],
+            "missing_evidence": "User statistics, production deployments, or third‑party endorsements",
+            "rationale": "No proof of real users, deployments, or integrations beyond the repo",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/AcalaNetwork/Acala",
+              "https://github.com/shentufoundation/shentu",
+              "https://github.com/b3-fun/b3os",
+              "https://github.com/irisnet/irishub",
+              "https://github.com/anyswap/CrossChain-Bridge"
+            ],
+            "missing_evidence": "Objective feature or performance comparison",
+            "rationale": "Only unverified competitor links are listed; no comparative data provided",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/farawayuplift/kite-agent-arbitrage-scanner#readme"
+            ],
+            "missing_evidence": "Benchmarks, audits, or comparative tests",
+            "rationale": "Performance or security claims lack third‑party verification",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/farawayuplift/kite-agent-arbitrage-scanner#readme"
+            ],
+            "missing_evidence": "Token model, fee structure, or economic analysis",
+            "rationale": "No evidence of token economics or value capture mechanisms",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/farawayuplift/kite-agent-arbitrage-scanner#readme"
+            ],
+            "missing_evidence": "Independent market analysis or user demand",
+            "rationale": "No external data shows the market need for this scanner",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "The repository provides a TypeScript arbitrage scanner claiming x402 payment integration, but no independent evidence confirms a real problem, technical edge, competitor standing, token economics, or actual adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "farawayuplift/kite-agent-arbitrage-scanner",
       "source_readme_available": true,
       "token_contract_verified": false
     }
