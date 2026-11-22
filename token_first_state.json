@@ -128,16 +128,16 @@
       "first_seen_at": "2026-11-22T07:53:52+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T09:46:41+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": {
-        "liquidity_usd": 4605.75,
-        "market_cap_usd": 5627,
+        "liquidity_usd": 4284.66,
+        "market_cap_usd": 5050,
         "name": "Ethereum Cat",
         "pair_created_at_ms": 1795324115000,
         "pair_url": "https://dexscreener.com/ethereum/0x4031392de7a984265bc26b629c305646b827140d668617d3d02880125f936771",
-        "price_change_24h_pct": 231,
+        "price_change_24h_pct": 197,
         "symbol": "ETHCAT",
-        "volume_24h_usd": 11191.69
+        "volume_24h_usd": 13775.7
       },
       "profile_description": "The Cat of Ethereum 😾",
       "project_token_link_verified": false,
@@ -331,6 +331,44 @@
         "volume_24h_usd": 39645.28
       },
       "profile_description": "$FIONA , a crypto meme dedicated to Fiona the most famous hippo and ambassador of her species.",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "liquidité inférieure à 25 000 USD",
+        "hausse 24 h supérieure à 100 %"
+      ],
+      "triage_status": "MARKET_RESEARCH_REVIEW"
+    },
+    "ethereum:0x53e0e69b902cdbeb4bb1573d48df922cc64e0853": {
+      "buy_approved": false,
+      "chain": "ethereum",
+      "community_authenticity_verified": false,
+      "contract": "0x53E0e69b902cDbEb4bb1573d48df922Cc64E0853",
+      "declared_links": [
+        "https://www.ethcate.site/",
+        "https://x.com/ethcate_X"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-22T11:25:48+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
+      "market": {
+        "liquidity_usd": 4353.76,
+        "market_cap_usd": 5161,
+        "name": "Cate coin",
+        "pair_created_at_ms": 1795323959000,
+        "pair_url": "https://dexscreener.com/ethereum/0x55c3cc816c6a60bf3002d4ffdc2b0279c5e701025a8c22b8279e4a37dc2a7eea",
+        "price_change_24h_pct": 205,
+        "symbol": "CATE",
+        "volume_24h_usd": 14003.05
+      },
+      "profile_description": "Catecoin on Ethereum",
       "project_token_link_verified": false,
       "promotion_is_not_endorsement": false,
       "token_value_capture_verified": false,
@@ -719,6 +757,44 @@
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
     },
+    "ethereum:0xeb998e0394a42ca21064a68d2a8550e7a9584a37": {
+      "buy_approved": false,
+      "chain": "ethereum",
+      "community_authenticity_verified": false,
+      "contract": "0xeb998e0394A42Ca21064A68D2a8550E7A9584A37",
+      "declared_links": [
+        "https://www.nihaocatcoin.lol",
+        "https://x.com/nihaocateth"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-22T11:25:48+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
+      "market": {
+        "liquidity_usd": 6258.07,
+        "market_cap_usd": 9283,
+        "name": "ni hao cat",
+        "pair_created_at_ms": 1795335611000,
+        "pair_url": "https://dexscreener.com/ethereum/0x2c24ca0b4e7e85360ac2465fff4131d199d66e362cd5b640b7067ab7d72d4ef8",
+        "price_change_24h_pct": 146,
+        "symbol": "mihao",
+        "volume_24h_usd": 9016.51
+      },
+      "profile_description": "$mihao on #ethereum",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "liquidité inférieure à 25 000 USD",
+        "hausse 24 h supérieure à 100 %"
+      ],
+      "triage_status": "MARKET_RESEARCH_REVIEW"
+    },
     "ethereum:0xed05cb527c871cf8bda0e3c2729dd5a2c9a17dee": {
       "buy_approved": false,
       "chain": "ethereum",
@@ -886,16 +962,16 @@
       "first_seen_at": "2026-11-22T07:53:52+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T09:46:41+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": {
-        "liquidity_usd": 4708.32,
-        "market_cap_usd": 5085,
+        "liquidity_usd": 3806.43,
+        "market_cap_usd": 3796,
         "name": "Meme Wars General",
         "pair_created_at_ms": 1795331395000,
         "pair_url": "https://dexscreener.com/solana/gfj7mgkqqac2nnc6cvw2egcstii7bukhykzmcxphdreb",
-        "price_change_24h_pct": -88.32,
+        "price_change_24h_pct": -91.28,
         "symbol": "MWG",
-        "volume_24h_usd": 283529.92
+        "volume_24h_usd": 284303.81
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -1182,7 +1258,7 @@
       "first_seen_at": "2026-11-22T07:53:52+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T09:46:41+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": null,
       "profile_description": "",
       "project_token_link_verified": false,
@@ -1836,16 +1912,16 @@
       "first_seen_at": "2026-11-22T02:35:20+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T09:46:41+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": {
-        "liquidity_usd": 75278.34,
-        "market_cap_usd": 1111951,
+        "liquidity_usd": 74452.72,
+        "market_cap_usd": 1070887,
         "name": "PushCoin",
         "pair_created_at_ms": 1795312513000,
         "pair_url": "https://dexscreener.com/solana/gz6zuqpbwrcdfbl9aspyahdmyk3fnpv1am719rylmyzf",
-        "price_change_24h_pct": 3072,
+        "price_change_24h_pct": 2955,
         "symbol": "PushCoin",
-        "volume_24h_usd": 1017733.36
+        "volume_24h_usd": 1117412.02
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -1937,16 +2013,16 @@
       "first_seen_at": "2026-11-22T07:53:52+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T09:46:41+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": {
-        "liquidity_usd": 15173.68,
-        "market_cap_usd": 48954,
+        "liquidity_usd": 12777.29,
+        "market_cap_usd": 36076,
         "name": "Mihaomas",
         "pair_created_at_ms": 1795324080000,
         "pair_url": "https://dexscreener.com/solana/cbkvsc4ttbtsqzmj7g1tklzfbvva7ibqusxk3gb1woky",
-        "price_change_24h_pct": 82.63,
+        "price_change_24h_pct": 34.59,
         "symbol": "MIHAOMAS",
-        "volume_24h_usd": 124037.46
+        "volume_24h_usd": 126303.93
       },
       "profile_description": "Merry Mihaomas",
       "project_token_link_verified": false,
@@ -2521,6 +2597,33 @@
       ],
       "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
     },
+    "solana:4Hf5FH82eRDpyYzZHKCA87xaFa1uJm2HgEgbGRF4pump": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "4Hf5FH82eRDpyYzZHKCA87xaFa1uJm2HgEgbGRF4pump",
+      "declared_links": [
+        "https://x.com/asdfawfea/status/2124453570267246656"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-22T11:25:48+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
+      "market": null,
+      "profile_description": "",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "aucune paire exacte avec liquidité renseignée"
+      ],
+      "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
+    },
     "solana:4Kfos2jUqUxwbDqNAJL16B4C99tdtaMSWZS5XmuSZr6Z": {
       "buy_approved": false,
       "chain": "solana",
@@ -2775,7 +2878,7 @@
       "first_seen_at": "2026-11-22T07:53:52+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T09:46:41+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": null,
       "profile_description": "Whales love Christmas \nWhales will love WhalesMas",
       "project_token_link_verified": false,
@@ -3495,24 +3598,23 @@
       "first_seen_at": "2026-11-22T07:53:52+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T09:46:41+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": {
-        "liquidity_usd": 17189.36,
-        "market_cap_usd": 62570,
+        "liquidity_usd": 11751.96,
+        "market_cap_usd": 30682,
         "name": "fireball",
         "pair_created_at_ms": 1795332521000,
         "pair_url": "https://dexscreener.com/solana/4fyhjgzwodrpsc3y5fg1wyxmjcaodfibk3itbhz5lcvm",
-        "price_change_24h_pct": 134,
+        "price_change_24h_pct": 14.57,
         "symbol": "FIREBALL",
-        "volume_24h_usd": 154229.27
+        "volume_24h_usd": 215200.88
       },
       "profile_description": "",
       "project_token_link_verified": false,
       "promotion_is_not_endorsement": false,
       "token_value_capture_verified": false,
       "triage_flags": [
-        "liquidité inférieure à 25 000 USD",
-        "hausse 24 h supérieure à 100 %"
+        "liquidité inférieure à 25 000 USD"
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
     },
@@ -3765,16 +3867,16 @@
       "first_seen_at": "2026-11-21T16:26:27+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T09:46:41+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": {
-        "liquidity_usd": 80580.61,
-        "market_cap_usd": 820833,
+        "liquidity_usd": 80595.85,
+        "market_cap_usd": 818822,
         "name": "Rocket Raccoon",
         "pair_created_at_ms": 1795261268000,
         "pair_url": "https://dexscreener.com/solana/9nlfujwrhgqyxkw2jukka1gjvtibxaty2ad4qrysckke",
-        "price_change_24h_pct": 1665,
+        "price_change_24h_pct": 1660,
         "symbol": "ROCKET",
-        "volume_24h_usd": 212154.24
+        "volume_24h_usd": 212286.1
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -5000,7 +5102,7 @@
       "first_seen_at": "2026-11-22T02:35:20+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T09:46:41+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": null,
       "profile_description": "",
       "project_token_link_verified": false,
@@ -5028,16 +5130,16 @@
       "first_seen_at": "2026-11-22T06:36:49+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T09:46:41+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": {
-        "liquidity_usd": 565.18,
-        "market_cap_usd": 550,
+        "liquidity_usd": 638.91,
+        "market_cap_usd": 626,
         "name": "ZOLANON",
         "pair_created_at_ms": 1795328378000,
         "pair_url": "https://dexscreener.com/solana/ftn2b5yoi9nzkhxi1z5oze1ybdjtukc8iusvzxhcov6x",
-        "price_change_24h_pct": -97.76,
+        "price_change_24h_pct": -97.45,
         "symbol": "ZOLANON",
-        "volume_24h_usd": 18045.66
+        "volume_24h_usd": 18052.59
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -5935,16 +6037,16 @@
       "first_seen_at": "2026-11-21T11:08:38+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-21T22:59:59+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": {
-        "liquidity_usd": 55076.65,
-        "market_cap_usd": 273019,
+        "liquidity_usd": 59157.62,
+        "market_cap_usd": 302330,
         "name": "AiDiglet",
         "pair_created_at_ms": 1793190770000,
         "pair_url": "https://dexscreener.com/solana/3mxdjdz1gae5hzic4dj4unldxj5dbcc9jssyq55mfykg",
-        "price_change_24h_pct": 32.26,
+        "price_change_24h_pct": 20.75,
         "symbol": "DIGS",
-        "volume_24h_usd": 665485.83
+        "volume_24h_usd": 732759.85
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -5973,7 +6075,7 @@
       "first_seen_at": "2026-11-22T04:39:54+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T09:46:41+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": null,
       "profile_description": "",
       "project_token_link_verified": false,
@@ -8315,16 +8417,16 @@
       "first_seen_at": "2026-11-22T08:50:14+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T08:50:14+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": {
-        "liquidity_usd": 6011.41,
-        "market_cap_usd": 10470,
+        "liquidity_usd": 2028.48,
+        "market_cap_usd": 2018,
         "name": "exponential coin",
         "pair_created_at_ms": 1795335744000,
         "pair_url": "https://dexscreener.com/solana/gq2yv5tdfupse6447ksutqo4t2qazysutac8ujghufc7",
-        "price_change_24h_pct": -63.66,
+        "price_change_24h_pct": -92.65,
         "symbol": "eˣ",
-        "volume_24h_usd": 96475.9
+        "volume_24h_usd": 109988.59
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -10560,16 +10662,16 @@
       "first_seen_at": "2026-11-21T15:44:41+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T08:50:14+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": {
-        "liquidity_usd": 5758.98,
-        "market_cap_usd": 5094,
+        "liquidity_usd": 5300.65,
+        "market_cap_usd": 4416,
         "name": "Ah Shit, Here We Go Again",
         "pair_created_at_ms": 1794958720000,
         "pair_url": "https://dexscreener.com/solana/d1lxpkfpbqr1ywvgwyqsed93czdz8ha7s9g7yb8lmffe",
-        "price_change_24h_pct": -99.33,
+        "price_change_24h_pct": -99.25,
         "symbol": "SHIT",
-        "volume_24h_usd": 4594180.14
+        "volume_24h_usd": 4169651.62
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -11052,16 +11154,16 @@
       "first_seen_at": "2026-11-22T08:50:14+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T08:50:14+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": {
-        "liquidity_usd": 1.28,
-        "market_cap_usd": 20255,
+        "liquidity_usd": 0.02,
+        "market_cap_usd": 8519,
         "name": "Goatcoin",
         "pair_created_at_ms": 1795337186000,
         "pair_url": "https://dexscreener.com/solana/ardyes1f4v5kjuaw68yfceyx3gap6yqcfu72nfb9u6th",
-        "price_change_24h_pct": -10.37,
+        "price_change_24h_pct": -62.31,
         "symbol": "GOAT",
-        "volume_24h_usd": 0.07
+        "volume_24h_usd": 0.29
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -12151,16 +12253,16 @@
       "first_seen_at": "2026-11-20T22:59:00+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T08:50:14+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": {
-        "liquidity_usd": 172974.36,
-        "market_cap_usd": 2552609,
+        "liquidity_usd": 166540.89,
+        "market_cap_usd": 2337880,
         "name": "GTA6CAT",
         "pair_created_at_ms": 1787660841000,
         "pair_url": "https://dexscreener.com/solana/5e3dxlxgwmtdcoka51wyyakttjfzbwqcoyuhbui5gt2m",
-        "price_change_24h_pct": -21.79,
+        "price_change_24h_pct": -22.64,
         "symbol": "GATO",
-        "volume_24h_usd": 274708.6
+        "volume_24h_usd": 255924.35
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -12939,16 +13041,16 @@
       "first_seen_at": "2026-11-22T03:33:20+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-22T08:50:14+00:00",
+      "last_checked_at": "2026-11-22T11:25:48+00:00",
       "market": {
-        "liquidity_usd": 138701.19,
-        "market_cap_usd": 2329835,
+        "liquidity_usd": 150930.72,
+        "market_cap_usd": 2717293,
         "name": "Dessa",
         "pair_created_at_ms": 1793019918000,
         "pair_url": "https://dexscreener.com/solana/dextcer4k9dwbxtmu8znvvwgevvmvhmb183pf2xxzwvh",
-        "price_change_24h_pct": -7.23,
+        "price_change_24h_pct": 7.84,
         "symbol": "DESSA",
-        "volume_24h_usd": 628166.56
+        "volume_24h_usd": 674272.78
       },
       "profile_description": "",
       "project_token_link_verified": false,
