@@ -869,6 +869,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:faycmghkmdk6i5bomozr81kr658sujhnzedzampjpump": {
+      "chain": "solana",
+      "contract": "FaYCmGHKMdk6i5boMozr81kr658sUJHnzedzaMPjpump",
+      "description_excerpt": "The multichain trading terminal. One balance, five chains, private trades on Solana via @HeliusPrivacy",
+      "first_seen": "2026-11-23T20:29:35+00:00",
+      "last_seen": "2026-11-23T20:29:35+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:fsv9ouojcamdekdtr6nqluxvgj2wms2ud6v5pwrribio": {
       "chain": "solana",
       "contract": "FSV9oUoJCAMDeKdTR6nQLuxVGJ2wms2ud6V5PwRriBio",
@@ -891,7 +908,7 @@
       "contract": "Gb5PN7CtQ4AhmLAdnpPNTVHDZJrRmGqRsGbEEsqMpump",
       "description_excerpt": "private mode for the trenches. built on Helius Privacy Rings.",
       "first_seen": "2026-11-23T19:44:06+00:00",
-      "last_seen": "2026-11-23T19:44:06+00:00",
+      "last_seen": "2026-11-23T20:29:35+00:00",
       "matched_problems": [
         {
           "hits": [
