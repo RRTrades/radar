@@ -738,7 +738,24 @@
       "contract": "Bj5Q3WQ7rfegHgs5NSbCd9G5dDkgaftnSXnwY1Popump",
       "description_excerpt": "Ring Factory lets any team build its own privacy Ring on Solana in minutes instead of a sales call, every key in its own signer. Open today in the Sandbox. $FCTRY is the build credit: holders deploy and host mainnet Rings for less, and curators bond it to list.",
       "first_seen": "2026-11-23T12:19:47+00:00",
-      "last_seen": "2026-11-23T12:19:47+00:00",
+      "last_seen": "2026-11-23T13:45:44+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:czbd4ftklf4elcpnuawbgxcivucpclwfftd4oqwkpump": {
+      "chain": "solana",
+      "contract": "Czbd4FtkLf4ELCPNuawbGxcivuCpcLWFFTD4oqWkpump",
+      "description_excerpt": "Trade any coin long or short before it exists. Powered by Helius Privacy Rings.",
+      "first_seen": "2026-11-23T13:45:44+00:00",
+      "last_seen": "2026-11-23T13:45:44+00:00",
       "matched_problems": [
         {
           "hits": [
@@ -762,6 +779,23 @@
             "redemption"
           ],
           "id": "stablecoin-resilience"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:eckg2j7gzdyck1q4qpztyegdescpobhuuddnxmgbxezx": {
+      "chain": "solana",
+      "contract": "Eckg2J7GZdYcK1q4QpztYeGdeSCPobHUuDdnXmgbXezX",
+      "description_excerpt": "Rings is at 3M and is only going higher from here \n\nThey got their name from Lord of The Rings where the whole series is about the ring called \"One Ring\" that makes you invisible.\n\nWe already have 300k MC+ runners on there but no \"main runner\" yet. \n\nThe launchpad is litterally called \"Rings\" and is all about privacy and being invisible onchain.",
+      "first_seen": "2026-11-23T13:45:44+00:00",
+      "last_seen": "2026-11-23T13:45:44+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
         }
       ],
       "source": "DexScreener latest profile",
