@@ -630,6 +630,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:6jpryemzy3ggw7co4voj5qaqj56we3qo79hqwjzbepkg": {
+      "chain": "solana",
+      "contract": "6JpRyEmZy3gGW7Co4voj5QAqJ56WE3qo79hQwjzBepKg",
+      "description_excerpt": "Private agentic AI trading on Solana. Built on Privacy Rings by Helius.",
+      "first_seen": "2026-11-23T21:31:40+00:00",
+      "last_seen": "2026-11-23T21:31:40+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:6k6brawsqsaq13q2vetqnhasxgi5vjfjb3svezm8pump": {
       "chain": "solana",
       "contract": "6k6bRaWSqsAq13q2VetqNhasxgi5vJfJB3svEzM8pump",
@@ -874,7 +891,7 @@
       "contract": "FaYCmGHKMdk6i5boMozr81kr658sUJHnzedzaMPjpump",
       "description_excerpt": "The multichain trading terminal. One balance, five chains, private trades on Solana via @HeliusPrivacy",
       "first_seen": "2026-11-23T20:29:35+00:00",
-      "last_seen": "2026-11-23T20:29:35+00:00",
+      "last_seen": "2026-11-23T21:31:40+00:00",
       "matched_problems": [
         {
           "hits": [
