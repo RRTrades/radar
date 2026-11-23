@@ -750,6 +750,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:cloknfgzzzc3igkc1kwyctpg2nrqgqmak6rj7hwg7sl": {
+      "chain": "solana",
+      "contract": "CLoKNfGZzZc3igKC1KWyCtpG2NRqGQMAK6RJ7HWG7sL",
+      "description_excerpt": "Private token launches on \n@Solana. \nConfidential balances and encrypted transfers powered by \n@Helius.",
+      "first_seen": "2026-11-23T17:37:19+00:00",
+      "last_seen": "2026-11-23T17:37:19+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "confidential"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:czbd4ftklf4elcpnuawbgxcivucpclwfftd4oqwkpump": {
       "chain": "solana",
       "contract": "Czbd4FtkLf4ELCPNuawbGxcivuCpcLWFFTD4oqWkpump",
@@ -772,7 +789,24 @@
       "contract": "CZZL1tRsYv7D1j38y5axbxGJ42HYJ5MEJyq9YnDRT7AN",
       "description_excerpt": "A privacy terminal on Solana.\n\nFrictionless, secure and instant privacy with custody wallets: hidden balances, unlinked payments, ghost trades.",
       "first_seen": "2026-11-23T16:37:30+00:00",
-      "last_seen": "2026-11-23T16:37:30+00:00",
+      "last_seen": "2026-11-23T17:37:19+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:dmtxhds1isv7fvryzvojpg5stephqfytfahhayhvpump": {
+      "chain": "solana",
+      "contract": "DMTxhDS1isv7fVrYZvoJpG5stEpHqfYTFAhHAYHVpump",
+      "description_excerpt": "Offshore is a neobank on Helius Privacy Rings. Encrypted balance, private transfers to any @handle, and cards you top up straight from any memecoin.",
+      "first_seen": "2026-11-23T17:37:19+00:00",
+      "last_seen": "2026-11-23T17:37:19+00:00",
       "matched_problems": [
         {
           "hits": [
@@ -824,6 +858,23 @@
       "description_excerpt": "privacy for everyone. launch tokens with built-in privacy rings.",
       "first_seen": "2026-11-20T16:30:35+00:00",
       "last_seen": "2026-11-20T16:30:35+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:fsv9ouojcamdekdtr6nqluxvgj2wms2ud6v5pwrribio": {
+      "chain": "solana",
+      "contract": "FSV9oUoJCAMDeKdTR6nQLuxVGJ2wms2ud6V5PwRriBio",
+      "description_excerpt": "AI DeSci on Solana. Research with 12 AI agents, launch science tokens and fund privately via Helius Privacy Rings",
+      "first_seen": "2026-11-23T17:37:19+00:00",
+      "last_seen": "2026-11-23T17:37:19+00:00",
       "matched_problems": [
         {
           "hits": [
@@ -938,7 +989,7 @@
       "contract": "YCvCKaEddUZekjaWPvdiof2VQR3MB8JJQLjn5NZpump",
       "description_excerpt": "Ringforge is a no-code builder for private apps on Solana Privacy Rings. Snap blocks on a canvas, test the flow with the real Privacy Rings SDK, publish a live app with encrypted amounts and take the source code with you. Holding $FORGE unlocks free publishing.",
       "first_seen": "2026-11-23T16:37:30+00:00",
-      "last_seen": "2026-11-23T16:37:30+00:00",
+      "last_seen": "2026-11-23T17:37:19+00:00",
       "matched_problems": [
         {
           "hits": [
