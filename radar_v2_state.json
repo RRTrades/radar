@@ -370,6 +370,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "ethereum:0x64e7b3cfb448c77ce9447e1a9733f43968cff0a0": {
+      "chain": "ethereum",
+      "contract": "0x64E7b3cFb448C77ce9447e1A9733F43968cFf0a0",
+      "description_excerpt": "Veridia privacy money mentioned by Vitalik",
+      "first_seen": "2026-11-23T00:08:37+00:00",
+      "last_seen": "2026-11-23T00:08:37+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:23vu8bnwqulvsrltitcxt3i3ywtdxqcqamti2gtcu4pz": {
       "chain": "solana",
       "contract": "23vu8bnWQuLvsRLTiTcxt3i3YWTdxqCqamTi2gTCU4pz",
