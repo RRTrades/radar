@@ -687,7 +687,7 @@
       "contract": "AC2S3n2SPzZ97i757ds6yfAuVoKKqzqR7dwv21BAwHDg",
       "description_excerpt": "The Dark Chain. A privacy L1 where every US stock is gas — NVDAx, TSLAx, AAPLx and more, bridged from Solana. Shielded by default. $TNBR",
       "first_seen": "2026-11-23T10:11:57+00:00",
-      "last_seen": "2026-11-23T11:22:38+00:00",
+      "last_seen": "2026-11-23T12:19:47+00:00",
       "matched_problems": [
         {
           "hits": [
@@ -722,6 +722,23 @@
       "description_excerpt": "Onchain trading intelligence for Solana, combining AI agents, market insights, with the use of Helius Privacy Rings.",
       "first_seen": "2026-11-21T11:08:38+00:00",
       "last_seen": "2026-11-21T12:53:11+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:bj5q3wq7rfeghgs5nsbcd9g5ddkgaftnsxnwy1popump": {
+      "chain": "solana",
+      "contract": "Bj5Q3WQ7rfegHgs5NSbCd9G5dDkgaftnSXnwY1Popump",
+      "description_excerpt": "Ring Factory lets any team build its own privacy Ring on Solana in minutes instead of a sales call, every key in its own signer. Open today in the Sandbox. $FCTRY is the build credit: holders deploy and host mainnet Rings for less, and curators bond it to list.",
+      "first_seen": "2026-11-23T12:19:47+00:00",
+      "last_seen": "2026-11-23T12:19:47+00:00",
       "matched_problems": [
         {
           "hits": [
@@ -772,7 +789,7 @@
       "contract": "GKg5RfhuCVprXSyESwpNznuzrWD5mCmjeg1eb1LejyZP",
       "description_excerpt": "Launch a token on a Meteora bonding curve and hold it in an encrypted balance from the first block. Your balances and transfers run through Solana Privacy Rings. The trading fee is fixed at launch, 2%, 3% or 4%, and it is the same after graduation.",
       "first_seen": "2026-11-23T11:22:38+00:00",
-      "last_seen": "2026-11-23T11:22:38+00:00",
+      "last_seen": "2026-11-23T12:19:47+00:00",
       "matched_problems": [
         {
           "hits": [
