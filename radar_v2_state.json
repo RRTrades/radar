@@ -3,24 +3,38 @@
   "problem_evidence": {
     "https://github.com/Automattic/harper/issues/4057": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-23T06:17:05+00:00",
       "source_url": "https://github.com/Automattic/harper/issues/4057",
       "status": "NEEDS_REVIEW",
       "title": "bitcoin-cli (bitcoin-cli is a command-line interface for interacting with the Bitcoin Core software, allowing users to manage wallets, query blockchain data, and perform transactions) marked as spelli"
     },
     "https://github.com/Automattic/harper/issues/4075": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-23T06:17:05+00:00",
       "source_url": "https://github.com/Automattic/harper/issues/4075",
       "status": "NEEDS_REVIEW",
       "title": "Polkadot (decentralized, nominated proof-of-stake blockchain with smart contract functionality) marked as spelling problem"
     },
     "https://github.com/Automattic/harper/issues/4113": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-23T06:17:05+00:00",
       "source_url": "https://github.com/Automattic/harper/issues/4113",
       "status": "NEEDS_REVIEW",
       "title": "parachains (In December 2021, Polkadot introduced parachain functionality, allowing multiple blockchains to run simultaneously and connect to the network's Relay Chain) marked as spelling problem"
+    },
+    "https://github.com/Be90nia/xray-core-rust/issues/268": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/Be90nia/xray-core-rust/issues/268",
+      "status": "NEEDS_REVIEW",
+      "title": "[FakeDNS dispatcher] Forward pool-membership checks through the engine bridge"
+    },
+    "https://github.com/Chronostar-Protocol/ChronoStar/issues/401": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/Chronostar-Protocol/ChronoStar/issues/401",
+      "status": "NEEDS_REVIEW",
+      "title": "[Enhancement][Frontend] Save recoverable create-form drafts per wallet and network"
     },
     "https://github.com/Chronostar-Protocol/ChronoStar/issues/405": {
       "first_seen": "2026-11-22T06:06:14+00:00",
@@ -45,21 +59,21 @@
     },
     "https://github.com/Emeka000/Health-chain-stellar/issues/1853": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-23T06:17:05+00:00",
       "source_url": "https://github.com/Emeka000/Health-chain-stellar/issues/1853",
       "status": "NEEDS_REVIEW",
       "title": "[backend/blockchain] Webhook callbacks consume their idempotency key before processing, so a failed callback is lost and retries get 409"
     },
     "https://github.com/Emeka000/Health-chain-stellar/issues/1873": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-23T06:17:05+00:00",
       "source_url": "https://github.com/Emeka000/Health-chain-stellar/issues/1873",
       "status": "NEEDS_REVIEW",
       "title": "[backend/blockchain] The blockchain IdempotencyService creates a Redis client it never connects, so every submitTransaction and webhook call fails with ClientClosedError"
     },
     "https://github.com/Emeka000/Health-chain-stellar/issues/1876": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-23T06:17:05+00:00",
       "source_url": "https://github.com/Emeka000/Health-chain-stellar/issues/1876",
       "status": "NEEDS_REVIEW",
       "title": "[backend/blockchain] AdminGuard re-verifies JWTs with only JWT_SECRET, so admin endpoints reject tokens signed with the previous key during rotation, and it overwrites req.user"
@@ -71,16 +85,23 @@
       "status": "NEEDS_REVIEW",
       "title": "Design public-source to staged-product promotion: verified builds, environment gates, wallet release separation"
     },
+    "https://github.com/Gentleman-Programming/gentle-shell/issues/2557": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/Gentleman-Programming/gentle-shell/issues/2557",
+      "status": "NEEDS_REVIEW",
+      "title": "bug(herdr): Unix socket check skips the managed Pi bridge on native Windows"
+    },
     "https://github.com/Gloriachinedu/lumenflow-contracts/issues/1534": {
       "first_seen": "2026-11-21T06:04:07+00:00",
-      "last_seen": "2026-11-21T06:04:07+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
       "source_url": "https://github.com/Gloriachinedu/lumenflow-contracts/issues/1534",
       "status": "NEEDS_REVIEW",
       "title": "[Frontend] Add wallet connection status indicator to all payment pages"
     },
     "https://github.com/Konfirm-xyz/konfirm-backend/issues/275": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-23T06:17:05+00:00",
       "source_url": "https://github.com/Konfirm-xyz/konfirm-backend/issues/275",
       "status": "NEEDS_REVIEW",
       "title": "checkComplianceCanary (the backend#210 fix) has no scheduled run or alert escalation — it only fires when an admin opens the blockchain-status page"
@@ -98,6 +119,13 @@
       "source_url": "https://github.com/Mymayankyadav/lemma/issues/1796",
       "status": "NEEDS_REVIEW",
       "title": "Android acknowledges a shared file even when the local file bridge returns HTTP 404"
+    },
+    "https://github.com/Octo-Protocol-org/Octo-Protocol/issues/702": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/Octo-Protocol-org/Octo-Protocol/issues/702",
+      "status": "NEEDS_REVIEW",
+      "title": "test(integration): Add a Bruno request for Add Trustline (POST /v1/wallets/:id/trustlines) to the api-tests collection"
     },
     "https://github.com/OpenAgentsInc/openagents/issues/13897": {
       "first_seen": "2026-11-21T06:04:07+00:00",
@@ -148,9 +176,16 @@
       "status": "NEEDS_REVIEW",
       "title": "Wallet network mismatch is only a navbar hint that always says 'Switch to Testnet'; signing is not blocked"
     },
+    "https://github.com/ZcashFoundation/zinder/issues/488": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/ZcashFoundation/zinder/issues/488",
+      "status": "NEEDS_REVIEW",
+      "title": "perf(ingest): decide between every-block and commitment-budget checkpoints as the wallet-serving default"
+    },
     "https://github.com/bsv-blockchain/teranode/issues/2241": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-23T06:17:05+00:00",
       "source_url": "https://github.com/bsv-blockchain/teranode/issues/2241",
       "status": "NEEDS_REVIEW",
       "title": "fix(blockchain): bound startup lock waits when the chain-write row is missing"
@@ -204,6 +239,34 @@
       "status": "NEEDS_REVIEW",
       "title": "autoplan phase publication is unverified when a Remote Control bridge_status record is the journal root"
     },
+    "https://github.com/gosodax/sodax-sdks/issues/657": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/gosodax/sodax-sdks/issues/657",
+      "status": "NEEDS_REVIEW",
+      "title": "Bridge limit ignores vault liquidity for plain tokens on Sonic"
+    },
+    "https://github.com/herdrdev/herdr/issues/5624": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/herdrdev/herdr/issues/5624",
+      "status": "NEEDS_REVIEW",
+      "title": "macOS remote: server → client stream stalls silently; panes freeze until the remote-client-bridge ssh is killed"
+    },
+    "https://github.com/inji/inji-wallet/issues/2706": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/inji/inji-wallet/issues/2706",
+      "status": "NEEDS_REVIEW",
+      "title": "Support SVG-Based Card Rendering for mDoc Credentials in Inji Wallet (Custom)"
+    },
+    "https://github.com/inji/inji-wallet/issues/2712": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/inji/inji-wallet/issues/2712",
+      "status": "NEEDS_REVIEW",
+      "title": "[Kotlin] Key Attestation - Inji Mobile Wallet Implementation "
+    },
     "https://github.com/irahardianto/pi-mcp-extension/issues/331": {
       "first_seen": "2026-11-22T06:06:14+00:00",
       "last_seen": "2026-11-22T06:06:14+00:00",
@@ -224,6 +287,13 @@
       "source_url": "https://github.com/irahardianto/pi-mcp-extension/issues/343",
       "status": "NEEDS_REVIEW",
       "title": "fix(tool-bridge): honor narrowing exposure from direct to deferred or codemode across /reload and session resume"
+    },
+    "https://github.com/katecatherinaa/solarproof/issues/242": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/katecatherinaa/solarproof/issues/242",
+      "status": "NEEDS_REVIEW",
+      "title": "[Frontend] Add wallet connection status indicator to navbar"
     },
     "https://github.com/kramerc/honeyledger/issues/355": {
       "first_seen": "2026-11-22T06:06:14+00:00",
@@ -260,6 +330,13 @@
       "status": "NEEDS_REVIEW",
       "title": "Pair own-wallet and exchange transfers by transaction hash"
     },
+    "https://github.com/kramerc/honeyledger/issues/376": {
+      "first_seen": "2026-11-23T06:17:05+00:00",
+      "last_seen": "2026-11-23T06:17:05+00:00",
+      "source_url": "https://github.com/kramerc/honeyledger/issues/376",
+      "status": "NEEDS_REVIEW",
+      "title": "Re-route a blockchain transaction whose direction flips on resync"
+    },
     "https://github.com/leojay-net/Stellar-Dex-Chat/issues/1741": {
       "first_seen": "2026-11-21T06:04:07+00:00",
       "last_seen": "2026-11-21T06:04:07+00:00",
@@ -273,6 +350,13 @@
       "source_url": "https://github.com/libracoder/kiri/issues/261",
       "status": "NEEDS_REVIEW",
       "title": "Linux: bridge containers can't reach Tailscale/VPN networks (NAT only on default-route NIC, bridges in no firewalld zone)"
+    },
+    "https://github.com/linksys/PrivacyGUI/issues/1072": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/linksys/PrivacyGUI/issues/1072",
+      "status": "NEEDS_REVIEW",
+      "title": "PPPoE: Cannot configure PPPoE after factory reset — Save fails with HTTP 503 (usp-bridge agent disconnected)"
     },
     "https://github.com/marioparaschiv/unbound/issues/2083": {
       "first_seen": "2026-11-21T06:04:07+00:00",
@@ -288,6 +372,20 @@
       "status": "NEEDS_REVIEW",
       "title": "T85D0 Lock not working since the latest release (0.3 bridge and 0.3 integration)"
     },
+    "https://github.com/mercyJJ/cosmosvote/issues/391": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/mercyJJ/cosmosvote/issues/391",
+      "status": "NEEDS_REVIEW",
+      "title": "[Frontend] Implement token balance auto-refresh on wallet reconnect"
+    },
+    "https://github.com/mergepay/mergepay-web/issues/886": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/mergepay/mergepay-web/issues/886",
+      "status": "NEEDS_REVIEW",
+      "title": "Add analytics event tracking middleware for key user actions and SEP-10 wallet login flows"
+    },
     "https://github.com/mgradwohl/MoTrack/issues/262": {
       "first_seen": "2026-11-22T06:06:14+00:00",
       "last_seen": "2026-11-22T06:06:14+00:00",
@@ -295,12 +393,26 @@
       "status": "NEEDS_REVIEW",
       "title": "Reference defects in Tracker's post-6.3.5 camera-capture bridge (native capture avoids them)"
     },
+    "https://github.com/morluto/rea/issues/4588": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/morluto/rea/issues/4588",
+      "status": "NEEDS_REVIEW",
+      "title": "[Bug] Linux Ghidra bridge cannot start where the sandbox refuses socket(AF_UNIX)"
+    },
     "https://github.com/msdyatt/vvcoop-familyportal/issues/172": {
       "first_seen": "2026-11-22T06:06:14+00:00",
       "last_seen": "2026-11-22T06:06:14+00:00",
       "source_url": "https://github.com/msdyatt/vvcoop-familyportal/issues/172",
       "status": "NEEDS_REVIEW",
       "title": "iPhone app: the native bridge accepts messages from any frame or origin"
+    },
+    "https://github.com/omacom/omarchy/issues/17357": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/omacom/omarchy/issues/17357",
+      "status": "NEEDS_REVIEW",
+      "title": "IPU7 camera: USB-IO bridge drops out when ov08x40 powers up on Dell XPS 14 DA14260, on every kernel and BIOS 1.12.0"
     },
     "https://github.com/open-gsd/gsd-core/issues/6430": {
       "first_seen": "2026-11-21T06:04:07+00:00",
@@ -311,7 +423,7 @@
     },
     "https://github.com/openminion/openminion/issues/663": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-22T06:06:14+00:00",
+      "last_seen": "2026-11-23T06:17:05+00:00",
       "source_url": "https://github.com/openminion/openminion/issues/663",
       "status": "NEEDS_REVIEW",
       "title": "Reject malformed RPC nonce values during blockchain preparation and send checks"
@@ -330,12 +442,40 @@
       "status": "NEEDS_REVIEW",
       "title": "reticle open says the SDK is missing for a detached tab the bridge refused"
     },
+    "https://github.com/ritik4ever/stellar-portfolio-rebalancer/issues/2018": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/ritik4ever/stellar-portfolio-rebalancer/issues/2018",
+      "status": "NEEDS_REVIEW",
+      "title": "SPR-2026-094 [MOBILE] Keep Wallet action announcements usable at narrow widths"
+    },
     "https://github.com/scout-off/scout-off-contracts/issues/1796": {
       "first_seen": "2026-11-22T06:06:14+00:00",
       "last_seen": "2026-11-22T06:06:14+00:00",
       "source_url": "https://github.com/scout-off/scout-off-contracts/issues/1796",
       "status": "NEEDS_REVIEW",
       "title": "Backend: deriveRole ignores deactivated players/scouts and can only express one role per wallet"
+    },
+    "https://github.com/shizumaat/XPTerrainBuilder/issues/1939": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/shizumaat/XPTerrainBuilder/issues/1939",
+      "status": "NEEDS_REVIEW",
+      "title": "ESSA (59.640350, 17.937170): roads under the taxiway — wide tunnel mouth missing, approach road raised instead of sloping down; road bridge over the highway read as taxiway (59.642381, 17.937094)"
+    },
+    "https://github.com/shizumaat/XPTerrainBuilder/issues/2072": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/shizumaat/XPTerrainBuilder/issues/2072",
+      "status": "NEEDS_REVIEW",
+      "title": "KIAH (29.987353, -95.330258): taxiway bridge has no cut under it, a terrain spike beside it and airside bumps at both ends"
+    },
+    "https://github.com/shizumaat/XPTerrainBuilder/issues/2073": {
+      "first_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-23T06:17:06+00:00",
+      "source_url": "https://github.com/shizumaat/XPTerrainBuilder/issues/2073",
+      "status": "NEEDS_REVIEW",
+      "title": "ESSA (59.642114, 17.93x): north pavement -2811 foot 2.25 m under the lidar ground near the road bridge"
     },
     "https://github.com/swc-project/swc-next-issues/issues/46": {
       "first_seen": "2026-11-21T06:04:07+00:00",
@@ -409,7 +549,7 @@
       "contract": "2FYs4vApfj4ErsggpFDfzMv1WvxnyiLtzNEj84mS6TLh",
       "description_excerpt": "hCAT - Confidential Cat. Helius is bringing confidential transactions to Solana. We are finally a  privacy chain.",
       "first_seen": "2026-11-23T03:39:13+00:00",
-      "last_seen": "2026-11-23T06:04:31+00:00",
+      "last_seen": "2026-11-23T06:17:05+00:00",
       "matched_problems": [
         {
           "hits": [

@@ -2,7 +2,7 @@
   "entries": {
     "aaron11998/mev-protection-scanner": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-22T06:07:51+00:00",
+      "checked_at_utc": "2026-11-23T06:18:42+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -15,7 +15,7 @@
     },
     "agent402-dev/agent402-toolkit": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-22T06:07:51+00:00",
+      "checked_at_utc": "2026-11-23T06:18:42+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -28,7 +28,7 @@
     },
     "andedauda2-alt/anagu": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-22T06:07:51+00:00",
+      "checked_at_utc": "2026-11-23T06:18:42+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -41,7 +41,7 @@
     },
     "apelevel/whisper": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-22T06:07:51+00:00",
+      "checked_at_utc": "2026-11-23T06:18:42+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -50,6 +50,19 @@
       "project_source_url": "https://github.com/apelevel/whisper#readme",
       "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
       "repository": "apelevel/whisper",
+      "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
+    },
+    "bechir-kh/ethershield": {
+      "buy_approved": false,
+      "checked_at_utc": "2026-11-23T06:18:42+00:00",
+      "contract_claims": [],
+      "contract_claims_found": 0,
+      "dev_identity_verified": false,
+      "identity_verified": false,
+      "investor_identity_verified": false,
+      "project_source_url": "https://github.com/Bechir-kh/EtherShield#readme",
+      "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
+      "repository": "Bechir-kh/EtherShield",
       "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
     },
     "candra0x6/sake": {
@@ -154,6 +167,19 @@
       "project_source_url": "https://github.com/farawayuplift/kite-agent-arbitrage-scanner#readme",
       "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
       "repository": "farawayuplift/kite-agent-arbitrage-scanner",
+      "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
+    },
+    "farzanamustafa936-dot/solana-pump-fun-sniper-bot": {
+      "buy_approved": false,
+      "checked_at_utc": "2026-11-23T06:18:42+00:00",
+      "contract_claims": [],
+      "contract_claims_found": 0,
+      "dev_identity_verified": false,
+      "identity_verified": false,
+      "investor_identity_verified": false,
+      "project_source_url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot#readme",
+      "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
+      "repository": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
       "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
     }
   },

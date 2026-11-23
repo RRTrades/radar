@@ -250,6 +250,71 @@
       "source_readme_available": true,
       "token_contract_verified": false
     },
+    "bechir-kh/ethershield": {
+      "analyzed_at_utc": "2026-11-23T06:17:56+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/Bechir-kh/EtherShield/commit/958ca7aa0960de58fbac6193dc819e5f4e4f7f8e"
+            ],
+            "missing_evidence": "User testimonials, integration references, or third‑party usage metrics.",
+            "rationale": "Repository shows no stars, forks, or external usage evidence; adoption claims are unverified.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/ConsenSysDiligence/smart-contract-best-practices",
+              "https://github.com/ConsenSysDiligence/mythril",
+              "https://github.com/transmissions11/solcurity",
+              "https://github.com/TokenMarketNet/smart-contracts",
+              "https://github.com/nascentxyz/simple-security-toolkit"
+            ],
+            "missing_evidence": "Side‑by‑side feature, accuracy, or performance comparison with listed competitors.",
+            "rationale": "Only a list of possible competitors is provided without any comparative data.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/Bechir-kh/EtherShield/commit/3ff888056ebf50b03be0d6d1232c533633b14440"
+            ],
+            "missing_evidence": "Independent performance or vulnerability‑detection efficacy evaluations.",
+            "rationale": "No benchmarks, peer reviews, or independent analyses showing superiority over existing tools.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/Bechir-kh/EtherShield"
+            ],
+            "missing_evidence": "Tokenomics documentation, on‑chain token data, or financial model analysis.",
+            "rationale": "No token contract, economic model, or revenue‑capture mechanism is presented.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/Bechir-kh/EtherShield#readme"
+            ],
+            "missing_evidence": "Third‑party market research or security audits demonstrating a genuine unmet problem.",
+            "rationale": "No external validation that the security gaps addressed are unmet or significant.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "EtherShield claims to be an Ethereum smart‑contract security lab, but no independent evidence confirms the problem it solves, its technical edge, how it stacks up against peers, any token economics, or real‑world adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "Bechir-kh/EtherShield",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
     "candra0x6/sake": {
       "analyzed_at_utc": "2026-11-20T22:43:55+00:00",
       "assessment": {
@@ -738,6 +803,71 @@
       },
       "model": "openai/gpt-oss-120b",
       "repository": "farawayuplift/kite-agent-arbitrage-scanner",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
+    "farzanamustafa936-dot/solana-pump-fun-sniper-bot": {
+      "analyzed_at_utc": "2026-11-23T06:17:56+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
+            ],
+            "missing_evidence": "External usage statistics, testimonials, or mentions in reputable crypto media.",
+            "rationale": "GitHub stars and forks are internal metrics; there is no independent proof of active users or community uptake.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/mortdeus/solana-copy-sniper-mev-trading-bot",
+              "https://github.com/paradigmxyz/artemis",
+              "https://github.com/flashbots/mev-boost",
+              "https://github.com/flashbots/mev-research",
+              "https://github.com/lawmaster10/howcryptoworksbook"
+            ],
+            "missing_evidence": "Side‑by‑side feature matrix, benchmark results, or user preference studies.",
+            "rationale": "Potential competitors are listed, but no comparative analysis or evidence of superiority is provided.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot#readme"
+            ],
+            "missing_evidence": "Performance measurements, latency tests, and security audits compared to other MEV tools.",
+            "rationale": "Features such as 0‑block detection and Jito bundle routing are asserted without third‑party benchmarks or code‑level verification.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot#readme"
+            ],
+            "missing_evidence": "Verified trade logs, ROI statistics, or third‑party financial analyses.",
+            "rationale": "No data or audited results demonstrate that the bot captures token value or generates profit for users.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot#readme"
+            ],
+            "missing_evidence": "Independent market analysis of Pump.fun launches and user‑reported pain points.",
+            "rationale": "Claims a need for fast sniping and anti‑rug tools, yet no external data validates the problem or the bot's effectiveness.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "The repository advertises a Solana Pump.fun sniper bot with Jito MEV protection and anti‑rug filters, but no independent evidence confirms its problem relevance, technical edge, competitive standing, token‑value capture, or real‑world adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
       "source_readme_available": true,
       "token_contract_verified": false
     }
