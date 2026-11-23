@@ -375,7 +375,7 @@
       "contract": "0x64E7b3cFb448C77ce9447e1A9733F43968cFf0a0",
       "description_excerpt": "Veridia privacy money mentioned by Vitalik",
       "first_seen": "2026-11-23T00:08:37+00:00",
-      "last_seen": "2026-11-23T00:08:37+00:00",
+      "last_seen": "2026-11-23T01:42:35+00:00",
       "matched_problems": [
         {
           "hits": [
@@ -431,6 +431,23 @@
         {
           "hits": [
             "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:63aeost7ogthfr5koz1572cal9dd7nygp7sweqyjpump": {
+      "chain": "solana",
+      "contract": "63aEoSt7oGthFR5koz1572CAL9dd7NYGp7sWeQyjpump",
+      "description_excerpt": "Confidential Cat",
+      "first_seen": "2026-11-23T01:42:35+00:00",
+      "last_seen": "2026-11-23T01:42:35+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "confidential"
           ],
           "id": "privacy-compliance"
         }
