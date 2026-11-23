@@ -443,7 +443,7 @@
       "contract": "63aEoSt7oGthFR5koz1572CAL9dd7NYGp7sWeQyjpump",
       "description_excerpt": "Confidential Cat",
       "first_seen": "2026-11-23T01:42:35+00:00",
-      "last_seen": "2026-11-23T01:42:35+00:00",
+      "last_seen": "2026-11-23T02:39:12+00:00",
       "matched_problems": [
         {
           "hits": [
@@ -498,6 +498,24 @@
       "matched_problems": [
         {
           "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:abz86qsusy7u9z9xepaagcug4zg8bsdzffznrmocpump": {
+      "chain": "solana",
+      "contract": "ABz86QSUSY7U9Z9xepaaGCUg4zG8bSDzfFznRMocpump",
+      "description_excerpt": "OTR (Over the Rings) is a Solana platform for discovering tokens, trading peer-to-peer through OTC offers, and launching new tokens. It uses Helius Privacy Rings for confidential settlement, while wallet addresses and published trade terms remain public.",
+      "first_seen": "2026-11-23T02:39:12+00:00",
+      "last_seen": "2026-11-23T02:39:12+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "confidential",
             "privacy"
           ],
           "id": "privacy-compliance"
