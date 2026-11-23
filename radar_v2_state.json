@@ -404,6 +404,24 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:2fys4vapfj4ersggpfdfzmv1wvxnyiltznej84ms6tlh": {
+      "chain": "solana",
+      "contract": "2FYs4vApfj4ErsggpFDfzMv1WvxnyiLtzNEj84mS6TLh",
+      "description_excerpt": "hCAT - Confidential Cat. Helius is bringing confidential transactions to Solana. We are finally a  privacy chain.",
+      "first_seen": "2026-11-23T03:39:13+00:00",
+      "last_seen": "2026-11-23T03:39:13+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "confidential",
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:439nprreuaawb4nmfnb8y9ahpekdrr5mpeflse7r6hkj": {
       "chain": "solana",
       "contract": "439nprrEUAawb4nmfnB8Y9AhpEKdRr5MpEfLse7R6HkJ",
@@ -511,7 +529,7 @@
       "contract": "ABz86QSUSY7U9Z9xepaaGCUg4zG8bSDzfFznRMocpump",
       "description_excerpt": "OTR (Over the Rings) is a Solana platform for discovering tokens, trading peer-to-peer through OTC offers, and launching new tokens. It uses Helius Privacy Rings for confidential settlement, while wallet addresses and published trade terms remain public.",
       "first_seen": "2026-11-23T02:39:12+00:00",
-      "last_seen": "2026-11-23T02:39:12+00:00",
+      "last_seen": "2026-11-23T03:39:13+00:00",
       "matched_problems": [
         {
           "hits": [
