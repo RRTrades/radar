@@ -886,6 +886,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:gb5pn7ctq4ahmladnppntvhdzjrrmgqrsgbeesqmpump": {
+      "chain": "solana",
+      "contract": "Gb5PN7CtQ4AhmLAdnpPNTVHDZJrRmGqRsGbEEsqMpump",
+      "description_excerpt": "private mode for the trenches. built on Helius Privacy Rings.",
+      "first_seen": "2026-11-23T19:44:06+00:00",
+      "last_seen": "2026-11-23T19:44:06+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:gkg5rfhucvprxsyeswpnznuzrwd5mcmjeg1eb1lejyzp": {
       "chain": "solana",
       "contract": "GKg5RfhuCVprXSyESwpNznuzrWD5mCmjeg1eb1LejyZP",
