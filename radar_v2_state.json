@@ -767,6 +767,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:czzl1trsyv7d1j38y5axbxgj42hyj5mejyq9yndrt7an": {
+      "chain": "solana",
+      "contract": "CZZL1tRsYv7D1j38y5axbxGJ42HYJ5MEJyq9YnDRT7AN",
+      "description_excerpt": "A privacy terminal on Solana.\n\nFrictionless, secure and instant privacy with custody wallets: hidden balances, unlinked payments, ghost trades.",
+      "first_seen": "2026-11-23T16:37:30+00:00",
+      "last_seen": "2026-11-23T16:37:30+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:dtvehhnxwochmvwwx3zmwuysjhvd9omqrwwhzm7cq4fy": {
       "chain": "solana",
       "contract": "DTvEhHnxwochMvWwx3zmwUySJhvD9omQrWWhzM7cQ4fy",
@@ -906,6 +923,23 @@
           ],
           "id": "crosschain-fragmentation"
         },
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:ycvckaedduzekjawpvdiof2vqr3mb8jjqljn5nzpump": {
+      "chain": "solana",
+      "contract": "YCvCKaEddUZekjaWPvdiof2VQR3MB8JJQLjn5NZpump",
+      "description_excerpt": "Ringforge is a no-code builder for private apps on Solana Privacy Rings. Snap blocks on a canvas, test the flow with the real Privacy Rings SDK, publish a live app with encrypted amounts and take the source code with you. Holding $FORGE unlocks free publishing.",
+      "first_seen": "2026-11-23T16:37:30+00:00",
+      "last_seen": "2026-11-23T16:37:30+00:00",
+      "matched_problems": [
         {
           "hits": [
             "privacy"
