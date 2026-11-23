@@ -596,6 +596,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:57harmtz2b7xbovznrqdc1v2mslmdbsfnpgubtqc1oak": {
+      "chain": "solana",
+      "contract": "57HARmTz2B7XbovZNRqdC1V2MSLMDBsfnPGUBtQc1oak",
+      "description_excerpt": "Private payments and launches on Solana. \n\nSend, settle, and fund without broadcasting your wallet.\n\nPowered by Helius Privacy Rings and Raydium launchlab",
+      "first_seen": "2026-11-23T23:31:37+00:00",
+      "last_seen": "2026-11-23T23:31:37+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:63aeost7ogthfr5koz1572cal9dd7nygp7sweqyjpump": {
       "chain": "solana",
       "contract": "63aEoSt7oGthFR5koz1572CAL9dd7NYGp7sWeQyjpump",
