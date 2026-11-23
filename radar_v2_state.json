@@ -682,6 +682,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:ac2s3n2spzz97i757ds6yfauvokkqzqr7dwv21bawhdg": {
+      "chain": "solana",
+      "contract": "AC2S3n2SPzZ97i757ds6yfAuVoKKqzqR7dwv21BAwHDg",
+      "description_excerpt": "The Dark Chain. A privacy L1 where every US stock is gas — NVDAx, TSLAx, AAPLx and more, bridged from Solana. Shielded by default. $TNBR",
+      "first_seen": "2026-11-23T10:11:57+00:00",
+      "last_seen": "2026-11-23T10:11:57+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:asyzwyw4zyfzelb15kbayk4r2ofvc8zu6dkp59rppump": {
       "chain": "solana",
       "contract": "AsyzWyW4zYFZELB15kbayK4R2oFVC8Zu6dKP59RPpump",
