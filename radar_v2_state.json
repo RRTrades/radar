@@ -1101,6 +1101,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:fzjdzfnwchw9nnqymbfqypxvygcebdo91ra7ucexpump": {
+      "chain": "solana",
+      "contract": "FzjDzFNwCHW9nnQymbfqYpxVYGCeBdo91ra7UcEXpump",
+      "description_excerpt": "Swap it here, get it somewhere else. Solana coins through Helius Privacy Rings @heliusprivacy.",
+      "first_seen": "2026-11-24T17:06:21+00:00",
+      "last_seen": "2026-11-24T17:06:21+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:gb5pn7ctq4ahmladnppntvhdzjrrmgqrsgbeesqmpump": {
       "chain": "solana",
       "contract": "Gb5PN7CtQ4AhmLAdnpPNTVHDZJrRmGqRsGbEEsqMpump",
