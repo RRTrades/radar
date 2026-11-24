@@ -674,6 +674,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "ethereum:0xdf92a58d2a910241bb433c872343d5f002f8ba9d": {
+      "chain": "ethereum",
+      "contract": "0xdf92A58D2a910241Bb433C872343d5F002f8BA9D",
+      "description_excerpt": "confidential crosschain defi",
+      "first_seen": "2026-11-24T20:00:07+00:00",
+      "last_seen": "2026-11-24T20:00:07+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "confidential"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:23vu8bnwqulvsrltitcxt3i3ywtdxqcqamti2gtcu4pz": {
       "chain": "solana",
       "contract": "23vu8bnWQuLvsRLTiTcxt3i3YWTdxqCqamTi2gTCU4pz",
@@ -909,6 +926,23 @@
             "privacy"
           ],
           "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:anvsl4a6tjkaxjspg7xvshqa7kymfcpw42jpuhvtpump": {
+      "chain": "solana",
+      "contract": "ANvsL4A6tJKAXJsPg7XVSHQA7KYmFcpW42jPuhVtpump",
+      "description_excerpt": "The White Bull\nRedemption arc\nJoin the herd",
+      "first_seen": "2026-11-24T20:00:07+00:00",
+      "last_seen": "2026-11-24T20:00:07+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "redemption"
+          ],
+          "id": "stablecoin-resilience"
         }
       ],
       "source": "DexScreener latest profile",
@@ -1240,6 +1274,23 @@
           ],
           "id": "crosschain-fragmentation"
         },
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:mskd5wf6mtkcreppzg3fgpdgg7krmx8g95hsv7v1ma5": {
+      "chain": "solana",
+      "contract": "mskd5wF6mtkcrEppzg3FgpDgG7kRMX8g95HSV7v1MA5",
+      "description_excerpt": "Your keys, your launches.\nPrivacy first launchpad powered by Meteora.",
+      "first_seen": "2026-11-24T20:00:07+00:00",
+      "last_seen": "2026-11-24T20:00:07+00:00",
+      "matched_problems": [
         {
           "hits": [
             "privacy"
