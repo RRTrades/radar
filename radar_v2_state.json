@@ -862,6 +862,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:7kffoftklzhwrmumersvxm1svo8d5xs8weubta7cpump": {
+      "chain": "solana",
+      "contract": "7KffoftkLZHwRmumeRSVXm1sVo8D5Xs8weUbtA7cpump",
+      "description_excerpt": "A privacy protocol on Solana. Encrypted VPN, peer-to-peer voice, mail, messenger, and pay-per-token Infer sit on the same desk",
+      "first_seen": "2026-11-24T17:57:10+00:00",
+      "last_seen": "2026-11-24T17:57:10+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:abz86qsusy7u9z9xepaagcug4zg8bsdzffznrmocpump": {
       "chain": "solana",
       "contract": "ABz86QSUSY7U9Z9xepaaGCUg4zG8bSDzfFznRMocpump",
@@ -1106,7 +1123,7 @@
       "contract": "FzjDzFNwCHW9nnQymbfqYpxVYGCeBdo91ra7UcEXpump",
       "description_excerpt": "Swap it here, get it somewhere else. Solana coins through Helius Privacy Rings @heliusprivacy.",
       "first_seen": "2026-11-24T17:06:21+00:00",
-      "last_seen": "2026-11-24T17:06:21+00:00",
+      "last_seen": "2026-11-24T17:57:10+00:00",
       "matched_problems": [
         {
           "hits": [
