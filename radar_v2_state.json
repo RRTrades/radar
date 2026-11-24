@@ -679,7 +679,7 @@
       "contract": "0xdf92A58D2a910241Bb433C872343d5F002f8BA9D",
       "description_excerpt": "confidential crosschain defi",
       "first_seen": "2026-11-24T20:00:07+00:00",
-      "last_seen": "2026-11-24T20:00:07+00:00",
+      "last_seen": "2026-11-24T20:53:14+00:00",
       "matched_problems": [
         {
           "hits": [
@@ -1101,6 +1101,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:exdt9yyzojj8ktksuq6t3fg6m2gc1rujmxthwns2pump": {
+      "chain": "solana",
+      "contract": "ExdT9yyZojJ8ktkSUq6T3fG6m2Gc1RUjMXTHwns2pump",
+      "description_excerpt": "MIST is the private trading terminal for Solana. It has what a terminal needs (trending, new pairs, top gainers, live charts, the trade tape and one-click buys and sells) and adds the one thing the others leave out: it hides the trader.\n\nEvery token you buy lands in its own fresh wallet, called a compartment, derived in your browser from a single s",
+      "first_seen": "2026-11-24T20:53:14+00:00",
+      "last_seen": "2026-11-24T20:53:14+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "sandwich"
+          ],
+          "id": "mev-execution"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:eyx45dkqcmycf7ptmyd9kkpoke9pvthvrbtukpqvpump": {
       "chain": "solana",
       "contract": "EYX45DKQCMyCf7PtMyD9kKpokE9PVThVRbtUKPQvpump",
@@ -1289,7 +1306,24 @@
       "contract": "mskd5wF6mtkcrEppzg3FgpDgG7kRMX8g95HSV7v1MA5",
       "description_excerpt": "Your keys, your launches.\nPrivacy first launchpad powered by Meteora.",
       "first_seen": "2026-11-24T20:00:07+00:00",
-      "last_seen": "2026-11-24T20:00:07+00:00",
+      "last_seen": "2026-11-24T20:53:14+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:pxsjoyzgnfp48ktlhujr7e9vzz4n6lu32cp1j6qpump": {
+      "chain": "solana",
+      "contract": "PxsJoYZGnfP48KTLHUjr7e9Vzz4N6LU32cp1J6Qpump",
+      "description_excerpt": "Offrecord is a private launchpad for coins. The buy is visible. You are not. You use a new wallet, paid from a privacy pool. The buy only happens here.",
+      "first_seen": "2026-11-24T20:53:14+00:00",
+      "last_seen": "2026-11-24T20:53:14+00:00",
       "matched_problems": [
         {
           "hits": [
