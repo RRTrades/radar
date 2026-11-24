@@ -315,6 +315,67 @@
       "source_readme_available": true,
       "token_contract_verified": false
     },
+    "bojest001/sanctifier": {
+      "analyzed_at_utc": "2026-11-24T06:09:45+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/Bojest001/Sanctifier#readme"
+            ],
+            "missing_evidence": "Independent usage statistics or endorsements",
+            "rationale": "Live testnet deployment and CI badges are internal; no external user adoption or third‑party endorsements are shown.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/Bojest001/Sanctifier#readme"
+            ],
+            "missing_evidence": "Objective side‑by‑side evaluation",
+            "rationale": "No external comparison to tools like Mythril, Slither, or other Soroban analyzers is provided.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/Bojest001/Sanctifier#readme"
+            ],
+            "missing_evidence": "Independent benchmark or audit results",
+            "rationale": "Performance, coverage, or Z3 integration claims are unverified by external benchmarks.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/Bojest001/Sanctifier#readme"
+            ],
+            "missing_evidence": "Proof of token issuance or economic model",
+            "rationale": "Project makes no verifiable claim about token economics; no token contract evidence is presented.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/Bojest001/Sanctifier#readme"
+            ],
+            "missing_evidence": "Third‑party analysis of Soroban security needs",
+            "rationale": "No independent sources confirm a pressing security gap in Soroban contracts that Sanctifier uniquely solves.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "Sanctifier claims to be a security analysis suite for Stellar Soroban contracts, but independent evidence for its problem relevance, technical edge, competitor standing, token economics, or real adoption is lacking."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "Bojest001/Sanctifier",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
     "candra0x6/sake": {
       "analyzed_at_utc": "2026-11-20T22:43:55+00:00",
       "assessment": {
@@ -612,6 +673,67 @@
       },
       "model": "openai/gpt-oss-120b",
       "repository": "Ekenmisireyakakum/Anagu",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
+    "elon00/ari-juels-ai": {
+      "analyzed_at_utc": "2026-11-24T06:09:45+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/elon00/ari-juels-ai#readme"
+            ],
+            "missing_evidence": "Verified adoption metrics, partnership announcements, or usage statistics.",
+            "rationale": "No evidence of users, partners, or real‑world deployments is provided beyond the repository itself.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/elon00/ari-juels-ai#readme"
+            ],
+            "missing_evidence": "Objective side‑by‑side comparison with established security/oracle solutions.",
+            "rationale": "Project lists potential competitors but offers no comparative analysis or evidence of superiority.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/elon00/ari-juels-ai#readme"
+            ],
+            "missing_evidence": "Independent technical evaluations, security audits, or performance benchmarks.",
+            "rationale": "No third‑party benchmarks, audits, or performance data are provided to verify claimed technical advantages.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/elon00/ari-juels-ai#readme"
+            ],
+            "missing_evidence": "Transparent token model, economic analysis, or independent valuation.",
+            "rationale": "Token ($JUELS) is mentioned without any disclosed tokenomics, market data, or valuation methodology.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/elon00/ari-juels-ai#readme"
+            ],
+            "missing_evidence": "Independent analysis or market research confirming the targeted security problem.",
+            "rationale": "Readme asserts a need for autonomous security without external validation of the underlying problem.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "Ari Juels AI claims autonomous smart‑contract security, decentralized oracles, PoR and honeywords, but no independent evidence substantiates the problem addressed, technical edge, competition, token economics, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "elon00/ari-juels-ai",
       "source_readme_available": true,
       "token_contract_verified": false
     },

@@ -1,7 +1,7 @@
 {
   "approved_for_buy": 0,
   "audit_scope": "GitHub repository existence, root file names and recent commit links only",
-  "audited_at_utc": "2026-11-23T06:17:45+00:00",
+  "audited_at_utc": "2026-11-24T06:09:33+00:00",
   "audited_count": 12,
   "entries": [
     {
@@ -177,6 +177,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-24T06:09:33+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Andrei-Dodu/Andrei-Dodu",
+        "https://github.com/Andrei-Dodu/Andrei-Dodu/commit/7cae8215e02c3e1f42812f06bc5b3c6de62df3d1",
+        "https://github.com/Andrei-Dodu/Andrei-Dodu/commit/d79a07e5cd600c4f126c628b3a8e3087e2fdd00d",
+        "https://github.com/Andrei-Dodu/Andrei-Dodu/commit/ca295d1a79bcd0de9bdb1645bf21908189e0de35"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Andrei-Dodu/Andrei-Dodu",
+      "repository_url": "https://github.com/Andrei-Dodu/Andrei-Dodu",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-20T22:34:31+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -345,6 +380,41 @@
       },
       "repository": "Bechir-kh/EtherShield",
       "repository_url": "https://github.com/Bechir-kh/EtherShield",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-24T06:09:33+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Bojest001/Sanctifier",
+        "https://github.com/Bojest001/Sanctifier/commit/d478a223f93b179729ef1ca7008d524ecb53d6ef",
+        "https://github.com/Bojest001/Sanctifier/commit/8e3dbfded02f45d884c79c8bd94774cffef16d27",
+        "https://github.com/Bojest001/Sanctifier/commit/b62725e19522aa64b2e7586277461c9f7f06dd98"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Bojest001/Sanctifier",
+      "repository_url": "https://github.com/Bojest001/Sanctifier",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -589,6 +659,76 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-24T06:09:33+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/elon00/ari-juels-ai",
+        "https://github.com/elon00/ari-juels-ai/commit/cd58c30ae0b3f55c0ffa953cb8be1c3c77baa4ed",
+        "https://github.com/elon00/ari-juels-ai/commit/8a595348f9cb5420cf61c585bc4bff96f5573c95",
+        "https://github.com/elon00/ari-juels-ai/commit/7e51513a94e6798530fa4fe9d9b16958e2a57400"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "elon00/ari-juels-ai",
+      "repository_url": "https://github.com/elon00/ari-juels-ai",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-24T06:09:33+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/elon00/dawn-song-ai",
+        "https://github.com/elon00/dawn-song-ai/commit/cb8f0b017edaa6ccf14c5b00f0ac70b7bfb26643",
+        "https://github.com/elon00/dawn-song-ai/commit/088b8fd00a9025a103583a2f53aaa6a698754426",
+        "https://github.com/elon00/dawn-song-ai/commit/ac1094f0dfddea9e5746ae83fc58e2b7dd64a6e0"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "elon00/dawn-song-ai",
+      "repository_url": "https://github.com/elon00/dawn-song-ai",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-20T22:43:45+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -655,6 +795,111 @@
       },
       "repository": "elon00/hashkey-crosschain-bridge-ai",
       "repository_url": "https://github.com/elon00/hashkey-crosschain-bridge-ai",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-24T06:09:33+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/elon00/minotaur-maze-router",
+        "https://github.com/elon00/minotaur-maze-router/commit/bec123949afc8293dfde6b7b96d6370755c0c47f",
+        "https://github.com/elon00/minotaur-maze-router/commit/3435d15bdfe456c0b2198923c6385201dd529dbb",
+        "https://github.com/elon00/minotaur-maze-router/commit/9b711877eb36a9c5563352cc694af16854d36a8e"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "elon00/minotaur-maze-router",
+      "repository_url": "https://github.com/elon00/minotaur-maze-router",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-24T06:09:33+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/elon00/panthera-stealth-zkp",
+        "https://github.com/elon00/panthera-stealth-zkp/commit/50279fd556bd440358d6cc8cd370ea7f883f27b8",
+        "https://github.com/elon00/panthera-stealth-zkp/commit/01e714538d05ed93fe39b4ae81bf8df0304d1ca9",
+        "https://github.com/elon00/panthera-stealth-zkp/commit/06cb70b8290439c69c39eb42da006b48fb1dfb14"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "elon00/panthera-stealth-zkp",
+      "repository_url": "https://github.com/elon00/panthera-stealth-zkp",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-24T06:09:33+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/elon00/qmoosa-horizonpay-ai",
+        "https://github.com/elon00/qmoosa-horizonpay-ai/commit/abe3f54588b0eabcf3fb69a2ec50b92ce6abd04a",
+        "https://github.com/elon00/qmoosa-horizonpay-ai/commit/4ce0a4675f5a7785c564331af7848b8cf03112d1",
+        "https://github.com/elon00/qmoosa-horizonpay-ai/commit/a2f23b21f593e6fe1e9ba14e8ae396b833f4c122"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "elon00/qmoosa-horizonpay-ai",
+      "repository_url": "https://github.com/elon00/qmoosa-horizonpay-ai",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -1000,6 +1245,40 @@
       },
       "repository": "Jean-Regis-M/tidewater",
       "repository_url": "https://github.com/Jean-Regis-M/tidewater",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-24T06:09:33+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/joeiko3424-svg/oikonomia-genius-act-occ-fpga",
+        "https://github.com/joeiko3424-svg/oikonomia-genius-act-occ-fpga/commit/e91b084b0e58b7cc373695be43f9eae7aeb8310b",
+        "https://github.com/joeiko3424-svg/oikonomia-genius-act-occ-fpga/commit/7fb51bc541407b7b08be78f4f1c88aae8b39cc2c"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "joeiko3424-svg/oikonomia-genius-act-occ-fpga",
+      "repository_url": "https://github.com/joeiko3424-svg/oikonomia-genius-act-occ-fpga",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -1561,6 +1840,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-24T06:09:33+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/nuanu-ai/agent-payment-node",
+        "https://github.com/nuanu-ai/agent-payment-node/commit/bd6c1ac10706ec9cd5cbbfab97e8a8948e7f6530",
+        "https://github.com/nuanu-ai/agent-payment-node/commit/0153a0f9f27c63e969f0ab01bfbeeb77386a5115",
+        "https://github.com/nuanu-ai/agent-payment-node/commit/e31109698be085a733c62a9fb4610d3596a4fe1a"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 28,
+        "github_stars_public": 72,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "nuanu-ai/agent-payment-node",
+      "repository_url": "https://github.com/nuanu-ai/agent-payment-node",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-23T06:17:45+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -1592,6 +1906,41 @@
       },
       "repository": "nuvoraxis/security-audit-lending-pool",
       "repository_url": "https://github.com/nuvoraxis/security-audit-lending-pool",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-24T06:09:33+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/ogenyialice120/stellar-safe-wallet",
+        "https://github.com/ogenyialice120/stellar-safe-wallet/commit/877b1057b9c5d448005d30d270ebdebc008054a6",
+        "https://github.com/ogenyialice120/stellar-safe-wallet/commit/894a6a0f7caf7d25823564c50e227bb5000d3926",
+        "https://github.com/ogenyialice120/stellar-safe-wallet/commit/79eaded281a72e58600841ecc635d03cb1774767"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 2,
+        "github_stars_public": 1,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "ogenyialice120/stellar-safe-wallet",
+      "repository_url": "https://github.com/ogenyialice120/stellar-safe-wallet",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -1797,6 +2146,76 @@
       },
       "repository": "RetinaX-Org/RetinaX",
       "repository_url": "https://github.com/RetinaX-Org/RetinaX",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-24T06:09:33+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/richashuklaa8/ZKure",
+        "https://github.com/richashuklaa8/ZKure/commit/67f81576dfac2c6671cbcf06ed31463b2979b491",
+        "https://github.com/richashuklaa8/ZKure/commit/24a11f55efac346cbbe3d179514b789c2f49a8eb",
+        "https://github.com/richashuklaa8/ZKure/commit/68880b02b74f95985e64ff1eda8835c9a8c02614"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "richashuklaa8/ZKure",
+      "repository_url": "https://github.com/richashuklaa8/ZKure",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-24T06:09:33+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/richashuklaa8/ZKure-1",
+        "https://github.com/richashuklaa8/ZKure-1/commit/20aafc1df46ec61b576e7f265f0e124ebd947664",
+        "https://github.com/richashuklaa8/ZKure-1/commit/33ff95fc276a4f7d10a6698a6d5c8c1302624f9c",
+        "https://github.com/richashuklaa8/ZKure-1/commit/5ec23a7b4ed23b6fca38a86e9d5e331061651b87"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "richashuklaa8/ZKure-1",
+      "repository_url": "https://github.com/richashuklaa8/ZKure-1",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -2530,8 +2949,8 @@
   ],
   "error_count": 0,
   "errors": [],
-  "remaining_unaudited_priority": 5,
+  "remaining_unaudited_priority": 7,
   "schema_version": 2,
   "selected_count": 12,
-  "total_audited_unique": 73
+  "total_audited_unique": 85
 }
