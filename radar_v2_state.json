@@ -613,6 +613,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:5kdyvajsu8hwofzfvnpkdy2n4um1r2jxuklupymgpump": {
+      "chain": "solana",
+      "contract": "5KDyvAjSU8HWofZfVnpkdY2N4UM1R2jxUkLupYmgpump",
+      "description_excerpt": "Paste any wallet and see what a stranger can trace back to you. Then break the link through the privacy pool, signed in your own wallet.",
+      "first_seen": "2026-11-24T05:59:28+00:00",
+      "last_seen": "2026-11-24T05:59:28+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:63aeost7ogthfr5koz1572cal9dd7nygp7sweqyjpump": {
       "chain": "solana",
       "contract": "63aEoSt7oGthFR5koz1572CAL9dd7NYGp7sWeQyjpump",
