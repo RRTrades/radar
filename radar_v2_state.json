@@ -1,6 +1,13 @@
 {
   "alerted": {},
   "problem_evidence": {
+    "https://github.com/529-studio/FinTrace/issues/110": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/529-studio/FinTrace/issues/110",
+      "status": "NEEDS_REVIEW",
+      "title": "[excel] S13-03: Excel Production Tailwind Build, Responsive Waterfall SVG, Formula Baseline Fix & Live Bridge/Audit Note"
+    },
     "https://github.com/Altacon-Labs/RevMarket/issues/81": {
       "first_seen": "2026-11-24T06:08:50+00:00",
       "last_seen": "2026-11-24T06:08:50+00:00",
@@ -10,21 +17,21 @@
     },
     "https://github.com/Automattic/harper/issues/4057": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-24T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
       "source_url": "https://github.com/Automattic/harper/issues/4057",
       "status": "NEEDS_REVIEW",
       "title": "bitcoin-cli (bitcoin-cli is a command-line interface for interacting with the Bitcoin Core software, allowing users to manage wallets, query blockchain data, and perform transactions) marked as spelli"
     },
     "https://github.com/Automattic/harper/issues/4075": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-24T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
       "source_url": "https://github.com/Automattic/harper/issues/4075",
       "status": "NEEDS_REVIEW",
       "title": "Polkadot (decentralized, nominated proof-of-stake blockchain with smart contract functionality) marked as spelling problem"
     },
     "https://github.com/Automattic/harper/issues/4113": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-24T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
       "source_url": "https://github.com/Automattic/harper/issues/4113",
       "status": "NEEDS_REVIEW",
       "title": "parachains (In December 2021, Polkadot introduced parachain functionality, allowing multiple blockchains to run simultaneously and connect to the network's Relay Chain) marked as spelling problem"
@@ -49,6 +56,20 @@
       "source_url": "https://github.com/Chronostar-Protocol/ChronoStar/issues/405",
       "status": "NEEDS_REVIEW",
       "title": "[Enhancement][Frontend] Show a simulation fee estimate before wallet signing"
+    },
+    "https://github.com/CodedSceptre/ai-net/issues/632": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/CodedSceptre/ai-net/issues/632",
+      "status": "NEEDS_REVIEW",
+      "title": "feat(frontend): Implement wallet connect flow with Freighter extension detection and deep-link fallback"
+    },
+    "https://github.com/CodedSceptre/ai-net/issues/652": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/CodedSceptre/ai-net/issues/652",
+      "status": "NEEDS_REVIEW",
+      "title": "feat(backend): Build rate limiting middleware with per-wallet quotas and Redis backing"
     },
     "https://github.com/DocForum/docforum-escrow/issues/125": {
       "first_seen": "2026-11-22T06:06:14+00:00",
@@ -106,6 +127,13 @@
       "status": "NEEDS_REVIEW",
       "title": "[Frontend] Add wallet connection status indicator to all payment pages"
     },
+    "https://github.com/HyunchanAn/Dental_013/issues/4": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/HyunchanAn/Dental_013/issues/4",
+      "status": "NEEDS_REVIEW",
+      "title": "[P1][브리지] tooth_crop_bridge.py 중복 적재/과잉치 키 덮어쓰기 방지, export_onnx.py 및 README 수정"
+    },
     "https://github.com/Icewater1337/fride/issues/224": {
       "first_seen": "2026-11-24T06:08:50+00:00",
       "last_seen": "2026-11-24T06:08:50+00:00",
@@ -115,7 +143,7 @@
     },
     "https://github.com/Konfirm-xyz/konfirm-backend/issues/275": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-24T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
       "source_url": "https://github.com/Konfirm-xyz/konfirm-backend/issues/275",
       "status": "NEEDS_REVIEW",
       "title": "checkComplianceCanary (the backend#210 fix) has no scheduled run or alert escalation — it only fires when an admin opens the blockchain-status page"
@@ -133,6 +161,20 @@
       "source_url": "https://github.com/Mymayankyadav/lemma/issues/1796",
       "status": "NEEDS_REVIEW",
       "title": "Android acknowledges a shared file even when the local file bridge returns HTTP 404"
+    },
+    "https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/1178": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/1178",
+      "status": "NEEDS_REVIEW",
+      "title": "security(db): bridge_statistics view bypasses RLS on bridge_transfers"
+    },
+    "https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/1179": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/1179",
+      "status": "NEEDS_REVIEW",
+      "title": "bug(db): bridge RLS policies call undefined functions and compare the wrong identifier type"
     },
     "https://github.com/Octo-Protocol-org/Octo-Protocol/issues/702": {
       "first_seen": "2026-11-23T06:17:06+00:00",
@@ -161,6 +203,27 @@
       "source_url": "https://github.com/RetinaX-Org/RetinaX/issues/480",
       "status": "NEEDS_REVIEW",
       "title": "Website: support Albedo and xBull wallets"
+    },
+    "https://github.com/SXongin/cola/issues/1086": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/SXongin/cola/issues/1086",
+      "status": "NEEDS_REVIEW",
+      "title": "bug(bridge): handshake Supplement routing with Turn admission across the guard windows"
+    },
+    "https://github.com/SolanaRemix/node/issues/1809": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/SolanaRemix/node/issues/1809",
+      "status": "NEEDS_REVIEW",
+      "title": "🚨 Elite Alert: 📝 Elite Auto-Changelog & Blockchain Verification failed - Action Required"
+    },
+    "https://github.com/SolanaRemix/node/issues/1810": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/SolanaRemix/node/issues/1810",
+      "status": "NEEDS_REVIEW",
+      "title": "🚨 Elite Alert: 📝 Elite Auto-Changelog & Blockchain Verification failed - Action Required"
     },
     "https://github.com/Soroban-Cookbook/Soroban-Cookbook-/issues/1399": {
       "first_seen": "2026-11-24T06:08:50+00:00",
@@ -197,6 +260,13 @@
       "status": "NEEDS_REVIEW",
       "title": "feat(wallet): explain refusal separately from user cancellation"
     },
+    "https://github.com/TevaLabs/Xelma-Blockchain/issues/841": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/TevaLabs/Xelma-Blockchain/issues/841",
+      "status": "NEEDS_REVIEW",
+      "title": "TS helper decode access policy for wallets"
+    },
     "https://github.com/TevaLabs/Xelma-Frontend/issues/990": {
       "first_seen": "2026-11-24T06:08:50+00:00",
       "last_seen": "2026-11-24T06:08:50+00:00",
@@ -218,6 +288,20 @@
       "status": "NEEDS_REVIEW",
       "title": "perf(ingest): decide between every-block and commitment-budget checkpoints as the wallet-serving default"
     },
+    "https://github.com/adriadam10/mkw-recomp/issues/836": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/adriadam10/mkw-recomp/issues/836",
+      "status": "NEEDS_REVIEW",
+      "title": "Falling through the Draw Bridge in Crown City"
+    },
+    "https://github.com/akiojin/gwt/issues/7816": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/akiojin/gwt/issues/7816",
+      "status": "NEEDS_REVIEW",
+      "title": "fix(workspace): v9.173.0 で起動直後の workspace.update が Host workspace bridge の transport_failure になり、receipt も unconfirmed のまま確定しない（#6361 系の再発）"
+    },
     "https://github.com/akiojin/gwt/issues/7854": {
       "first_seen": "2026-11-24T06:08:50+00:00",
       "last_seen": "2026-11-24T06:08:50+00:00",
@@ -234,7 +318,7 @@
     },
     "https://github.com/bsv-blockchain/teranode/issues/2241": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-24T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
       "source_url": "https://github.com/bsv-blockchain/teranode/issues/2241",
       "status": "NEEDS_REVIEW",
       "title": "fix(blockchain): bound startup lock waits when the chain-write row is missing"
@@ -266,6 +350,13 @@
       "source_url": "https://github.com/dsmcewan/OPHANIM/issues/97",
       "status": "NEEDS_REVIEW",
       "title": "Qualify collaboration bridge portability and per-file test coverage"
+    },
+    "https://github.com/e-omunoz/celer/issues/229": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/e-omunoz/celer/issues/229",
+      "status": "NEEDS_REVIEW",
+      "title": "[connections] Informix JDBC: after Detener forces the bridge to reset the connection, an open BEGIN WORK transaction and session SETs are lost silently, so later statements autocommit and COMMIT repor"
     },
     "https://github.com/elastic/kibana/issues/303886": {
       "first_seen": "2026-11-22T06:06:14+00:00",
@@ -308,6 +399,13 @@
       "source_url": "https://github.com/garrytan/gstack/issues/4298",
       "status": "NEEDS_REVIEW",
       "title": "autoplan phase publication is unverified when a Remote Control bridge_status record is the journal root"
+    },
+    "https://github.com/gonka-ai/gonka/issues/2320": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/gonka-ai/gonka/issues/2320",
+      "status": "NEEDS_REVIEW",
+      "title": "[BUG] v6 gateway: liquidity-starved temp escrows satisfy bridge count and prevent automatic refill"
     },
     "https://github.com/gosodax/sodax-sdks/issues/657": {
       "first_seen": "2026-11-23T06:17:06+00:00",
@@ -365,6 +463,13 @@
       "status": "NEEDS_REVIEW",
       "title": "fix(tool-bridge): honor narrowing exposure from direct to deferred or codemode across /reload and session resume"
     },
+    "https://github.com/ironlegends/AgentBridge/issues/11": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/ironlegends/AgentBridge/issues/11",
+      "status": "NEEDS_REVIEW",
+      "title": "agent_bridge_status reports channel \"development\" on stable builds"
+    },
     "https://github.com/kaanmuar/kaanmuar.github.io/issues/4275": {
       "first_seen": "2026-11-24T06:08:50+00:00",
       "last_seen": "2026-11-24T06:08:50+00:00",
@@ -416,7 +521,7 @@
     },
     "https://github.com/kramerc/honeyledger/issues/376": {
       "first_seen": "2026-11-23T06:17:05+00:00",
-      "last_seen": "2026-11-24T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
       "source_url": "https://github.com/kramerc/honeyledger/issues/376",
       "status": "NEEDS_REVIEW",
       "title": "Re-route a blockchain transaction whose direction flips on resync"
@@ -484,6 +589,13 @@
       "status": "NEEDS_REVIEW",
       "title": "crash: (Unbound) com.facebook.react.bridge.UnexpectedNativeTypeException in com.facebook.react.bridge.ReadableNativeMap…"
     },
+    "https://github.com/mavix21/orchid/issues/144": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/mavix21/orchid/issues/144",
+      "status": "NEEDS_REVIEW",
+      "title": "Agent-first wallet: one tool layer for an in-app agent and MCP, with evals and injection defenses"
+    },
     "https://github.com/mega-yfue/eufy-sdk/issues/257": {
       "first_seen": "2026-11-21T06:04:07+00:00",
       "last_seen": "2026-11-21T06:04:07+00:00",
@@ -549,7 +661,7 @@
     },
     "https://github.com/openminion/openminion/issues/663": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-24T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
       "source_url": "https://github.com/openminion/openminion/issues/663",
       "status": "NEEDS_REVIEW",
       "title": "Reject malformed RPC nonce values during blockchain preparation and send checks"
@@ -568,12 +680,40 @@
       "status": "NEEDS_REVIEW",
       "title": "reticle open says the SDK is missing for a detached tab the bridge refused"
     },
+    "https://github.com/ritik4ever/stellar-portfolio-rebalancer/issues/2015": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/ritik4ever/stellar-portfolio-rebalancer/issues/2015",
+      "status": "NEEDS_REVIEW",
+      "title": "SPR-2026-091 [UX] Explain boundary behavior in Wallet action announcements"
+    },
+    "https://github.com/ritik4ever/stellar-portfolio-rebalancer/issues/2016": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/ritik4ever/stellar-portfolio-rebalancer/issues/2016",
+      "status": "NEEDS_REVIEW",
+      "title": "SPR-2026-092 [UX] Recover from failure in Wallet action announcements"
+    },
+    "https://github.com/ritik4ever/stellar-portfolio-rebalancer/issues/2017": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/ritik4ever/stellar-portfolio-rebalancer/issues/2017",
+      "status": "NEEDS_REVIEW",
+      "title": "SPR-2026-093 [A11Y] Make Wallet action announcements keyboard and screen-reader usable"
+    },
     "https://github.com/ritik4ever/stellar-portfolio-rebalancer/issues/2018": {
       "first_seen": "2026-11-23T06:17:06+00:00",
-      "last_seen": "2026-11-23T06:17:06+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
       "source_url": "https://github.com/ritik4ever/stellar-portfolio-rebalancer/issues/2018",
       "status": "NEEDS_REVIEW",
       "title": "SPR-2026-094 [MOBILE] Keep Wallet action announcements usable at narrow widths"
+    },
+    "https://github.com/ritik4ever/stellar-portfolio-rebalancer/issues/2019": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/ritik4ever/stellar-portfolio-rebalancer/issues/2019",
+      "status": "NEEDS_REVIEW",
+      "title": "SPR-2026-095 [TEST] Cover Wallet action announcements edge and failure states"
     },
     "https://github.com/scout-off/scout-off-contracts/issues/1796": {
       "first_seen": "2026-11-22T06:06:14+00:00",
@@ -588,6 +728,13 @@
       "source_url": "https://github.com/seanrobertwright/Quay-2/issues/705",
       "status": "NEEDS_REVIEW",
       "title": "The bridge's permission route accepts a request that sends no token"
+    },
+    "https://github.com/sharerohit111-pixel/zenura-ignite/issues/162": {
+      "first_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
+      "source_url": "https://github.com/sharerohit111-pixel/zenura-ignite/issues/162",
+      "status": "NEEDS_REVIEW",
+      "title": "S-TRADE: atomic cross-asset wallet and portfolio snapshot integration"
     },
     "https://github.com/shizumaat/XPTerrainBuilder/issues/1939": {
       "first_seen": "2026-11-23T06:17:06+00:00",
@@ -619,7 +766,7 @@
     },
     "https://github.com/thorwhalen/owned/issues/1": {
       "first_seen": "2026-11-24T06:08:50+00:00",
-      "last_seen": "2026-11-24T06:08:50+00:00",
+      "last_seen": "2026-11-25T06:08:50+00:00",
       "source_url": "https://github.com/thorwhalen/owned/issues/1",
       "status": "NEEDS_REVIEW",
       "title": "Blockchain functions are broken against web3.py v6+ (dead v5 API), and the in-module test_* functions never run"

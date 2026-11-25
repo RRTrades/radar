@@ -2,7 +2,7 @@
   "entries": {
     "aaron11998/mev-protection-scanner": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-24T06:10:30+00:00",
+      "checked_at_utc": "2026-11-25T06:10:30+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -13,9 +13,22 @@
       "repository": "aaron11998/mev-protection-scanner",
       "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
     },
+    "aceop-001/fiangshi": {
+      "buy_approved": false,
+      "checked_at_utc": "2026-11-25T06:10:30+00:00",
+      "contract_claims": [],
+      "contract_claims_found": 0,
+      "dev_identity_verified": false,
+      "identity_verified": false,
+      "investor_identity_verified": false,
+      "project_source_url": "https://github.com/Aceop-001/fiangshi#readme",
+      "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
+      "repository": "Aceop-001/fiangshi",
+      "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
+    },
     "agent402-dev/agent402-toolkit": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-24T06:10:30+00:00",
+      "checked_at_utc": "2026-11-25T06:10:30+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -28,7 +41,7 @@
     },
     "andedauda2-alt/anagu": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-24T06:10:30+00:00",
+      "checked_at_utc": "2026-11-25T06:10:30+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -41,7 +54,7 @@
     },
     "apelevel/whisper": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-24T06:10:30+00:00",
+      "checked_at_utc": "2026-11-25T06:10:30+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -154,6 +167,19 @@
       "project_source_url": "https://github.com/elon00/ari-juels-ai#readme",
       "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
       "repository": "elon00/ari-juels-ai",
+      "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
+    },
+    "elon00/dawn-song-ai": {
+      "buy_approved": false,
+      "checked_at_utc": "2026-11-25T06:10:30+00:00",
+      "contract_claims": [],
+      "contract_claims_found": 0,
+      "dev_identity_verified": false,
+      "identity_verified": false,
+      "investor_identity_verified": false,
+      "project_source_url": "https://github.com/elon00/dawn-song-ai#readme",
+      "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
+      "repository": "elon00/dawn-song-ai",
       "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
     },
     "elon00/ethmumbai-erc4337-paymaster-ai": {

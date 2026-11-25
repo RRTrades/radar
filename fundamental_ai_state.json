@@ -61,6 +61,67 @@
       "source_readme_available": false,
       "token_contract_verified": false
     },
+    "aceop-001/fiangshi": {
+      "analyzed_at_utc": "2026-11-25T06:09:44+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/Aceop-001/fiangshi#readme"
+            ],
+            "missing_evidence": "Independent adoption metrics or third‑party user testimonials",
+            "rationale": "Demo videos and case study are self‑hosted; no external usage metrics or third‑party endorsements are provided.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/Aceop-001/fiangshi#readme"
+            ],
+            "missing_evidence": "Independent comparative analysis with peer projects",
+            "rationale": "Only unverified search matches are listed; no objective comparison to similar solutions is provided.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/Aceop-001/fiangshi#readme"
+            ],
+            "missing_evidence": "Independent technical audit or performance benchmarks",
+            "rationale": "Claims of six deterministic rules and model‑driven verdicts are unverified by external audits or benchmarks.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/Aceop-001/fiangshi#readme"
+            ],
+            "missing_evidence": "Tokenomics details or proof of token utility/value",
+            "rationale": "The project does not describe any token or economic capture mechanism, so no evidence can be evaluated.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/Aceop-001/fiangshi#readme"
+            ],
+            "missing_evidence": "Independent studies or reports on x402 payment risks",
+            "rationale": "No third‑party data or analysis demonstrates that x402 agent payments lack sufficient counterparty verification.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "Fiangshi claims to provide advisory pre‑payment checks for x402 agent payments, but no independent evidence confirms the problem, technical edge, competitor landscape, token economics, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "Aceop-001/fiangshi",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
     "agent402-dev/agent402-toolkit": {
       "analyzed_at_utc": "2026-11-22T06:07:06+00:00",
       "assessment": {
@@ -734,6 +795,73 @@
       },
       "model": "openai/gpt-oss-120b",
       "repository": "elon00/ari-juels-ai",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
+    "elon00/dawn-song-ai": {
+      "analyzed_at_utc": "2026-11-25T06:09:44+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/elon00/dawn-song-ai/commit/cb8f0b017edaa6ccf14c5b00f0ac70b7bfb26643",
+              "https://github.com/elon00/dawn-song-ai/commit/088b8fd00a9025a103583a2f53aaa6a698754426",
+              "https://github.com/elon00/dawn-song-ai/commit/ac1094f0dfddea9e5746ae83fc58e2b7dd64a6e0"
+            ],
+            "missing_evidence": "Verified deployment records, user statistics, partnership announcements, or on‑chain activity logs.",
+            "rationale": "Repository shows code and CI but provides no evidence of real users, deployments, partnerships, or on‑chain usage.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/ConsenSysDiligence/smart-contract-best-practices",
+              "https://github.com/ConsenSysDiligence/mythril",
+              "https://github.com/transmissions11/solcurity",
+              "https://github.com/TokenMarketNet/smart-contracts",
+              "https://github.com/nascentxyz/simple-security-toolkit"
+            ],
+            "missing_evidence": "Side‑by‑side performance, security, and feature comparisons with recognized competitors.",
+            "rationale": "Only a list of unrelated GitHub projects is given; no objective comparison or evaluation against established solutions.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/elon00/dawn-song-ai#readme"
+            ],
+            "missing_evidence": "Independent performance/security audits, benchmark comparisons, or peer‑reviewed publications.",
+            "rationale": "No third‑party benchmarks, audits, or peer‑reviewed results are provided to substantiate claimed technical advantages.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/elon00/dawn-song-ai#readme"
+            ],
+            "missing_evidence": "Token contract details, economic model documentation, and on‑chain market activity.",
+            "rationale": "Token $SONG is mentioned without any contract address, tokenomics, or market data to assess value capture mechanisms.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/elon00/dawn-song-ai#readme"
+            ],
+            "missing_evidence": "Independent market research or third‑party reports confirming the problem’s relevance.",
+            "rationale": "Readme asserts need for AI security but lacks external validation that the problem is unmet or critical.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "Project claims an autonomous AI security protocol with token $SONG, but provides no independent evidence of an unresolved problem, technical superiority, competitor analysis, token economics, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "elon00/dawn-song-ai",
       "source_readme_available": true,
       "token_contract_verified": false
     },

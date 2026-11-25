@@ -1,7 +1,7 @@
 {
   "approved_for_buy": 0,
   "audit_scope": "GitHub repository existence, root file names and recent commit links only",
-  "audited_at_utc": "2026-11-24T06:09:33+00:00",
+  "audited_at_utc": "2026-11-25T06:09:32+00:00",
   "audited_count": 12,
   "entries": [
     {
@@ -70,6 +70,41 @@
       },
       "repository": "aaron11998/mev-protection-scanner",
       "repository_url": "https://github.com/aaron11998/mev-protection-scanner",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-25T06:09:32+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Aceop-001/fiangshi",
+        "https://github.com/Aceop-001/fiangshi/commit/9f4cca7f712e8ff779165d434d2cf7517bbf570a",
+        "https://github.com/Aceop-001/fiangshi/commit/a8a7fd1169e915f66bd0d7789d0b800d09f5f7d7",
+        "https://github.com/Aceop-001/fiangshi/commit/0099d8f0bc063b6c5ea035a1e6e9f49d5d774120"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 2,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Aceop-001/fiangshi",
+      "repository_url": "https://github.com/Aceop-001/fiangshi",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -1318,6 +1353,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-25T06:09:32+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Keeftalk/Android",
+        "https://github.com/Keeftalk/Android/commit/42a639b3f5760f81087c3730582644848700ee65",
+        "https://github.com/Keeftalk/Android/commit/52a846a2d604863962ef586af53304e4bebcf14d",
+        "https://github.com/Keeftalk/Android/commit/7159770188ec8f26f6ba69b331a02803c74e1d58"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Keeftalk/Android",
+      "repository_url": "https://github.com/Keeftalk/Android",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-20T22:59:41+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -1525,6 +1595,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-25T06:09:32+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/luka1968/agentsafe",
+        "https://github.com/luka1968/agentsafe/commit/5792bfef5a337f3d32e0825c2ec4a04aea748b13",
+        "https://github.com/luka1968/agentsafe/commit/6715aa5b9c54b3798125430a6ed5d5412511d4e7",
+        "https://github.com/luka1968/agentsafe/commit/7743ee064ae52ca3befd8c0e1708e1724c4cf747"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 1,
+        "github_stars_public": 2,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "luka1968/agentsafe",
+      "repository_url": "https://github.com/luka1968/agentsafe",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-20T22:59:41+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -1696,6 +1801,40 @@
       },
       "repository": "mcyb13/CBDC-Starter-Model-in-Tamarin-Prover",
       "repository_url": "https://github.com/mcyb13/CBDC-Starter-Model-in-Tamarin-Prover",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-25T06:09:32+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Nave161s/Smart-Contract-Exploit-Training",
+        "https://github.com/Nave161s/Smart-Contract-Exploit-Training/commit/e2289b9e507ae76c463346dea35c6296382b18aa",
+        "https://github.com/Nave161s/Smart-Contract-Exploit-Training/commit/8a46f6c7ac4ae45347b0ddaef3ab56a8f6155bcc"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 1,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "Nave161s/Smart-Contract-Exploit-Training",
+      "repository_url": "https://github.com/Nave161s/Smart-Contract-Exploit-Training",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -2115,6 +2254,75 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-25T06:09:32+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Qrygent/Qrygent",
+        "https://github.com/Qrygent/Qrygent/commit/6421f3a9ead6f81d7f6207f4e878c690ce4d64c0",
+        "https://github.com/Qrygent/Qrygent/commit/3d50f13f5fe81644758ba021acdc6b2718cd0438"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "Qrygent/Qrygent",
+      "repository_url": "https://github.com/Qrygent/Qrygent",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-25T06:09:32+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/rakesh-pathuri/VIGIL",
+        "https://github.com/rakesh-pathuri/VIGIL/commit/3c86bd9731e917090e9e2803e9e1593dccff34f3",
+        "https://github.com/rakesh-pathuri/VIGIL/commit/f7da7ee9d3bdbe13c5ad2271636e2e2fba53315d",
+        "https://github.com/rakesh-pathuri/VIGIL/commit/f7e03cbc9948b225bdc6e4cde4ab605abf6fb291"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "rakesh-pathuri/VIGIL",
+      "repository_url": "https://github.com/rakesh-pathuri/VIGIL",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-20T22:59:41+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -2324,6 +2532,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-25T06:09:32+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/rzmayssa02-droid/EtherShield",
+        "https://github.com/rzmayssa02-droid/EtherShield/commit/cddf124818ebb38333885a93d03881e16e6ee933",
+        "https://github.com/rzmayssa02-droid/EtherShield/commit/695776c24ca8aef254093359a8026080269722ab",
+        "https://github.com/rzmayssa02-droid/EtherShield/commit/bfb6a5d679d0ef0cef1346855cc9bbeeeb60742a"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "rzmayssa02-droid/EtherShield",
+      "repository_url": "https://github.com/rzmayssa02-droid/EtherShield",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-21T06:04:46+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -2429,6 +2672,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-25T06:09:32+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/sameer-dhakad/ap2-gateway",
+        "https://github.com/sameer-dhakad/ap2-gateway/commit/a709103badaec7d58d1853bc77adcdf2f2dad22e",
+        "https://github.com/sameer-dhakad/ap2-gateway/commit/25075a91503f428250ae3cdd25303bed79e3f9ae",
+        "https://github.com/sameer-dhakad/ap2-gateway/commit/16cb1817c783b004cae87389f4ca6d1d15f00fc7"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "sameer-dhakad/ap2-gateway",
+      "repository_url": "https://github.com/sameer-dhakad/ap2-gateway",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-21T06:04:46+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -2460,6 +2738,76 @@
       },
       "repository": "sawi57003-ops/ubc-agentpay",
       "repository_url": "https://github.com/sawi57003-ops/ubc-agentpay",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-25T06:09:32+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Sharon-dev-create/covenant",
+        "https://github.com/Sharon-dev-create/covenant/commit/db8167aa9f9cdbd5c875a88d95b9d9ce4b175e76",
+        "https://github.com/Sharon-dev-create/covenant/commit/d0cf25d5a8a153de0df1ca66ee414b4a194caba8",
+        "https://github.com/Sharon-dev-create/covenant/commit/4668570feefa118a789fb799cfee7f401aed5ef0"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Sharon-dev-create/covenant",
+      "repository_url": "https://github.com/Sharon-dev-create/covenant",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-25T06:09:32+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/SidVaidya2005/Hack-a-Sol-Rolex",
+        "https://github.com/SidVaidya2005/Hack-a-Sol-Rolex/commit/0f33b70d160babbcd2b0b331191a99cf15119974",
+        "https://github.com/SidVaidya2005/Hack-a-Sol-Rolex/commit/caab8a163bc10fca07ab434e5fe5d1ac3784a3a5",
+        "https://github.com/SidVaidya2005/Hack-a-Sol-Rolex/commit/64414ee3212d4b5fedf62960a113b81ee33034cf"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "SidVaidya2005/Hack-a-Sol-Rolex",
+      "repository_url": "https://github.com/SidVaidya2005/Hack-a-Sol-Rolex",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -2602,6 +2950,40 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-25T06:09:32+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/stephlherediano-cpu/sentinelx-api",
+        "https://github.com/stephlherediano-cpu/sentinelx-api/commit/0cbc6bb74b47e9bfa171cbfea23c1f99be855b19",
+        "https://github.com/stephlherediano-cpu/sentinelx-api/commit/8e6a35d69e186f5e1d4c818eb045e20d69503c1a"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "stephlherediano-cpu/sentinelx-api",
+      "repository_url": "https://github.com/stephlherediano-cpu/sentinelx-api",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-21T06:04:46+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -2632,6 +3014,41 @@
       },
       "repository": "STUSMA/Lofd",
       "repository_url": "https://github.com/STUSMA/Lofd",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-25T06:09:32+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Tejanadh/ciphra",
+        "https://github.com/Tejanadh/ciphra/commit/751f89022a136086dd4c7da83ac8fc738d913d7c",
+        "https://github.com/Tejanadh/ciphra/commit/ade42aec600f8853ca49241452f2ec4642114036",
+        "https://github.com/Tejanadh/ciphra/commit/ad976a6174c6aed25981f4467898ef4f295a914c"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Tejanadh/ciphra",
+      "repository_url": "https://github.com/Tejanadh/ciphra",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -2949,8 +3366,8 @@
   ],
   "error_count": 0,
   "errors": [],
-  "remaining_unaudited_priority": 7,
+  "remaining_unaudited_priority": 5,
   "schema_version": 2,
   "selected_count": 12,
-  "total_audited_unique": 85
+  "total_audited_unique": 97
 }
