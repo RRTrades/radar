@@ -726,6 +726,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:3qretqbzqksjkqw5rqategkfxaqdhmvutbnbefscpump": {
+      "chain": "solana",
+      "contract": "3QReTqbzQKSJkqW5RQATegkFxAqDhmvutBnBeFScpump",
+      "description_excerpt": "Send SOL privately to any wallet. Launch coins that route fees to the people you want.\n\n$HUSH · built on Helius Privacy Rings",
+      "first_seen": "2026-11-25T01:08:46+00:00",
+      "last_seen": "2026-11-25T01:08:46+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:439nprreuaawb4nmfnb8y9ahpekdrr5mpeflse7r6hkj": {
       "chain": "solana",
       "contract": "439nprrEUAawb4nmfnB8Y9AhpEKdRr5MpEfLse7R6HkJ",
