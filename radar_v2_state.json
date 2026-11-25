@@ -1282,6 +1282,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:efq6tnwsjjuho2mcrj5q93ugvuujkev1ddpusrtrpump": {
+      "chain": "solana",
+      "contract": "EfQ6TNwSjjUHo2mcrj5q93ugvuUJkEv1DdPUSRtrpump",
+      "description_excerpt": "Building solana's on-chain privacy trading infrastructure.",
+      "first_seen": "2026-11-25T09:39:59+00:00",
+      "last_seen": "2026-11-25T09:39:59+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:exdt9yyzojj8ktksuq6t3fg6m2gc1rujmxthwns2pump": {
       "chain": "solana",
       "contract": "ExdT9yyZojJ8ktkSUq6T3fG6m2Gc1RUjMXTHwns2pump",
