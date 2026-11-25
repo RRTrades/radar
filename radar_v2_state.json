@@ -1146,6 +1146,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:b64kgarqhdmad8mf7fmufkkhqhx6wicibhetts5wpump": {
+      "chain": "solana",
+      "contract": "B64kgaRQhDMAD8Mf7fMUfKkHqHx6WicibHeTtS5wpump",
+      "description_excerpt": "Dark Pool is the first private stock trading on Solana, built on Helius Privacy Rings. Buy tokenized stocks like $NVDA, $ANT and $TTWO on an encrypted balance, where nobody sees your portfolio but you.",
+      "first_seen": "2026-11-25T17:04:14+00:00",
+      "last_seen": "2026-11-25T17:04:14+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:bbbb3nt3qdfotcnjec9zyjad5i6ozkg46ykgu7rjpump": {
       "chain": "solana",
       "contract": "BBBB3NT3qDFoTCNjec9zYJad5i6ozKG46yKgU7Rjpump",
