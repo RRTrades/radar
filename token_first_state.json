@@ -508,16 +508,16 @@
       "first_seen_at": "2026-11-25T03:41:16+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-25T03:41:16+00:00",
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
       "market": {
-        "liquidity_usd": 5148.9,
-        "market_cap_usd": 8265,
+        "liquidity_usd": 7696.82,
+        "market_cap_usd": 18482,
         "name": "Jimmy Rustles",
         "pair_created_at_ms": 1795576343000,
         "pair_url": "https://dexscreener.com/ethereum/0x0893278b651c7fec4e35e2b28e56c04c4e054500",
-        "price_change_24h_pct": 519,
+        "price_change_24h_pct": 1285,
         "symbol": "JIMMY",
-        "volume_24h_usd": 7690.98
+        "volume_24h_usd": 15172.54
       },
       "profile_description": "That really Rustled my Jimmies",
       "project_token_link_verified": false,
@@ -740,16 +740,16 @@
       "first_seen_at": "2026-11-25T03:41:16+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-25T03:41:16+00:00",
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
       "market": {
-        "liquidity_usd": 10155.58,
-        "market_cap_usd": 12585,
+        "liquidity_usd": 15541.18,
+        "market_cap_usd": 24133,
         "name": "Jimmy Rustles",
         "pair_created_at_ms": 1795473515000,
         "pair_url": "https://dexscreener.com/ethereum/0x27c85856130d42778292ff980043d8915e9238103cb0a24ca997ad15b17b2149",
-        "price_change_24h_pct": 154,
+        "price_change_24h_pct": 424,
         "symbol": "JIMMY",
-        "volume_24h_usd": 9319.27
+        "volume_24h_usd": 24260.57
       },
       "profile_description": "OG JIMMY RUSTLES ON ETH",
       "project_token_link_verified": false,
@@ -1328,34 +1328,6 @@
         "liquidité inférieure à 25 000 USD"
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
-    },
-    "solana:2rLApcMZYTpPib7gi3manuL9oEpHbuBm5GDdmVeCpump": {
-      "buy_approved": false,
-      "chain": "solana",
-      "community_authenticity_verified": false,
-      "contract": "2rLApcMZYTpPib7gi3manuL9oEpHbuBm5GDdmVeCpump",
-      "declared_links": [
-        "https://github.com/helius-labs/privacy-rings/blob/5571dc0e1031bea5c77496584a6e1d970fbbd3fe/tools/gpu/test_aws.py",
-        "https://x.com/0xBreesy/status/2124941371404407135?a=p4bSP9Xm2HQN0SyqEgM&s=20"
-      ],
-      "developer_verified": false,
-      "discovery_sources": [
-        "recent_profile"
-      ],
-      "exceptional_signal_approved": false,
-      "first_seen_at": "2026-11-23T19:44:06+00:00",
-      "fundamentals_verified": false,
-      "investor_verified": false,
-      "last_checked_at": "2026-11-23T19:44:06+00:00",
-      "market": null,
-      "profile_description": "helius is getting ready to deploy its own GPU provers and indexers on the solana network called zolnet that integrates directly with the Solana layer 1",
-      "project_token_link_verified": false,
-      "promotion_is_not_endorsement": false,
-      "token_value_capture_verified": false,
-      "triage_flags": [
-        "aucune paire exacte avec liquidité renseignée"
-      ],
-      "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
     },
     "solana:2wTWeJJ1urnhc3S6EaA4T5xtKaXHdukKDvDb4eoNpump": {
       "buy_approved": false,
@@ -2162,6 +2134,43 @@
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
     },
+    "solana:4UMErmfmKzDCVmHrwBUbnDnbQnVKVYAcT7X5AdTkpump": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "4UMErmfmKzDCVmHrwBUbnDnbQnVKVYAcT7X5AdTkpump",
+      "declared_links": [
+        "https://x.com/FuckCancerDrive"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-25T05:41:36+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
+      "market": {
+        "liquidity_usd": 18396.3,
+        "market_cap_usd": 73300,
+        "name": "Fuck Cancer",
+        "pair_created_at_ms": 1795582832000,
+        "pair_url": "https://dexscreener.com/solana/bhyh1hcm1puscjbv5nasswix8p7xmtn4d7hpcvs63vbp",
+        "price_change_24h_pct": 169,
+        "symbol": "FUCKCANCER",
+        "volume_24h_usd": 286174.25
+      },
+      "profile_description": "Fuck Cancer\n\n100% of fees go to the Lung Cancer Foundation of America",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "liquidité inférieure à 25 000 USD",
+        "hausse 24 h supérieure à 100 %"
+      ],
+      "triage_status": "MARKET_RESEARCH_REVIEW"
+    },
     "solana:4Uv7H7jY2UADoTb9W4m4ra7f8kTKoNyBRkYkmpahnAUF": {
       "buy_approved": false,
       "chain": "solana",
@@ -2575,25 +2584,23 @@
       "first_seen_at": "2026-11-24T13:58:54+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-25T03:41:16+00:00",
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
       "market": {
-        "liquidity_usd": 23276.44,
-        "market_cap_usd": 70643,
+        "liquidity_usd": 25949.89,
+        "market_cap_usd": 87113,
         "name": "Memeployed",
         "pair_created_at_ms": 1795528025000,
         "pair_url": "https://dexscreener.com/solana/gy7pc4tijsvfds85hmdsngx5rccp3vmdysjtghlgdh8",
-        "price_change_24h_pct": 59.26,
+        "price_change_24h_pct": 96.41,
         "symbol": "Memeployed",
-        "volume_24h_usd": 913291.9
+        "volume_24h_usd": 938964.81
       },
       "profile_description": "",
       "project_token_link_verified": false,
       "promotion_is_not_endorsement": true,
       "token_value_capture_verified": false,
-      "triage_flags": [
-        "liquidité inférieure à 25 000 USD"
-      ],
-      "triage_status": "MARKET_RESEARCH_REVIEW"
+      "triage_flags": [],
+      "triage_status": "MARKET_RESEARCH_PRIORITY_UNVERIFIED"
     },
     "solana:4mE8dPH1RTqQBT5EPim5Ubt2v2wXZ9zgEDDWmL1o1EYu": {
       "buy_approved": false,
@@ -3458,16 +3465,16 @@
       "first_seen_at": "2026-11-21T16:26:27+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-25T02:30:54+00:00",
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
       "market": {
-        "liquidity_usd": 77060.2,
-        "market_cap_usd": 687657,
+        "liquidity_usd": 78974.88,
+        "market_cap_usd": 723032,
         "name": "Rocket Raccoon",
         "pair_created_at_ms": 1795261268000,
         "pair_url": "https://dexscreener.com/solana/9nlfujwrhgqyxkw2jukka1gjvtibxaty2ad4qrysckke",
-        "price_change_24h_pct": -2.76,
+        "price_change_24h_pct": 4.87,
         "symbol": "ROCKET",
-        "volume_24h_usd": 48899.06
+        "volume_24h_usd": 65539.94
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -3649,16 +3656,16 @@
       "first_seen_at": "2026-11-25T03:41:16+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-25T03:41:16+00:00",
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
       "market": {
-        "liquidity_usd": 49585.92,
-        "market_cap_usd": 320953,
+        "liquidity_usd": 35503.5,
+        "market_cap_usd": 165224,
         "name": "Manlet",
         "pair_created_at_ms": 1795575509000,
         "pair_url": "https://dexscreener.com/solana/4okxtvujmnrgfvbg6qtwtinqw7mn9ndtwh3zqyppptfu",
-        "price_change_24h_pct": 534,
+        "price_change_24h_pct": 226,
         "symbol": "Manlet",
-        "volume_24h_usd": 36630.65
+        "volume_24h_usd": 55685.79
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -3668,6 +3675,33 @@
         "hausse 24 h supérieure à 100 %"
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
+    },
+    "solana:6MsaWYaAQ3vPKpQMi9ptiX4yhLv1EEt7NYcX5DH6pump": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "6MsaWYaAQ3vPKpQMi9ptiX4yhLv1EEt7NYcX5DH6pump",
+      "declared_links": [
+        "https://x.com/dv3333333/status/2125457564934484453"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-25T05:41:36+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
+      "market": null,
+      "profile_description": "",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "aucune paire exacte avec liquidité renseignée"
+      ],
+      "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
     },
     "solana:6QNxWALwXWdCtbBHFQthmzrz5zZnYBsPo4YS5SVCpump": {
       "buy_approved": false,
@@ -3696,6 +3730,43 @@
         "aucune paire exacte avec liquidité renseignée"
       ],
       "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
+    },
+    "solana:6QtshTWFdGsscfo5cH6D8EUyyFgy7BDfdbMevUvbpump": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "6QtshTWFdGsscfo5cH6D8EUyyFgy7BDfdbMevUvbpump",
+      "declared_links": [
+        "https://x.com/robtmb1/status/2125457092957933751?a=yiYfPnOkYJOLlv0h3X8&s=20",
+        "https://www.tiktok.com/@robdamaster"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-25T05:41:36+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
+      "market": {
+        "liquidity_usd": 10974.23,
+        "market_cap_usd": 29050,
+        "name": "Twitch",
+        "pair_created_at_ms": 1795584712000,
+        "pair_url": "https://dexscreener.com/solana/di1kf5y3dvgg1e94huuzahht614fwtivnwxknfbtkqu7",
+        "price_change_24h_pct": -0.38,
+        "symbol": "Twitch",
+        "volume_24h_usd": 54447.33
+      },
+      "profile_description": "",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "liquidité inférieure à 25 000 USD"
+      ],
+      "triage_status": "MARKET_RESEARCH_REVIEW"
     },
     "solana:6SKYN3EYaCGrNQqStXqQo5gtvDAxvjW4xCPLgWPgpump": {
       "buy_approved": false,
@@ -3980,24 +4051,23 @@
       "first_seen_at": "2026-11-24T20:53:14+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-25T02:30:54+00:00",
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
       "market": {
-        "liquidity_usd": 3932.85,
-        "market_cap_usd": 20402,
+        "liquidity_usd": 3471.67,
+        "market_cap_usd": 17109,
         "name": "POOSTANK",
         "pair_created_at_ms": 1794669895000,
         "pair_url": "https://dexscreener.com/solana/ferf3f7hrgwfnsts3ljqxnfgdmk5u5vlhbg41ptszjbk",
-        "price_change_24h_pct": 219,
+        "price_change_24h_pct": 74.51,
         "symbol": "POOSTANK",
-        "volume_24h_usd": 7002.21
+        "volume_24h_usd": 7277.32
       },
       "profile_description": "",
       "project_token_link_verified": false,
       "promotion_is_not_endorsement": true,
       "token_value_capture_verified": false,
       "triage_flags": [
-        "liquidité inférieure à 25 000 USD",
-        "hausse 24 h supérieure à 100 %"
+        "liquidité inférieure à 25 000 USD"
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
     },
@@ -4833,6 +4903,43 @@
       ],
       "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
     },
+    "solana:7wohLebdTHjfCjP6PTVM3HJwMNed4vEL1ZyTawtupump": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "7wohLebdTHjfCjP6PTVM3HJwMNed4vEL1ZyTawtupump",
+      "declared_links": [
+        "https://knowyourmeme.com/memes/yotsuba-koiwai-404-girl",
+        "https://x.com/k1ll_mx/status/2125381208984965150"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-25T05:41:36+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
+      "market": {
+        "liquidity_usd": 8521.9,
+        "market_cap_usd": 19564,
+        "name": "Yotsuba Koiwai",
+        "pair_created_at_ms": 1795583471000,
+        "pair_url": "https://dexscreener.com/solana/gj8xszjscbe3aqztmtvjz2rxdvxqhgfricymbdcgvn1e",
+        "price_change_24h_pct": -34.23,
+        "symbol": "404GIRL",
+        "volume_24h_usd": 31081.52
+      },
+      "profile_description": "4chan's official mascot",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "liquidité inférieure à 25 000 USD"
+      ],
+      "triage_status": "MARKET_RESEARCH_REVIEW"
+    },
     "solana:7xsUiTrGXaVpBwqcVUiydHA3XrUMD7K5p3jMhLkFpump": {
       "buy_approved": false,
       "chain": "solana",
@@ -5501,25 +5608,24 @@
       ],
       "developer_verified": false,
       "discovery_sources": [
-        "recent_profile",
         "paid_boost"
       ],
       "exceptional_signal_approved": false,
       "first_seen_at": "2026-11-25T02:30:54+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-25T02:30:54+00:00",
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
       "market": {
-        "liquidity_usd": 1565.44,
-        "market_cap_usd": 1505,
+        "liquidity_usd": 1474.77,
+        "market_cap_usd": 1408,
         "name": "Social Coin",
         "pair_created_at_ms": 1795569727000,
         "pair_url": "https://dexscreener.com/solana/5evbzwaxuafkg22p6cs4nhulg18gzhzxjaz51ufldi2f",
-        "price_change_24h_pct": -94.39,
+        "price_change_24h_pct": -94.75,
         "symbol": "SOCIAL",
-        "volume_24h_usd": 37086.36
+        "volume_24h_usd": 38649.84
       },
-      "profile_description": "Social Coin- Pair all narratives from any social media platfrom to this coin!",
+      "profile_description": "",
       "project_token_link_verified": false,
       "promotion_is_not_endorsement": true,
       "token_value_capture_verified": false,
@@ -5663,7 +5769,7 @@
       "first_seen_at": "2026-11-24T20:53:14+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-25T02:30:54+00:00",
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
       "market": null,
       "profile_description": "",
       "project_token_link_verified": false,
@@ -5693,16 +5799,16 @@
       "first_seen_at": "2026-11-21T04:54:22+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-25T03:41:16+00:00",
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
       "market": {
-        "liquidity_usd": 7174.69,
-        "market_cap_usd": 14005,
+        "liquidity_usd": 6598.5,
+        "market_cap_usd": 12159,
         "name": "Viola Snow ",
         "pair_created_at_ms": 1795557063000,
         "pair_url": "https://dexscreener.com/solana/7pqq1fzjvp2k67smukyi1wkvcwxrfuyzzjbur67anakk",
-        "price_change_24h_pct": -49.2,
+        "price_change_24h_pct": -55.89,
         "symbol": "VIOLA",
-        "volume_24h_usd": 12049.89
+        "volume_24h_usd": 13224.14
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -5937,7 +6043,7 @@
       "first_seen_at": "2026-11-25T03:41:16+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-25T03:41:16+00:00",
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
       "market": null,
       "profile_description": "",
       "project_token_link_verified": false,
@@ -8545,30 +8651,29 @@
       ],
       "developer_verified": false,
       "discovery_sources": [
-        "recent_profile",
         "paid_boost"
       ],
       "exceptional_signal_approved": false,
       "first_seen_at": "2026-11-25T02:30:54+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-25T02:30:54+00:00",
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
       "market": {
-        "liquidity_usd": 51542.01,
-        "market_cap_usd": 556842,
+        "liquidity_usd": 1379.66,
+        "market_cap_usd": 1316,
         "name": "DongCoin",
         "pair_created_at_ms": 1795570005000,
         "pair_url": "https://dexscreener.com/solana/8ap6mz83wvwzc31haq7mxm7eb7wne2wenyyemztzlti4",
-        "price_change_24h_pct": 1511,
+        "price_change_24h_pct": -96.19,
         "symbol": "DongCoin",
-        "volume_24h_usd": 355294.48
+        "volume_24h_usd": 541107.01
       },
-      "profile_description": "Bold energy for the next wave of Web3.",
+      "profile_description": "",
       "project_token_link_verified": false,
       "promotion_is_not_endorsement": true,
       "token_value_capture_verified": false,
       "triage_flags": [
-        "hausse 24 h supérieure à 100 %"
+        "liquidité inférieure à 25 000 USD"
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
     },
@@ -10038,6 +10143,34 @@
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
     },
+    "solana:F4p47HW6RmkmVAEszyGtVyRrqyj6AfUCHe1assZSpump": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "F4p47HW6RmkmVAEszyGtVyRrqyj6AfUCHe1assZSpump",
+      "declared_links": [
+        "https://clovertek.fun/",
+        "https://x.com/Cloverlauch"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-25T05:41:36+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
+      "market": null,
+      "profile_description": "",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "aucune paire exacte avec liquidité renseignée"
+      ],
+      "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
+    },
     "solana:FB5eSv7CAMWJnrH5GvHLivx9y8Qgoo8vpPV3EX5Npump": {
       "buy_approved": false,
       "chain": "solana",
@@ -10174,6 +10307,34 @@
         "liquidité inférieure à 25 000 USD"
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
+    },
+    "solana:FH1rfK3YU9pMd9Jyko9PjT6eAUGVLpwnksHMB3KXVomp": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "FH1rfK3YU9pMd9Jyko9PjT6eAUGVLpwnksHMB3KXVomp",
+      "declared_links": [
+        "https://vomp.fun",
+        "https://x.com/VompFun"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-25T05:41:36+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
+      "market": null,
+      "profile_description": "",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "aucune paire exacte avec liquidité renseignée"
+      ],
+      "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
     },
     "solana:FJ3eLHQJqq8NsVkUyQmj5jSJJXvdf1ZiP2YMdEWUpump": {
       "buy_approved": false,
@@ -10370,16 +10531,16 @@
       "first_seen_at": "2026-11-20T22:43:07+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-25T02:30:54+00:00",
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
       "market": {
-        "liquidity_usd": 110096.82,
-        "market_cap_usd": 714495,
+        "liquidity_usd": 106031,
+        "market_cap_usd": 663702,
         "name": "Hogecoin",
         "pair_created_at_ms": 1794725770000,
         "pair_url": "https://dexscreener.com/solana/7cnc9ggegzeffk8flxiyuhdtmeefpqzond56u1mxhnor",
-        "price_change_24h_pct": 11.07,
+        "price_change_24h_pct": -11.62,
         "symbol": "HOGE",
-        "volume_24h_usd": 224313.87
+        "volume_24h_usd": 197900.88
       },
       "profile_description": "",
       "project_token_link_verified": false,
@@ -11250,42 +11411,41 @@
       ],
       "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
     },
-    "solana:GejbZVwcf9yAKeUzBcJYzDUuZN3WRtdV5aTW5BZzpump": {
+    "solana:GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": {
       "buy_approved": false,
       "chain": "solana",
       "community_authenticity_verified": false,
-      "contract": "GejbZVwcf9yAKeUzBcJYzDUuZN3WRtdV5aTW5BZzpump",
+      "contract": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump",
       "declared_links": [
-        "https://nivimascot.xyz",
-        "https://x.com/nivimascotxyz",
-        "https://t.me/nivimascotxyz"
+        "https://wastedarmy.com/",
+        "https://x.com/Wastedrespawned",
+        "https://t.me/wastedarmy"
       ],
       "developer_verified": false,
       "discovery_sources": [
-        "recent_profile"
+        "paid_boost"
       ],
       "exceptional_signal_approved": false,
-      "first_seen_at": "2026-11-23T20:29:35+00:00",
+      "first_seen_at": "2026-11-25T05:41:36+00:00",
       "fundamentals_verified": false,
       "investor_verified": false,
-      "last_checked_at": "2026-11-23T20:29:35+00:00",
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
       "market": {
-        "liquidity_usd": 23321.53,
-        "market_cap_usd": 114397,
-        "name": "Nvidia Mascot",
-        "pair_created_at_ms": 1795464923000,
-        "pair_url": "https://dexscreener.com/solana/emfnkkgw5eztxebqkjhnbribxrfuetn4vnpcbrrvdcz1",
-        "price_change_24h_pct": 184,
-        "symbol": "NIVI",
-        "volume_24h_usd": 250068.18
+        "liquidity_usd": 101649.23,
+        "market_cap_usd": 1081993,
+        "name": "WASTED",
+        "pair_created_at_ms": 1793383775000,
+        "pair_url": "https://dexscreener.com/solana/tt7dks9yjjzj1fwmgopmkbmdrezzymamrhodcgdfwqn",
+        "price_change_24h_pct": 13.48,
+        "symbol": "WASTED",
+        "volume_24h_usd": 562445.63
       },
-      "profile_description": "Nvidia Mascot brings green-chip energy, tech vibes, and unstoppable meme power straight to the blockchain",
+      "profile_description": "",
       "project_token_link_verified": false,
-      "promotion_is_not_endorsement": false,
+      "promotion_is_not_endorsement": true,
       "token_value_capture_verified": false,
       "triage_flags": [
-        "liquidité inférieure à 25 000 USD",
-        "hausse 24 h supérieure à 100 %"
+        "pool de plus de 14 jours"
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
     },
@@ -11930,47 +12090,6 @@
       ],
       "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
     },
-    "solana:HGHJCdysTaaYDJKwwQ3UmcodCw9xjpfFDvcShVVBpump": {
-      "buy_approved": false,
-      "chain": "solana",
-      "community_authenticity_verified": false,
-      "contract": "HGHJCdysTaaYDJKwwQ3UmcodCw9xjpfFDvcShVVBpump",
-      "declared_links": [
-        "https://sexcoinlobby.com",
-        "https://x.com/DAppWandererX/status/2124224512116068627?a=R3tWzxVVEER9-Ivd0pI&s=20",
-        "https://x.com/SexcoinLobby",
-        "https://t.me/sexcoincommunity_sol"
-      ],
-      "developer_verified": false,
-      "discovery_sources": [
-        "paid_boost"
-      ],
-      "exceptional_signal_approved": false,
-      "first_seen_at": "2026-11-23T15:45:10+00:00",
-      "fundamentals_verified": false,
-      "investor_verified": false,
-      "last_checked_at": "2026-11-23T20:29:35+00:00",
-      "market": {
-        "liquidity_usd": 15714.55,
-        "market_cap_usd": 60049,
-        "name": "sexcoin",
-        "pair_created_at_ms": 1793997399000,
-        "pair_url": "https://dexscreener.com/solana/fxjkaiwb6b8yy4q6hyhchdiqfhhquud4puvjoydohwnj",
-        "price_change_24h_pct": 124,
-        "symbol": "sexcoin",
-        "volume_24h_usd": 1103.84
-      },
-      "profile_description": "",
-      "project_token_link_verified": false,
-      "promotion_is_not_endorsement": true,
-      "token_value_capture_verified": false,
-      "triage_flags": [
-        "liquidité inférieure à 25 000 USD",
-        "pool de plus de 14 jours",
-        "hausse 24 h supérieure à 100 %"
-      ],
-      "triage_status": "MARKET_RESEARCH_REVIEW"
-    },
     "solana:HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump": {
       "buy_approved": false,
       "chain": "solana",
@@ -12144,34 +12263,6 @@
         "liquidité inférieure à 25 000 USD"
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
-    },
-    "solana:HbQ8JJg1Hz74LDDjFs1Bbv9EobuRVGFmY1H9yK8Spump": {
-      "buy_approved": false,
-      "chain": "solana",
-      "community_authenticity_verified": false,
-      "contract": "HbQ8JJg1Hz74LDDjFs1Bbv9EobuRVGFmY1H9yK8Spump",
-      "declared_links": [
-        "https://envydia.fun",
-        "https://x.com/envydiagallery"
-      ],
-      "developer_verified": false,
-      "discovery_sources": [
-        "recent_profile"
-      ],
-      "exceptional_signal_approved": false,
-      "first_seen_at": "2026-11-23T20:29:35+00:00",
-      "fundamentals_verified": false,
-      "investor_verified": false,
-      "last_checked_at": "2026-11-23T20:29:35+00:00",
-      "market": null,
-      "profile_description": "",
-      "project_token_link_verified": false,
-      "promotion_is_not_endorsement": false,
-      "token_value_capture_verified": false,
-      "triage_flags": [
-        "aucune paire exacte avec liquidité renseignée"
-      ],
-      "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
     },
     "solana:HgZasASMgGh7hBrfkdfbUzqtusztDyqCsAfYKqaha6ea": {
       "buy_approved": false,
@@ -12648,43 +12739,6 @@
       ],
       "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
     },
-    "solana:PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump": {
-      "buy_approved": false,
-      "chain": "solana",
-      "community_authenticity_verified": false,
-      "contract": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump",
-      "declared_links": [
-        "https://bruhvengers.fun/",
-        "https://x.com/bruhvengersfun"
-      ],
-      "developer_verified": false,
-      "discovery_sources": [
-        "paid_boost"
-      ],
-      "exceptional_signal_approved": false,
-      "first_seen_at": "2026-11-23T15:45:10+00:00",
-      "fundamentals_verified": false,
-      "investor_verified": false,
-      "last_checked_at": "2026-11-23T20:29:35+00:00",
-      "market": {
-        "liquidity_usd": 223099.64,
-        "market_cap_usd": 8134525,
-        "name": "The Bruhvengers",
-        "pair_created_at_ms": 1794025843000,
-        "pair_url": "https://dexscreener.com/solana/ehpzesdxtymvwz1iy5nt3lrnjy1xbc1kgqspl1kqnyiv",
-        "price_change_24h_pct": 24.4,
-        "symbol": "BRUH",
-        "volume_24h_usd": 387085.12
-      },
-      "profile_description": "",
-      "project_token_link_verified": false,
-      "promotion_is_not_endorsement": true,
-      "token_value_capture_verified": false,
-      "triage_flags": [
-        "pool de plus de 14 jours"
-      ],
-      "triage_status": "MARKET_RESEARCH_REVIEW"
-    },
     "solana:PxsJoYZGnfP48KTLHUjr7e9Vzz4N6LU32cp1J6Qpump": {
       "buy_approved": false,
       "chain": "solana",
@@ -12824,43 +12878,6 @@
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
     },
-    "solana:ToDWKzWCNCECx3ukahtwUXVqFbHyKRNag7RJrDbpump": {
-      "buy_approved": false,
-      "chain": "solana",
-      "community_authenticity_verified": false,
-      "contract": "ToDWKzWCNCECx3ukahtwUXVqFbHyKRNag7RJrDbpump",
-      "declared_links": [
-        "https://bigtittychristmas.xyz",
-        "https://x.com/BigTittymas"
-      ],
-      "developer_verified": false,
-      "discovery_sources": [
-        "recent_profile"
-      ],
-      "exceptional_signal_approved": false,
-      "first_seen_at": "2026-11-23T20:29:35+00:00",
-      "fundamentals_verified": false,
-      "investor_verified": false,
-      "last_checked_at": "2026-11-23T20:29:35+00:00",
-      "market": {
-        "liquidity_usd": 1455.21,
-        "market_cap_usd": 1382,
-        "name": "Big Titty Christmas",
-        "pair_created_at_ms": 1795461784000,
-        "pair_url": "https://dexscreener.com/solana/g8vuibkdx5xvem4gghxs9sstgjbxfxnvqjrxruszsxal",
-        "price_change_24h_pct": -96.16,
-        "symbol": "BTC",
-        "volume_24h_usd": 199822.59
-      },
-      "profile_description": "Big Titty Christmas ($BTC) is a Solana meme coin starring a fiery-haired Santa queen with big curves, golden bells, and a sleigh full of holiday chaos.",
-      "project_token_link_verified": false,
-      "promotion_is_not_endorsement": false,
-      "token_value_capture_verified": false,
-      "triage_flags": [
-        "liquidité inférieure à 25 000 USD"
-      ],
-      "triage_status": "MARKET_RESEARCH_REVIEW"
-    },
     "solana:YrdaNSJMZ8wkiVaRbUeGdMwQDsfnku9TaNdPumCgAfB": {
       "buy_approved": false,
       "chain": "solana",
@@ -12897,6 +12914,34 @@
         "liquidité inférieure à 25 000 USD"
       ],
       "triage_status": "MARKET_RESEARCH_REVIEW"
+    },
+    "solana:aetiDzWARu2U6Z8oKFRudi8rA4AQRUyeAhy1HPTpump": {
+      "buy_approved": false,
+      "chain": "solana",
+      "community_authenticity_verified": false,
+      "contract": "aetiDzWARu2U6Z8oKFRudi8rA4AQRUyeAhy1HPTpump",
+      "declared_links": [
+        "https://www.landwolf4chan.fun/",
+        "https://x.com/landwolf_mode"
+      ],
+      "developer_verified": false,
+      "discovery_sources": [
+        "recent_profile"
+      ],
+      "exceptional_signal_approved": false,
+      "first_seen_at": "2026-11-25T05:41:36+00:00",
+      "fundamentals_verified": false,
+      "investor_verified": false,
+      "last_checked_at": "2026-11-25T05:41:36+00:00",
+      "market": null,
+      "profile_description": "landwolf paired with 4chan",
+      "project_token_link_verified": false,
+      "promotion_is_not_endorsement": false,
+      "token_value_capture_verified": false,
+      "triage_flags": [
+        "aucune paire exacte avec liquidité renseignée"
+      ],
+      "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
     },
     "solana:fiixPXZmvzFefzHmCXQG9jri2JyH8ichA3tgWENpump": {
       "buy_approved": false,
@@ -13074,81 +13119,6 @@
         "aucune paire exacte avec liquidité renseignée"
       ],
       "triage_status": "NO_VERIFIABLE_TRADING_PAIR"
-    },
-    "solana:nVs4Ec4nCVdCQk1xKSZ8YWMUYDUAfCdZkNRPM6fTsNH": {
-      "buy_approved": false,
-      "chain": "solana",
-      "community_authenticity_verified": false,
-      "contract": "nVs4Ec4nCVdCQk1xKSZ8YWMUYDUAfCdZkNRPM6fTsNH",
-      "declared_links": [
-        "https://x.com/JimRainbow007/status/2124941420620378587?a=6hzpmfxquZzQp60Mquc&s=20"
-      ],
-      "developer_verified": false,
-      "discovery_sources": [
-        "recent_profile"
-      ],
-      "exceptional_signal_approved": false,
-      "first_seen_at": "2026-11-23T20:29:35+00:00",
-      "fundamentals_verified": false,
-      "investor_verified": false,
-      "last_checked_at": "2026-11-23T20:29:35+00:00",
-      "market": {
-        "liquidity_usd": 10926.95,
-        "market_cap_usd": 20556,
-        "name": "Charleston AI",
-        "pair_created_at_ms": 1788032143000,
-        "pair_url": "https://dexscreener.com/solana/8uewcvkhncruds35ek1ybwldxnn6se7tum8v6gt1ae7u",
-        "price_change_24h_pct": 785,
-        "symbol": "CHARLESTONAI",
-        "volume_24h_usd": 177318.51
-      },
-      "profile_description": "He just partnered with openai and he has been claiming fees",
-      "project_token_link_verified": false,
-      "promotion_is_not_endorsement": false,
-      "token_value_capture_verified": false,
-      "triage_flags": [
-        "liquidité inférieure à 25 000 USD",
-        "pool de plus de 14 jours",
-        "hausse 24 h supérieure à 100 %"
-      ],
-      "triage_status": "MARKET_RESEARCH_REVIEW"
-    },
-    "solana:npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump": {
-      "buy_approved": false,
-      "chain": "solana",
-      "community_authenticity_verified": false,
-      "contract": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump",
-      "declared_links": [
-        "https://www.dessatalks.space/",
-        "https://x.com/DessaOnSOL"
-      ],
-      "developer_verified": false,
-      "discovery_sources": [
-        "paid_boost"
-      ],
-      "exceptional_signal_approved": false,
-      "first_seen_at": "2026-11-22T03:33:20+00:00",
-      "fundamentals_verified": false,
-      "investor_verified": false,
-      "last_checked_at": "2026-11-23T20:29:35+00:00",
-      "market": {
-        "liquidity_usd": 146537.36,
-        "market_cap_usd": 2347482,
-        "name": "Dessa",
-        "pair_created_at_ms": 1793019918000,
-        "pair_url": "https://dexscreener.com/solana/dextcer4k9dwbxtmu8znvvwgevvmvhmb183pf2xxzwvh",
-        "price_change_24h_pct": -22.08,
-        "symbol": "DESSA",
-        "volume_24h_usd": 1245847.61
-      },
-      "profile_description": "",
-      "project_token_link_verified": false,
-      "promotion_is_not_endorsement": true,
-      "token_value_capture_verified": false,
-      "triage_flags": [
-        "pool de plus de 14 jours"
-      ],
-      "triage_status": "MARKET_RESEARCH_REVIEW"
     },
     "solana:o5LM35Afta4i5CFRGwsgtjuyUXq7QRr1Gg12P9Ypump": {
       "buy_approved": false,
