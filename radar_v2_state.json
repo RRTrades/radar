@@ -1047,6 +1047,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:3rkzuvj17tpcfrwyatmcaltv6lwgalzqjiszdcwpen49": {
+      "chain": "solana",
+      "contract": "3RkzUvj17tpcFrWYatMCALtv6LWgALZqJiszDCwpen49",
+      "description_excerpt": "It's time to accelerate privacy\n\np/acc",
+      "first_seen": "2026-11-26T17:56:27+00:00",
+      "last_seen": "2026-11-26T17:56:27+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:439nprreuaawb4nmfnb8y9ahpekdrr5mpeflse7r6hkj": {
       "chain": "solana",
       "contract": "439nprrEUAawb4nmfnB8Y9AhpEKdRr5MpEfLse7R6HkJ",
@@ -1650,6 +1667,23 @@
       "description_excerpt": "3,333 private identities // shielded by Privacy Rings // powered by Helius.",
       "first_seen": "2026-11-22T15:42:57+00:00",
       "last_seen": "2026-11-22T17:59:39+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
+    "solana:jwtzpo7dyeyyfpt1mnzneuyn69f3gt69ul3fvr3fpbg": {
+      "chain": "solana",
+      "contract": "JwTzPo7DYeyyfPT1MNZnEuyn69F3gT69uL3FvR3FPBG",
+      "description_excerpt": "Privacy-focused DeFi superapp on Solana. Trade, launch, bridge, and manage your assets through one intelligent interface.",
+      "first_seen": "2026-11-26T17:56:27+00:00",
+      "last_seen": "2026-11-26T17:56:27+00:00",
       "matched_problems": [
         {
           "hits": [
