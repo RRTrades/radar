@@ -1251,6 +1251,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:9svj5ztal41tqswvnwt1tt9yv3oshymyv8zqohtppump": {
+      "chain": "solana",
+      "contract": "9SVj5ZTAL41tqswVNwT1TT9yv3oSHYMYv8zqoHtPpump",
+      "description_excerpt": "Zolana Inu is the Shiba god of that story: public liquidity on the open steps, confidential transfers through private rings.",
+      "first_seen": "2026-11-26T21:53:36+00:00",
+      "last_seen": "2026-11-26T21:53:36+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "confidential"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:abz86qsusy7u9z9xepaagcug4zg8bsdzffznrmocpump": {
       "chain": "solana",
       "contract": "ABz86QSUSY7U9Z9xepaaGCUg4zG8bSDzfFznRMocpump",
@@ -1631,7 +1648,7 @@
       "contract": "GEUULM43QbeFJ7p1Twodufx7bJDWNBibpwbKyETWpump",
       "description_excerpt": "Privacy Inu ($PI) is a Solana meme coin starring a grinning Shiba in glowing orange goggles, keeping watch over a neon vault.",
       "first_seen": "2026-11-26T20:53:28+00:00",
-      "last_seen": "2026-11-26T20:53:28+00:00",
+      "last_seen": "2026-11-26T21:53:36+00:00",
       "matched_problems": [
         {
           "hits": [
