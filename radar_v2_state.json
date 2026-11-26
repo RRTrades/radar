@@ -927,6 +927,23 @@
     }
   },
   "review_queue": {
+    "base:0x76a58b43f79c47b416567b847475f11a0d7ca601": {
+      "chain": "base",
+      "contract": "0x76a58B43f79c47B416567b847475f11a0d7CA601",
+      "description_excerpt": "Artificial Gooner Intelligence tied to Venice, the privacy focused AI chat bot built by Shapeshift founder Erik Voorhees who’s $VVV token runs on Base. \n\nMost of VVV’s revenue comes from AI generated porn, this is the best fit for an $AGI coin.",
+      "first_seen": "2026-11-26T08:07:40+00:00",
+      "last_seen": "2026-11-26T08:07:40+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "privacy"
+          ],
+          "id": "privacy-compliance"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "base:0x9f4c76f421f47b3c234f841f477897f1d895177d": {
       "chain": "base",
       "contract": "0x9f4c76F421f47b3C234f841F477897f1D895177D",
