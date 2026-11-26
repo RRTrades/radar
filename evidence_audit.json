@@ -1,7 +1,7 @@
 {
   "approved_for_buy": 0,
   "audit_scope": "GitHub repository existence, root file names and recent commit links only",
-  "audited_at_utc": "2026-11-25T06:09:32+00:00",
+  "audited_at_utc": "2026-11-26T06:08:46+00:00",
   "audited_count": 12,
   "entries": [
     {
@@ -519,6 +519,76 @@
       },
       "repository": "Candra0x6/sake",
       "repository_url": "https://github.com/Candra0x6/sake",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-26T06:08:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/canmuratt-hub/fargo-midnight",
+        "https://github.com/canmuratt-hub/fargo-midnight/commit/8a159e1e103dfc4d6c6de6bf31e855d1dab2a33e",
+        "https://github.com/canmuratt-hub/fargo-midnight/commit/3858b688b7df9165a9260a77c93250434c7d7e52",
+        "https://github.com/canmuratt-hub/fargo-midnight/commit/fa7c5e415e4931e88d71c904c7f6c0132269473a"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "canmuratt-hub/fargo-midnight",
+      "repository_url": "https://github.com/canmuratt-hub/fargo-midnight",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-26T06:08:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Chichuzxy/aevum-pay",
+        "https://github.com/Chichuzxy/aevum-pay/commit/4d4c2513bb54d407d0069f578c49ef4344d41f35",
+        "https://github.com/Chichuzxy/aevum-pay/commit/2d7982c34fd85626ece73ea2c50290ada0f67473",
+        "https://github.com/Chichuzxy/aevum-pay/commit/bcc4fc61d01f45642cb0bec491a8bd28d766801f"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Chichuzxy/aevum-pay",
+      "repository_url": "https://github.com/Chichuzxy/aevum-pay",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -1112,6 +1182,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-26T06:08:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/GhaithBM/EtherShield",
+        "https://github.com/GhaithBM/EtherShield/commit/51d4fdf4bb7a1fd6f380f69602651ccb166348c9",
+        "https://github.com/GhaithBM/EtherShield/commit/9439fb96363aaace0ac5e5d6c721ae46705962a5",
+        "https://github.com/GhaithBM/EtherShield/commit/96d23c2a71ee871058da1b5738b8d46caadf733b"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "GhaithBM/EtherShield",
+      "repository_url": "https://github.com/GhaithBM/EtherShield",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-20T22:43:45+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -1417,6 +1522,75 @@
       },
       "repository": "kerne-protocol/reserve-circuit-breaker",
       "repository_url": "https://github.com/kerne-protocol/reserve-circuit-breaker",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-26T06:08:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/KernelNyx/web3-security-case-studies",
+        "https://github.com/KernelNyx/web3-security-case-studies/commit/24d5db926cbe00ce1a7df4ee4c390ebd265a59fb",
+        "https://github.com/KernelNyx/web3-security-case-studies/commit/33a5aaab6ffa4e5ea678bffade08f29686dae600",
+        "https://github.com/KernelNyx/web3-security-case-studies/commit/613e43380200cc4e32b5e59aeac84400b1b0c351"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "KernelNyx/web3-security-case-studies",
+      "repository_url": "https://github.com/KernelNyx/web3-security-case-studies",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-26T06:08:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/KerserkGTR/l2-inventory-rebalancer",
+        "https://github.com/KerserkGTR/l2-inventory-rebalancer/commit/3089f01d75c074180295179b1bfd9c9b732a68fb",
+        "https://github.com/KerserkGTR/l2-inventory-rebalancer/commit/c44bedb65729c52890f184c0c2399ce551bb1c76"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "KerserkGTR/l2-inventory-rebalancer",
+      "repository_url": "https://github.com/KerserkGTR/l2-inventory-rebalancer",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -1805,6 +1979,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-26T06:08:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/mevlanayalcin/ironclad",
+        "https://github.com/mevlanayalcin/ironclad/commit/32ff17e3be5094eb067ed20251b2aed4d99bffe4",
+        "https://github.com/mevlanayalcin/ironclad/commit/4343539d51b72b482ed6cb0d2bb01a48796e1c70",
+        "https://github.com/mevlanayalcin/ironclad/commit/be4e0d80df128133302045dcff600490f695a7ff"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "mevlanayalcin/ironclad",
+      "repository_url": "https://github.com/mevlanayalcin/ironclad",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-25T06:09:32+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -2119,6 +2328,39 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-26T06:08:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/paidonchain/bug-hunt",
+        "https://github.com/paidonchain/bug-hunt/commit/bfe71894d6fab34b8028906dec6ae9aa240b6150"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 1
+      },
+      "repository": "paidonchain/bug-hunt",
+      "repository_url": "https://github.com/paidonchain/bug-hunt",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-21T06:04:46+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -2215,6 +2457,41 @@
       },
       "repository": "phee24/mandatesettle",
       "repository_url": "https://github.com/phee24/mandatesettle",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-26T06:08:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/prixed-sec/Solidity-Learning",
+        "https://github.com/prixed-sec/Solidity-Learning/commit/386bc26d2e7edd49980b27134db31c4ab9bad29d",
+        "https://github.com/prixed-sec/Solidity-Learning/commit/efe0fa5eed82c3aa840639d53bbf913d86e1238f",
+        "https://github.com/prixed-sec/Solidity-Learning/commit/2180cbb165157a4a5871352cfb60b6ccbb002379"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "prixed-sec/Solidity-Learning",
+      "repository_url": "https://github.com/prixed-sec/Solidity-Learning",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -2459,6 +2736,41 @@
       },
       "repository": "Ridwannurudeen/siyab",
       "repository_url": "https://github.com/Ridwannurudeen/siyab",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-26T06:08:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/Riskypr/Nyatet-gan",
+        "https://github.com/Riskypr/Nyatet-gan/commit/f89a89e96f20d258e0171dbd6b3d9d880e52d912",
+        "https://github.com/Riskypr/Nyatet-gan/commit/6d0ade10f86b34638f9780d950d985c6ceff57f3",
+        "https://github.com/Riskypr/Nyatet-gan/commit/03d6cc36fced81b26a6e0c4385b342c5b0f324f5"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 1,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "Riskypr/Nyatet-gan",
+      "repository_url": "https://github.com/Riskypr/Nyatet-gan",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -2915,6 +3227,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-26T06:08:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/stealthbridge-labs/stealthbridge-frontend",
+        "https://github.com/stealthbridge-labs/stealthbridge-frontend/commit/6b2d310eca2a1cac20a2579303c6af99ca17f645",
+        "https://github.com/stealthbridge-labs/stealthbridge-frontend/commit/596b4171f3b2871bd0a87dac166cdb0af383c040",
+        "https://github.com/stealthbridge-labs/stealthbridge-frontend/commit/8a2e6e56d05eb3b65879b567277d363e6e915a02"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 3,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "stealthbridge-labs/stealthbridge-frontend",
+      "repository_url": "https://github.com/stealthbridge-labs/stealthbridge-frontend",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-21T06:04:46+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -3088,6 +3435,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-26T06:08:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/therafay13/Ayran",
+        "https://github.com/therafay13/Ayran/commit/4db7f4bd83cf6dc2cbe67f90ee888e6134230810",
+        "https://github.com/therafay13/Ayran/commit/0d0ff0e38ea70a37b8e4287d0fb1b0d74b62e84d",
+        "https://github.com/therafay13/Ayran/commit/6f71e39d0e5f60a6ce7630ef68ee0a63a4a03644"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "therafay13/Ayran",
+      "repository_url": "https://github.com/therafay13/Ayran",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-22T06:06:54+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -3152,6 +3534,41 @@
       },
       "repository": "Trustlink-Labs/TSN-Protocol",
       "repository_url": "https://github.com/Trustlink-Labs/TSN-Protocol",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-26T06:08:46+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/umbette/sentinel",
+        "https://github.com/umbette/sentinel/commit/c4644371844a4b2e09d696f8c2d3fae36081a1d5",
+        "https://github.com/umbette/sentinel/commit/177ec2c3c72b2b5860fefcdc174c842e76c03ca2",
+        "https://github.com/umbette/sentinel/commit/918e450847a7f999837dcf4ee4dc35ae75b408be"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 1,
+        "github_stars_public": 3,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "umbette/sentinel",
+      "repository_url": "https://github.com/umbette/sentinel",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -3369,5 +3786,5 @@
   "remaining_unaudited_priority": 5,
   "schema_version": 2,
   "selected_count": 12,
-  "total_audited_unique": 97
+  "total_audited_unique": 109
 }

@@ -17,21 +17,21 @@
     },
     "https://github.com/Automattic/harper/issues/4057": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-26T06:08:05+00:00",
       "source_url": "https://github.com/Automattic/harper/issues/4057",
       "status": "NEEDS_REVIEW",
       "title": "bitcoin-cli (bitcoin-cli is a command-line interface for interacting with the Bitcoin Core software, allowing users to manage wallets, query blockchain data, and perform transactions) marked as spelli"
     },
     "https://github.com/Automattic/harper/issues/4075": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-26T06:08:05+00:00",
       "source_url": "https://github.com/Automattic/harper/issues/4075",
       "status": "NEEDS_REVIEW",
       "title": "Polkadot (decentralized, nominated proof-of-stake blockchain with smart contract functionality) marked as spelling problem"
     },
     "https://github.com/Automattic/harper/issues/4113": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-26T06:08:05+00:00",
       "source_url": "https://github.com/Automattic/harper/issues/4113",
       "status": "NEEDS_REVIEW",
       "title": "parachains (In December 2021, Polkadot introduced parachain functionality, allowing multiple blockchains to run simultaneously and connect to the network's Relay Chain) marked as spelling problem"
@@ -120,6 +120,34 @@
       "status": "NEEDS_REVIEW",
       "title": "bug(herdr): Unix socket check skips the managed Pi bridge on native Windows"
     },
+    "https://github.com/Gero-Labs/gerowallet/issues/1671": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/Gero-Labs/gerowallet/issues/1671",
+      "status": "NEEDS_REVIEW",
+      "title": "[P0] GV-03: Legacy multisig wallets: inventory and the path to vaults"
+    },
+    "https://github.com/Gero-Labs/gerowallet/issues/1683": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/Gero-Labs/gerowallet/issues/1683",
+      "status": "NEEDS_REVIEW",
+      "title": "[P0] GV-15: Wallet: CIP-1854 multisig account, role xpub exchange and vault index allocation"
+    },
+    "https://github.com/Gero-Labs/gerowallet/issues/1684": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/Gero-Labs/gerowallet/issues/1684",
+      "status": "NEEDS_REVIEW",
+      "title": "[P0] GV-16: Wallet: device-side input resolution for vault signing bundles"
+    },
+    "https://github.com/Gero-Labs/gerowallet/issues/1698": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/Gero-Labs/gerowallet/issues/1698",
+      "status": "NEEDS_REVIEW",
+      "title": "[P1] GV-30: Notifications: in-wallet inbox, toasts and push wake for vault events"
+    },
     "https://github.com/Gloriachinedu/lumenflow-contracts/issues/1534": {
       "first_seen": "2026-11-21T06:04:07+00:00",
       "last_seen": "2026-11-23T06:17:06+00:00",
@@ -141,9 +169,23 @@
       "status": "NEEDS_REVIEW",
       "title": "Orchestrator: inline widgets are registered under a null window, so their bridge calls never answer and theme updates throw"
     },
+    "https://github.com/IncentivNetwork/incentiv-mcp/issues/5": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/IncentivNetwork/incentiv-mcp/issues/5",
+      "status": "NEEDS_REVIEW",
+      "title": "Don't hold the wallet lock through x402 HTTP requests"
+    },
+    "https://github.com/Ivan-Pasco/clean-server-old/issues/10": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/Ivan-Pasco/clean-server-old/issues/10",
+      "status": "NEEDS_REVIEW",
+      "title": "http_* bridge returns empty string on network failure, so onError never runs"
+    },
     "https://github.com/Konfirm-xyz/konfirm-backend/issues/275": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-26T06:08:05+00:00",
       "source_url": "https://github.com/Konfirm-xyz/konfirm-backend/issues/275",
       "status": "NEEDS_REVIEW",
       "title": "checkComplianceCanary (the backend#210 fix) has no scheduled run or alert escalation — it only fires when an admin opens the blockchain-status page"
@@ -197,6 +239,13 @@
       "status": "NEEDS_REVIEW",
       "title": "widget: implement zero-click wallet autodetection and smart connector priority fallback"
     },
+    "https://github.com/ReaperMag/Transporte-Interprovincial/issues/86": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/ReaperMag/Transporte-Interprovincial/issues/86",
+      "status": "NEEDS_REVIEW",
+      "title": "feat(tickets): habilita el guardado del boleto en Google Wallet"
+    },
     "https://github.com/RetinaX-Org/RetinaX/issues/480": {
       "first_seen": "2026-11-21T06:04:07+00:00",
       "last_seen": "2026-11-21T06:04:07+00:00",
@@ -213,14 +262,14 @@
     },
     "https://github.com/SolanaRemix/node/issues/1809": {
       "first_seen": "2026-11-25T06:08:50+00:00",
-      "last_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-26T06:08:05+00:00",
       "source_url": "https://github.com/SolanaRemix/node/issues/1809",
       "status": "NEEDS_REVIEW",
       "title": "🚨 Elite Alert: 📝 Elite Auto-Changelog & Blockchain Verification failed - Action Required"
     },
     "https://github.com/SolanaRemix/node/issues/1810": {
       "first_seen": "2026-11-25T06:08:50+00:00",
-      "last_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-26T06:08:05+00:00",
       "source_url": "https://github.com/SolanaRemix/node/issues/1810",
       "status": "NEEDS_REVIEW",
       "title": "🚨 Elite Alert: 📝 Elite Auto-Changelog & Blockchain Verification failed - Action Required"
@@ -295,6 +344,13 @@
       "status": "NEEDS_REVIEW",
       "title": "Falling through the Draw Bridge in Crown City"
     },
+    "https://github.com/ajaysehwal/nwc-check/issues/50": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/ajaysehwal/nwc-check/issues/50",
+      "status": "NEEDS_REVIEW",
+      "title": "feat(report): add a ready-to-paste issue format for wallet maintainers"
+    },
     "https://github.com/akiojin/gwt/issues/7816": {
       "first_seen": "2026-11-25T06:08:50+00:00",
       "last_seen": "2026-11-25T06:08:50+00:00",
@@ -318,10 +374,45 @@
     },
     "https://github.com/bsv-blockchain/teranode/issues/2241": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-26T06:08:05+00:00",
       "source_url": "https://github.com/bsv-blockchain/teranode/issues/2241",
       "status": "NEEDS_REVIEW",
       "title": "fix(blockchain): bound startup lock waits when the chain-write row is missing"
+    },
+    "https://github.com/cerulion-inc/cerulion/issues/25": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/cerulion-inc/cerulion/issues/25",
+      "status": "NEEDS_REVIEW",
+      "title": "fix(dds): diagnose silent LowState ingress after bridge restart"
+    },
+    "https://github.com/cerulion-inc/cerulion/issues/5": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/cerulion-inc/cerulion/issues/5",
+      "status": "NEEDS_REVIEW",
+      "title": "fix(ros2): replace stale bridge installation path with a complete recipe"
+    },
+    "https://github.com/cerulion-inc/cerulion/issues/62": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/cerulion-inc/cerulion/issues/62",
+      "status": "NEEDS_REVIEW",
+      "title": "Intermittent LowState/battery telemetry silence after a clean bridge start (cause unknown, recurs)"
+    },
+    "https://github.com/cerulion-inc/cerulion/issues/630": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/cerulion-inc/cerulion/issues/630",
+      "status": "NEEDS_REVIEW",
+      "title": "rmw_cerulion: bridge a nested field-less message as zero bytes so it meets a native peer"
+    },
+    "https://github.com/cerulion-inc/cerulion/issues/895": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/cerulion-inc/cerulion/issues/895",
+      "status": "NEEDS_REVIEW",
+      "title": "network off: freeze DDS bridge mappings between planning and port open"
     },
     "https://github.com/coreyphillips/beignet/issues/2098": {
       "first_seen": "2026-11-21T06:04:07+00:00",
@@ -329,6 +420,13 @@
       "source_url": "https://github.com/coreyphillips/beignet/issues/2098",
       "status": "NEEDS_REVIEW",
       "title": "An asset channel cannot forward, take a payment in parts, be spliced or dual funded, hold more than one asset ID or be announced, so a node cannot convert between bitcoin and an asset for the wallets "
+    },
+    "https://github.com/coreyphillips/beignet/issues/2151": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/coreyphillips/beignet/issues/2151",
+      "status": "NEEDS_REVIEW",
+      "title": "A splice cannot change a channel between an asset channel and a plain Bitcoin channel, so a wallet cannot switch its balance between an asset and bitcoin in one transaction"
     },
     "https://github.com/cortexkit/aft/issues/1482": {
       "first_seen": "2026-11-21T06:04:07+00:00",
@@ -442,6 +540,13 @@
       "status": "NEEDS_REVIEW",
       "title": "[Kotlin] Key Attestation - Inji Mobile Wallet Implementation "
     },
+    "https://github.com/inji/inji-web/issues/755": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/inji/inji-web/issues/755",
+      "status": "NEEDS_REVIEW",
+      "title": "Story: Implement x509_san_dns Client Identifier Prefix support in Inji Mobile Wallet"
+    },
     "https://github.com/irahardianto/pi-mcp-extension/issues/331": {
       "first_seen": "2026-11-22T06:06:14+00:00",
       "last_seen": "2026-11-22T06:06:14+00:00",
@@ -521,7 +626,7 @@
     },
     "https://github.com/kramerc/honeyledger/issues/376": {
       "first_seen": "2026-11-23T06:17:05+00:00",
-      "last_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-26T06:08:05+00:00",
       "source_url": "https://github.com/kramerc/honeyledger/issues/376",
       "status": "NEEDS_REVIEW",
       "title": "Re-route a blockchain transaction whose direction flips on resync"
@@ -596,6 +701,13 @@
       "status": "NEEDS_REVIEW",
       "title": "Agent-first wallet: one tool layer for an in-app agent and MCP, with evals and injection defenses"
     },
+    "https://github.com/mavix21/orchid/issues/174": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/mavix21/orchid/issues/174",
+      "status": "NEEDS_REVIEW",
+      "title": "Decouple the wallet domain from Stellar"
+    },
     "https://github.com/mega-yfue/eufy-sdk/issues/257": {
       "first_seen": "2026-11-21T06:04:07+00:00",
       "last_seen": "2026-11-21T06:04:07+00:00",
@@ -661,7 +773,7 @@
     },
     "https://github.com/openminion/openminion/issues/663": {
       "first_seen": "2026-11-21T06:04:06+00:00",
-      "last_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-26T06:08:05+00:00",
       "source_url": "https://github.com/openminion/openminion/issues/663",
       "status": "NEEDS_REVIEW",
       "title": "Reject malformed RPC nonce values during blockchain preparation and send checks"
@@ -715,6 +827,13 @@
       "status": "NEEDS_REVIEW",
       "title": "SPR-2026-095 [TEST] Cover Wallet action announcements edge and failure states"
     },
+    "https://github.com/sakuraiyuta/kaoiro/issues/1172": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/sakuraiyuta/kaoiro/issues/1172",
+      "status": "NEEDS_REVIEW",
+      "title": "[wrapper/antigravity] Gate relies on run_command Cwd, which current agy rejects: bridge auto-allow never matches, workspace-write + never denies all commands"
+    },
     "https://github.com/scout-off/scout-off-contracts/issues/1796": {
       "first_seen": "2026-11-22T06:06:14+00:00",
       "last_seen": "2026-11-22T06:06:14+00:00",
@@ -757,6 +876,27 @@
       "status": "NEEDS_REVIEW",
       "title": "ESSA (59.642114, 17.93x): north pavement -2811 foot 2.25 m under the lidar ground near the road bridge"
     },
+    "https://github.com/shizumaat/XPTerrainBuilder/issues/2239": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/shizumaat/XPTerrainBuilder/issues/2239",
+      "status": "NEEDS_REVIEW",
+      "title": "CYYZ bridge-to-taxiway gap blocks crossing (43.669873, -79.626005)"
+    },
+    "https://github.com/shizumaat/XPTerrainBuilder/issues/2241": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/shizumaat/XPTerrainBuilder/issues/2241",
+      "status": "NEEDS_REVIEW",
+      "title": "CYYZ bridge-taxiway weld is rough (43.666925, -79.624507)"
+    },
+    "https://github.com/springmusk026/locus/issues/310": {
+      "first_seen": "2026-11-26T06:08:06+00:00",
+      "last_seen": "2026-11-26T06:08:06+00:00",
+      "source_url": "https://github.com/springmusk026/locus/issues/310",
+      "status": "NEEDS_REVIEW",
+      "title": "On-device: llama.cpp bridge can leak part of a stop string and copies the whole reply on every token"
+    },
     "https://github.com/swc-project/swc-next-issues/issues/46": {
       "first_seen": "2026-11-21T06:04:07+00:00",
       "last_seen": "2026-11-21T06:04:07+00:00",
@@ -766,7 +906,7 @@
     },
     "https://github.com/thorwhalen/owned/issues/1": {
       "first_seen": "2026-11-24T06:08:50+00:00",
-      "last_seen": "2026-11-25T06:08:50+00:00",
+      "last_seen": "2026-11-26T06:08:05+00:00",
       "source_url": "https://github.com/thorwhalen/owned/issues/1",
       "status": "NEEDS_REVIEW",
       "title": "Blockchain functions are broken against web3.py v6+ (dead v5 API), and the in-module test_* functions never run"

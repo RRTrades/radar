@@ -498,6 +498,132 @@
       "source_readme_available": true,
       "token_contract_verified": false
     },
+    "canmuratt-hub/fargo-midnight": {
+      "analyzed_at_utc": "2026-11-26T06:08:57+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/canmuratt-hub/fargo-midnight#readme"
+            ],
+            "missing_evidence": "Third‑party references, case studies, or usage metrics.",
+            "rationale": "No independent proof of users, partners, or production deployments.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/corda/corda",
+              "https://github.com/horizontalsystems/unstoppable-wallet-android",
+              "https://github.com/P20-ORG/P-20-Blockchain",
+              "https://github.com/ScopeLift/umbra-protocol",
+              "https://github.com/cardano-foundation/jormungandr"
+            ],
+            "missing_evidence": "Objective analysis showing how this solution outperforms or differs from competitors.",
+            "rationale": "No validated comparison to listed competitors; relevance unproven.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/canmuratt-hub/fargo-midnight#readme"
+            ],
+            "missing_evidence": "Independent performance/security audits or comparative benchmarks.",
+            "rationale": "Zero‑knowledge and dual‑ledger claims lack third‑party benchmarks or audits.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/canmuratt-hub/fargo-midnight#readme"
+            ],
+            "missing_evidence": "Token specification, smart‑contract code, or economic model.",
+            "rationale": "No token contract, economics, or value‑capture mechanism presented in repository.",
+            "status": "CONTRADICTED"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/canmuratt-hub/fargo-midnight#readme"
+            ],
+            "missing_evidence": "Independent market or regulatory analysis of over‑disclosure issue.",
+            "rationale": "Problem of data over‑disclosure is self‑asserted; no external data or studies cited.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "Project claims privacy‑preserving commerce via Zero‑Knowledge on Midnight, but no independent evidence of problem relevance, technical edge, competitor standing, token economics, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "canmuratt-hub/fargo-midnight",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
+    "chichuzxy/aevum-pay": {
+      "analyzed_at_utc": "2026-11-26T06:08:57+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/Chichuzxy/aevum-pay#readme"
+            ],
+            "missing_evidence": "Independent usage metrics, third‑party analytics, or audited transaction logs demonstrating real adoption.",
+            "rationale": "Claims of a live app and on‑chain receipts lack independent verification of actual users, transaction volume, or external analytics.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/Chichuzxy/aevum-pay#readme"
+            ],
+            "missing_evidence": "Third‑party comparative study or benchmark against alternative payment frameworks.",
+            "rationale": "No independent analysis compares AevumPay to existing solutions such as Stripe, other on‑chain payment primitives, or the listed GitHub search matches.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/Chichuzxy/aevum-pay#readme"
+            ],
+            "missing_evidence": "Independent security audit, performance benchmarks, or peer‑reviewed technical comparisons.",
+            "rationale": "Technical claims (e.g., budget primitives, gasless modes, ERC‑4337 scoped keys) are not backed by external audits, benchmarks, or peer‑reviewed evaluations.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/Chichuzxy/aevum-pay#readme"
+            ],
+            "missing_evidence": "Tokenomics report, market data, or independent analysis of how the token derives value from usage.",
+            "rationale": "The project references the tUSD8 token and gasless payments, yet provides no independent data on token economics, liquidity, or value‑capture mechanisms.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/Chichuzxy/aevum-pay#readme"
+            ],
+            "missing_evidence": "Independent market analysis, surveys, or case studies showing demand for metered on‑chain agent payments.",
+            "rationale": "The README describes a problem with existing agent payment models, but no third‑party market research or usage data is provided to verify that this problem exists or is significant.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "AevumPay claims to enable metered agent payments with on‑chain receipts, but no independent evidence confirms the problem it solves, its technical edge, competitive standing, token value capture, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "Chichuzxy/aevum-pay",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
     "cukco/agentp_demo": {
       "analyzed_at_utc": "2026-11-20T22:34:42+00:00",
       "assessment": {

@@ -2,7 +2,7 @@
   "entries": {
     "aaron11998/mev-protection-scanner": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-25T06:10:30+00:00",
+      "checked_at_utc": "2026-11-26T06:09:43+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -15,7 +15,7 @@
     },
     "aceop-001/fiangshi": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-25T06:10:30+00:00",
+      "checked_at_utc": "2026-11-26T06:09:43+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -28,7 +28,7 @@
     },
     "agent402-dev/agent402-toolkit": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-25T06:10:30+00:00",
+      "checked_at_utc": "2026-11-26T06:09:43+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -41,7 +41,7 @@
     },
     "andedauda2-alt/anagu": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-25T06:10:30+00:00",
+      "checked_at_utc": "2026-11-26T06:09:43+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -102,6 +102,32 @@
       "project_source_url": "https://github.com/Candra0x6/sake#readme",
       "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
       "repository": "Candra0x6/sake",
+      "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
+    },
+    "canmuratt-hub/fargo-midnight": {
+      "buy_approved": false,
+      "checked_at_utc": "2026-11-26T06:09:43+00:00",
+      "contract_claims": [],
+      "contract_claims_found": 0,
+      "dev_identity_verified": false,
+      "identity_verified": false,
+      "investor_identity_verified": false,
+      "project_source_url": "https://github.com/canmuratt-hub/fargo-midnight#readme",
+      "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
+      "repository": "canmuratt-hub/fargo-midnight",
+      "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
+    },
+    "chichuzxy/aevum-pay": {
+      "buy_approved": false,
+      "checked_at_utc": "2026-11-26T06:09:43+00:00",
+      "contract_claims": [],
+      "contract_claims_found": 0,
+      "dev_identity_verified": false,
+      "identity_verified": false,
+      "investor_identity_verified": false,
+      "project_source_url": "https://github.com/Chichuzxy/aevum-pay#readme",
+      "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
+      "repository": "Chichuzxy/aevum-pay",
       "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
     },
     "cukco/agentp_demo": {
