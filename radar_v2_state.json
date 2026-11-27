@@ -1969,6 +1969,24 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:tellbuhh3mroxh5xtggort7eefavfzaijkwqtbmvuwc": {
+      "chain": "solana",
+      "contract": "TELLbUhH3mroXH5xtgGorT7eeFaVfzAiJkwQTbMvuWc",
+      "description_excerpt": "On Tell, nobody can read your order before its place in line is fixed. Orders are sealed, take their place, then open and run in that order, so no bot can read your trade and jump ahead of it. Sandwiches, front-running, bid peeking and launch sniping all start with seeing first. Built from Solana's engine, with its programs coming to Solana mainnet",
+      "first_seen": "2026-11-27T14:37:43+00:00",
+      "last_seen": "2026-11-27T14:37:43+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "front-running",
+            "sandwich"
+          ],
+          "id": "mev-execution"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:ycvckaedduzekjawpvdiof2vqr3mb8jjqljn5nzpump": {
       "chain": "solana",
       "contract": "YCvCKaEddUZekjaWPvdiof2VQR3MB8JJQLjn5NZpump",
