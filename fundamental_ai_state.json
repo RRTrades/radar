@@ -311,6 +311,67 @@
       "source_readme_available": true,
       "token_contract_verified": false
     },
+    "assitankimbiry/ethershield": {
+      "analyzed_at_utc": "2026-11-27T06:13:29+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/Assitankimbiry/EtherShield"
+            ],
+            "missing_evidence": "Independent reports or usage metrics demonstrating adoption",
+            "rationale": "Repository lacks evidence of real users, integrations, or external adoption.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/Assitankimbiry/EtherShield#readme"
+            ],
+            "missing_evidence": "Objective side‑by‑side evaluation against listed competitors",
+            "rationale": "Competitor list is unverified and lacks any comparative analysis or evidence of superiority.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/Assitankimbiry/EtherShield#readme"
+            ],
+            "missing_evidence": "Benchmarks or independent reviews comparing its capabilities",
+            "rationale": "Readme only describes Foundry tools; no proof the project offers superior technology over alternatives.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/Assitankimbiry/EtherShield"
+            ],
+            "missing_evidence": "Documentation of any tokenomics or financial incentive mechanisms",
+            "rationale": "No token or economic model is described; claim of value capture is unsubstantiated.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/Assitankimbiry/EtherShield"
+            ],
+            "missing_evidence": "Third‑party validation of the security/exploitation problem being tackled",
+            "rationale": "No independent sources confirm the existence or relevance of the problem the lab addresses.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "The EtherShield repo claims to be an Ethereum smart‑contract security lab but provides no independent evidence of a real problem, technical edge, competitor advantage, token economics, or user adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "Assitankimbiry/EtherShield",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
     "bechir-kh/ethershield": {
       "analyzed_at_utc": "2026-11-23T06:17:56+00:00",
       "assessment": {
@@ -798,6 +859,67 @@
       },
       "model": "openai/gpt-oss-120b",
       "repository": "DhruPtel/UBC-2026-Probability-Oracle",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
+    "divyaconnect/sentinel.sol": {
+      "analyzed_at_utc": "2026-11-27T06:13:29+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/divyaconnect/Sentinel.sol#readme"
+            ],
+            "missing_evidence": "User testimonials, usage statistics, or third‑party references to real deployments.",
+            "rationale": "No independent evidence of users, deployments, or adoption metrics is provided.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/divyaconnect/Sentinel.sol#readme"
+            ],
+            "missing_evidence": "Side‑by‑side evaluation against established smart‑contract analysis tools.",
+            "rationale": "No independent analysis comparing Sentinel.sol to existing tools like Mythril or ConsenSys Diligence solutions.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/divyaconnect/Sentinel.sol#readme"
+            ],
+            "missing_evidence": "Performance benchmarks, comparative studies, or academic validation of the proposed methods.",
+            "rationale": "Claims of dual‑space anomaly detection and quantum‑enhanced models lack independent benchmarks or peer‑reviewed validation.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/divyaconnect/Sentinel.sol"
+            ],
+            "missing_evidence": "Token contract, distribution plan, or any economic model documentation.",
+            "rationale": "The repository and README contain no token, tokenomics, or economic capture mechanism to assess value capture.",
+            "status": "CONTRADICTED"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/divyaconnect/Sentinel.sol#readme"
+            ],
+            "missing_evidence": "Market research or third‑party validation of demand for such a tool.",
+            "rationale": "Readme asserts a need for AI‑driven analysis, but no independent data confirms the problem is unmet or significant.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "Sentinel.sol claims AI‑assisted Solidity vulnerability detection using dual‑space entropy, but no independent evidence supports the problem relevance, technical edge, competitor standing, token economics, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "divyaconnect/Sentinel.sol",
       "source_readme_available": true,
       "token_contract_verified": false
     },
