@@ -1633,6 +1633,23 @@
       "source": "DexScreener latest profile",
       "status": "UNVERIFIED_DISCOVERY"
     },
+    "solana:dxle6m12gsjw23atu2vpzejcgq8rwtwqbzmdkvmspump": {
+      "chain": "solana",
+      "contract": "DXLE6M12GsJW23aTU2VpZeJcgQ8rwTwQbzmDKvMSpump",
+      "description_excerpt": "USD2\n\nThe New Stablecoin",
+      "first_seen": "2026-11-28T08:26:02+00:00",
+      "last_seen": "2026-11-28T08:26:02+00:00",
+      "matched_problems": [
+        {
+          "hits": [
+            "stablecoin"
+          ],
+          "id": "stablecoin-resilience"
+        }
+      ],
+      "source": "DexScreener latest profile",
+      "status": "UNVERIFIED_DISCOVERY"
+    },
     "solana:eckg2j7gzdyck1q4qpztyegdescpobhuuddnxmgbxezx": {
       "chain": "solana",
       "contract": "Eckg2J7GZdYcK1q4QpztYeGdeSCPobHUuDdnXmgbXezX",
