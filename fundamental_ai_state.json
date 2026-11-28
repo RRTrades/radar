@@ -437,6 +437,67 @@
       "source_readme_available": true,
       "token_contract_verified": false
     },
+    "blando-dz/aether-l2": {
+      "analyzed_at_utc": "2026-11-28T06:11:40+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/blando-dz/AETHER-L2#readme"
+            ],
+            "missing_evidence": "Independent user statistics, audit reports, or production deployment proof",
+            "rationale": "No external usage metrics, audits, or community adoption evidence provided.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/blando-dz/AETHER-L2#readme"
+            ],
+            "missing_evidence": "Independent comparative analysis with projects like flashbots/mev‑boost",
+            "rationale": "No objective comparison to listed competitors; only speculative mentions.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/blando-dz/AETHER-L2#readme"
+            ],
+            "missing_evidence": "Benchmark data comparing latency/gas usage to alternative solutions",
+            "rationale": "Performance and gas‑budget claims are unverified by third‑party benchmarks.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/blando-dz/AETHER-L2#readme"
+            ],
+            "missing_evidence": "Tokenomics documentation or evidence of token‑based incentives",
+            "rationale": "Repository contains no token or economic model; claim of value capture is absent.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/blando-dz/AETHER-L2#readme"
+            ],
+            "missing_evidence": "Independent analysis of flash‑loan liquidation demand on Base/Arbitrum",
+            "rationale": "Readme claims a liquidation problem but lacks external validation of need or market gap.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "AETHER L2 is a simulation‑only flash liquidation engine; no independent evidence of problem relevance, technical edge, competitor standing, tokenomics, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "blando-dz/AETHER-L2",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
     "bojest001/sanctifier": {
       "analyzed_at_utc": "2026-11-24T06:09:45+00:00",
       "assessment": {
@@ -1236,6 +1297,67 @@
       },
       "model": "openai/gpt-oss-120b",
       "repository": "elon00/hashkey-crosschain-bridge-ai",
+      "source_readme_available": true,
+      "token_contract_verified": false
+    },
+    "elon00/minotaur-maze-router": {
+      "analyzed_at_utc": "2026-11-28T06:11:40+00:00",
+      "assessment": {
+        "gates": {
+          "authentic_adoption": {
+            "citations": [
+              "https://github.com/elon00/minotaur-maze-router#readme"
+            ],
+            "missing_evidence": "Independent adoption metrics, third‑party deployments, or community usage statistics.",
+            "rationale": "No external usage metrics, user testimonials, or integration evidence beyond the repository itself.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "competitor_comparison": {
+            "citations": [
+              "https://github.com/elon00/minotaur-maze-router#readme"
+            ],
+            "missing_evidence": "Objective side‑by‑side analysis against identified competitors.",
+            "rationale": "Only unverified search matches to other projects are listed; no comparative data is provided.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "technical_superiority": {
+            "citations": [
+              "https://github.com/elon00/minotaur-maze-router#readme"
+            ],
+            "missing_evidence": "Benchmarks, audits, or peer‑reviewed evaluations confirming technical advantages.",
+            "rationale": "Claims of zero‑knowledge labyrinths, post‑quantum crypto, and other novel components lack third‑party validation.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "token_value_capture": {
+            "citations": [
+              "https://github.com/elon00/minotaur-maze-router#readme"
+            ],
+            "missing_evidence": "Verified token contract details, audit reports, and economic impact studies.",
+            "rationale": "Tokenomics are described but no independent market data, token contract audits, or economic models are presented.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          },
+          "unresolved_problem": {
+            "citations": [
+              "https://github.com/elon00/minotaur-maze-router#readme"
+            ],
+            "missing_evidence": "Independent analysis or third‑party reports describing the targeted privacy issue.",
+            "rationale": "No external sources verify a specific privacy routing problem the project solves.",
+            "status": "INSUFFICIENT_EVIDENCE"
+          }
+        },
+        "summary": "The repo claims a multi‑hop privacy router with zero‑knowledge features, tokenomics, and superior tech, but no independent evidence confirms any unresolved problem, technical edge, competitor standing, token value capture, or real adoption."
+      },
+      "buy_approved": false,
+      "decision": "RESEARCH_ONLY_UNVERIFIED",
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "model": "openai/gpt-oss-120b",
+      "repository": "elon00/minotaur-maze-router",
       "source_readme_available": true,
       "token_contract_verified": false
     },

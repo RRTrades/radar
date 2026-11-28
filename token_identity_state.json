@@ -2,7 +2,7 @@
   "entries": {
     "aaron11998/mev-protection-scanner": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-27T06:14:15+00:00",
+      "checked_at_utc": "2026-11-28T06:12:24+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -15,7 +15,7 @@
     },
     "aceop-001/fiangshi": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-27T06:14:15+00:00",
+      "checked_at_utc": "2026-11-28T06:12:24+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -28,7 +28,7 @@
     },
     "agent402-dev/agent402-toolkit": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-27T06:14:15+00:00",
+      "checked_at_utc": "2026-11-28T06:12:24+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -41,7 +41,7 @@
     },
     "andedauda2-alt/anagu": {
       "buy_approved": false,
-      "checked_at_utc": "2026-11-27T06:14:15+00:00",
+      "checked_at_utc": "2026-11-28T06:12:24+00:00",
       "contract_claims": [],
       "contract_claims_found": 0,
       "dev_identity_verified": false,
@@ -89,6 +89,19 @@
       "project_source_url": "https://github.com/Bechir-kh/EtherShield#readme",
       "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
       "repository": "Bechir-kh/EtherShield",
+      "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
+    },
+    "blando-dz/aether-l2": {
+      "buy_approved": false,
+      "checked_at_utc": "2026-11-28T06:12:24+00:00",
+      "contract_claims": [],
+      "contract_claims_found": 0,
+      "dev_identity_verified": false,
+      "identity_verified": false,
+      "investor_identity_verified": false,
+      "project_source_url": "https://github.com/blando-dz/AETHER-L2#readme",
+      "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
+      "repository": "blando-dz/AETHER-L2",
       "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
     },
     "bojest001/sanctifier": {
@@ -258,6 +271,19 @@
       "project_source_url": "https://github.com/elon00/hashkey-crosschain-bridge-ai#readme",
       "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
       "repository": "elon00/hashkey-crosschain-bridge-ai",
+      "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
+    },
+    "elon00/minotaur-maze-router": {
+      "buy_approved": false,
+      "checked_at_utc": "2026-11-28T06:12:24+00:00",
+      "contract_claims": [],
+      "contract_claims_found": 0,
+      "dev_identity_verified": false,
+      "identity_verified": false,
+      "investor_identity_verified": false,
+      "project_source_url": "https://github.com/elon00/minotaur-maze-router#readme",
+      "reason": "README is project-controlled and DexScreener merely indexes trading pairs; cannot prove official token identity.",
+      "repository": "elon00/minotaur-maze-router",
       "status": "REQUIRES_INDEPENDENT_OFFICIAL_IDENTITY_PROOF"
     },
     "farawayuplift/kite-agent-arbitrage-scanner": {

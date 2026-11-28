@@ -1,9 +1,9 @@
 {
   "buy_approved": 0,
   "counts": {
-    "LOW_PRIORITY_EXCLUSION_REVIEWABLE": 10,
+    "LOW_PRIORITY_EXCLUSION_REVIEWABLE": 9,
     "RESEARCH_PRIORITY_UNVERIFIED": 116,
-    "UNCONFIRMED_RELEVANCE": 74
+    "UNCONFIRMED_RELEVANCE": 75
   },
   "entries": [
     {
@@ -209,31 +209,6 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
-      "description": "Local-first smart-contract security auditing and research engine",
-      "exclusion_indicators": [],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [
-        "onchain-risk"
-      ],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "Anondevnet/contract-auditor",
-      "repository_url": "https://github.com/Anondevnet/contract-auditor",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "onchain-risk"
-      ],
-      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": true,
       "description": "The public, open-source infrastructure for The Whisper Market in RAGE REALMZ, built by ApeLevel. Includes automated marketplace logic, economic safeguards, Oracle verification, and publicly auditable transaction proofs connecting private game events with Polygon blockchain transactions.",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -334,6 +309,31 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
+      "description": "Comparative analysis of stablecoin stress episodes, peg stability, reserve and redemption risks, and valuation exposure, with implications for decentralized finance and financial stability.",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "stablecoin-resilience"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "azkamaulanaaa/Stablecoin-Stability-and-Decentralized-Finance-Risk",
+      "repository_url": "https://github.com/azkamaulanaaa/Stablecoin-Stability-and-Decentralized-Finance-Risk",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "stablecoin-resilience"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
       "description": "Ethereum Smart Contract Security & Exploitation Lab",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -353,6 +353,31 @@
       "token_contract_verified": false,
       "topics": [
         "onchain-risk"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
+      "description": "AETHER L2 — Flash Arbitrage Engine, DeFi, MEV Protection",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "mev-execution"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "blando-dz/AETHER-L2",
+      "repository_url": "https://github.com/blando-dz/AETHER-L2",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "mev-execution"
       ],
       "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
     },
@@ -409,31 +434,6 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
-      "description": "Launch your own USDC-backed stablecoin on NEAR. Reserves in plain sight. NEAR HACKATHON 2026.",
-      "exclusion_indicators": [],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [
-        "stablecoin-resilience"
-      ],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "Candra0x6/sake",
-      "repository_url": "https://github.com/Candra0x6/sake",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "stablecoin-resilience"
-      ],
-      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": true,
       "description": "FARGO — Privacy-Preserving Commerce Infrastructure built on Midnight Network with Compact Zero-Knowledge Smart Contracts",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -453,6 +453,31 @@
       "token_contract_verified": false,
       "topics": [
         "privacy-compliance"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
+      "description": "Learning solidity and smart contract security",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "onchain-risk"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "ChedjouJohan/Solidity",
+      "repository_url": "https://github.com/ChedjouJohan/Solidity",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "onchain-risk"
       ],
       "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
     },
@@ -549,6 +574,31 @@
       "reason": "Metadata-only routing; claims and real-world performance not independently verified",
       "repository": "divyaconnect/Sentinel.sol",
       "repository_url": "https://github.com/divyaconnect/Sentinel.sol",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "onchain-risk"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
+      "description": "Smart contract security reviews — portfolio, services, and rates",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "onchain-risk"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "donystywn/audits",
+      "repository_url": "https://github.com/donystywn/audits",
       "token_contract": null,
       "token_contract_verified": false,
       "topics": [
@@ -1459,56 +1509,6 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
-      "description": "A collection of agent skills: bug bounty hunting, smart contract and protocol security auditing, UI/design, human-voice writing, and on-chain wallet safety.",
-      "exclusion_indicators": [],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [
-        "onchain-risk"
-      ],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "lydenofficial/skills",
-      "repository_url": "https://github.com/lydenofficial/skills",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "onchain-risk"
-      ],
-      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": true,
-      "description": "Self-hosted Google Photos alternative with PC as server, live sync, and zero-knowledge privacy",
-      "exclusion_indicators": [],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [
-        "privacy-compliance"
-      ],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "M-coderr/lumina-photos",
-      "repository_url": "https://github.com/M-coderr/lumina-photos",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "privacy-compliance"
-      ],
-      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": true,
       "description": "AI-agent payment security with owner-signed EIP-712 intents and on-chain QUSDC policy enforcement on QIE Mainnet.",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -1784,6 +1784,31 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
+      "description": "A collection of Ethernaut smart contract security challenges solved using Foundry and Solidity, documenting vulnerabilities, exploit techniques, root causes, and mitigation strategies.",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "onchain-risk"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "obinnafranklinduru/ethernaut-foundry-solutions",
+      "repository_url": "https://github.com/obinnafranklinduru/ethernaut-foundry-solutions",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "onchain-risk"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
       "description": "A programmable Soroban smart contract wallet with spending limits, whitelisted addresses, daily caps, and recovery keys — Account Abstraction on Stellar.",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -1884,56 +1909,6 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
-      "description": "Personal portfolio — smart contract security research and Solidity development.",
-      "exclusion_indicators": [],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [
-        "onchain-risk"
-      ],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "phani2582/portfolio",
-      "repository_url": "https://github.com/phani2582/portfolio",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "onchain-risk"
-      ],
-      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": true,
-      "description": "Agent-to-agent settlement on HashKey Chain: signed EIP-712 payment mandates, delivery-gated escrow, on-chain receipts — following the HSP model. HSK Chain Horizon Hackathon · Agent Payments & A2A Settlement.",
-      "exclusion_indicators": [],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [
-        "agent-payments"
-      ],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "phee24/mandatesettle",
-      "repository_url": "https://github.com/phee24/mandatesettle",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "agent-payments"
-      ],
-      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": true,
       "description": "My journey learning Solidity, EVM internals, and Smart Contract Security.",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -2028,6 +2003,31 @@
       "token_contract_verified": false,
       "topics": [
         "privacy-compliance"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
+      "description": "Multi-Chain RWA-Backed Synthetic CAD Liquidity Protocol & Cross-Chain Bridge Architecture",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "crosschain-fragmentation"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "RePublikEco/xcad-architecture",
+      "repository_url": "https://github.com/RePublikEco/xcad-architecture",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "crosschain-fragmentation"
       ],
       "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
     },
@@ -2259,31 +2259,6 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
-      "description": "A Solidity ETH vault demonstrating deposits, withdrawals, ownership and basic smart contract security.",
-      "exclusion_indicators": [],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [
-        "onchain-risk"
-      ],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "samaily/vault-smart-contract-",
-      "repository_url": "https://github.com/samaily/vault-smart-contract-",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "onchain-risk"
-      ],
-      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": true,
       "description": "Autonomous Agent Payments Protocol gateway with deterministic authorization, Razorpay Testnet settlement, and cryptographic verification.",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -2303,6 +2278,31 @@
       "token_contract_verified": false,
       "topics": [
         "agent-payments"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
+      "description": "Smart contract security reviews by Imran Khadri / SENTRYX - every finding backed by a runnable Foundry PoC",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "onchain-risk"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "sentryxaudit/audit-reports",
+      "repository_url": "https://github.com/sentryxaudit/audit-reports",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "onchain-risk"
       ],
       "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
     },
@@ -2449,6 +2449,31 @@
       "reason": "Metadata-only routing; claims and real-world performance not independently verified",
       "repository": "stealthbridge-labs/stealthbridge-frontend",
       "repository_url": "https://github.com/stealthbridge-labs/stealthbridge-frontend",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "privacy-compliance"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
+      "description": "StealthBridge is an open-source, Stellar-powered financial infrastructure platform building privacy-preserving cross-border payments and confidential financial services for individuals and businesses. Combining Soroban smart contracts, smart-account technology, zero-knowledge proofs, and privacy-focused infrastructure.",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "privacy-compliance"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "stealthbridge-labs/stealthbridge-sdk",
+      "repository_url": "https://github.com/stealthbridge-labs/stealthbridge-sdk",
       "token_contract": null,
       "token_contract_verified": false,
       "topics": [
@@ -2659,31 +2684,6 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
-      "description": "Smart-Contract Security Auditor fine-tuning pipeline (Solana Rust/Anchor + EVM Solidity) for 8x NVIDIA B300 -> GGUF",
-      "exclusion_indicators": [],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [
-        "onchain-risk"
-      ],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "vahidvl/solsec-b300-finetune",
-      "repository_url": "https://github.com/vahidvl/solsec-b300-finetune",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "onchain-risk"
-      ],
-      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": true,
       "description": "Native Oracle PL/SQL tamper-evident audit ledger using row-level triggers and DBMS_CRYPTO SHA-256 hash chaining to detect unauthorized historical INSERT, UPDATE, and DELETE modifications mathematically without external blockchain overhead, paired with a Flask and OracleDB integrity dashboard.",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -2709,31 +2709,6 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
-      "description": "Privacy-first, zero-knowledge-encrypted anonymous exam grading. Teachers author LaTeX exams, print QR-coded booklets, scan and grade submissions against a pseudonym rather than a name, and get class-level analytics — all with student identity, scans and grading annotations encrypted client-side before they ever reach a",
-      "exclusion_indicators": [],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [
-        "privacy-compliance"
-      ],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "ValentinHerrmann/Examance",
-      "repository_url": "https://github.com/ValentinHerrmann/Examance",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "privacy-compliance"
-      ],
-      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": true,
       "description": "Non-custodial on-chain guardrails and pre-execution firewall for autonomous agent payments (x402, AP2, MPP, MCP)",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -2749,6 +2724,31 @@
       "reason": "Metadata-only routing; claims and real-world performance not independently verified",
       "repository": "vaulthropic/vaulthropic",
       "repository_url": "https://github.com/vaulthropic/vaulthropic",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "agent-payments"
+      ],
+      "triage_status": "RESEARCH_PRIORITY_UNVERIFIED"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
+      "description": "Internet Court adjudication for x402 agent payments on GenLayer — escrow + AI-jury Intelligent Contract (Partner Demo Lab)",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "agent-payments"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "vlovichot/internet-court-x402-demo",
+      "repository_url": "https://github.com/vlovichot/internet-court-x402-demo",
       "token_contract": null,
       "token_contract_verified": false,
       "topics": [
@@ -3118,6 +3118,52 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": false,
+      "description": "16 tools for AI agents, payments and liquidity on Robinhood Chain. All live.",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "atlasboard/atlasboard.github.io",
+      "repository_url": "https://github.com/atlasboard/atlasboard.github.io",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "agent-payments"
+      ],
+      "triage_status": "UNCONFIRMED_RELEVANCE"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
+      "description": "A continuously maintained, source-checked map of post-quantum cryptography in blockchains. Projects can submit; every entry shows when it was last checked.",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "Balance0014/post-quantum-blockchains",
+      "repository_url": "https://github.com/Balance0014/post-quantum-blockchains",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
+      ],
+      "triage_status": "UNCONFIRMED_RELEVANCE"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": false,
       "description": "⚡ Uniswap v4 Dynamic Volatility-Fee Hook for Loss-Versus-Rebalancing (LVR) Mitigation & Anti-MEV Protection",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -3137,29 +3183,6 @@
       "token_contract_verified": false,
       "topics": [
         "mev-execution"
-      ],
-      "triage_status": "UNCONFIRMED_RELEVANCE"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": true,
-      "description": "A protocol that gives users portable cryptographic identities and signed credentials, usable across independent domains on both ordinary web pages and 3D spaces, without requiring a blockchain. Includes trading, federated mail, and a browser-extension wallet. Reference issuer in Node and plain PHP.",
-      "exclusion_indicators": [],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "BeedS101/domain-atlas",
-      "repository_url": "https://github.com/BeedS101/domain-atlas",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
       ],
       "triage_status": "UNCONFIRMED_RELEVANCE"
     },
@@ -3211,8 +3234,8 @@
     },
     {
       "buy_approved": false,
-      "crypto_context_keyword_present": false,
-      "description": "Counterroll — independent enforcement and evidence for agent payments. Landing site.",
+      "crypto_context_keyword_present": true,
+      "description": "Cryptographically verifiable election platform with Express/Prisma backend, React/Vite frontend, blockchain-style audit visualization, zero-knowledge setup paths, vote verification, election playback, superadmin workflows, and end-to-end voting tests.",
       "exclusion_indicators": [],
       "fundamental_proofs": {
         "authentic_adoption": "NOT_VERIFIED",
@@ -3221,16 +3244,14 @@
         "token_value_capture": "NOT_VERIFIED",
         "unresolved_problem": "NOT_VERIFIED"
       },
-      "matched_topics_from_metadata": [
-        "agent-payments"
-      ],
+      "matched_topics_from_metadata": [],
       "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "Counterroll/site",
-      "repository_url": "https://github.com/Counterroll/site",
+      "repository": "devgrrl/blockchain-voting-system",
+      "repository_url": "https://github.com/devgrrl/blockchain-voting-system",
       "token_contract": null,
       "token_contract_verified": false,
       "topics": [
-        "agent-payments"
+        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
       ],
       "triage_status": "UNCONFIRMED_RELEVANCE"
     },
@@ -3252,6 +3273,31 @@
       "reason": "Metadata-only routing; claims and real-world performance not independently verified",
       "repository": "dhyabi2/nano-receipt-ledger",
       "repository_url": "https://github.com/dhyabi2/nano-receipt-ledger",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "agent-payments"
+      ],
+      "triage_status": "UNCONFIRMED_RELEVANCE"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": false,
+      "description": "Once: agent-to-agent HSP payments that do not become a second payment after a crash or a lost reply (demo uses a local HSP mock). HSK Chain Horizon Hackathon, Agent Payments & A2A Settlement.",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "agent-payments"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "Driedsandwich/once-hsk",
+      "repository_url": "https://github.com/Driedsandwich/once-hsk",
       "token_contract": null,
       "token_contract_verified": false,
       "topics": [
@@ -3757,6 +3803,29 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
+      "description": "A Multi-Agent Framework for Enhancing Security Auditing of Solidity Smart Contracts through Dynamic Plan-Execute Workflows and Adversarial Critique",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "MahanZiyari/solidity-auditing-framework",
+      "repository_url": "https://github.com/MahanZiyari/solidity-auditing-framework",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "onchain-risk"
+      ],
+      "triage_status": "UNCONFIRMED_RELEVANCE"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": true,
       "description": "It helps to inspect code, smart contracts, workflow notes, or domain snapshots for potential security and business logic flaws.",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -4141,29 +4210,6 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": true,
-      "description": "EVM & Solana Security Research | Smart Contracts | DeFi Vulnerability Research",
-      "exclusion_indicators": [],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "pwvux/pwvux",
-      "repository_url": "https://github.com/pwvux/pwvux",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "onchain-risk"
-      ],
-      "triage_status": "UNCONFIRMED_RELEVANCE"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": true,
       "description": "Building AI compute infrastructure on Robinhood Chain. Inference APIs, developer tools & onchain-powered compute.",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -4229,31 +4275,6 @@
       "token_contract_verified": false,
       "topics": [
         "wallet-usability"
-      ],
-      "triage_status": "UNCONFIRMED_RELEVANCE"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": false,
-      "description": "Permission-first workspace for agent payment requests on Celo",
-      "exclusion_indicators": [],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [
-        "agent-payments"
-      ],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "reisofifi-tech/voltra-agentpay",
-      "repository_url": "https://github.com/reisofifi-tech/voltra-agentpay",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "agent-payments"
       ],
       "triage_status": "UNCONFIRMED_RELEVANCE"
     },
@@ -4327,29 +4348,6 @@
       "token_contract_verified": false,
       "topics": [
         "agent-payments"
-      ],
-      "triage_status": "UNCONFIRMED_RELEVANCE"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": true,
-      "description": "Cryptography, Blockchain & DeFi experiments in Python",
-      "exclusion_indicators": [],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "Saharochek98/DeFi-Blockchain-Labs",
-      "repository_url": "https://github.com/Saharochek98/DeFi-Blockchain-Labs",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
       ],
       "triage_status": "UNCONFIRMED_RELEVANCE"
     },
@@ -4611,6 +4609,31 @@
     {
       "buy_approved": false,
       "crypto_context_keyword_present": false,
+      "description": "MoMo MIRA: Intelligent Risk & Agentic Payment Co-Pilot + Fraud/SecOps Guard Workspace (MoMo Hackathon)",
+      "exclusion_indicators": [],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "matched_topics_from_metadata": [
+        "agent-payments"
+      ],
+      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
+      "repository": "xuansinh4567-web/-momo-mira-copilot",
+      "repository_url": "https://github.com/xuansinh4567-web/-momo-mira-copilot",
+      "token_contract": null,
+      "token_contract_verified": false,
+      "topics": [
+        "agent-payments"
+      ],
+      "triage_status": "UNCONFIRMED_RELEVANCE"
+    },
+    {
+      "buy_approved": false,
+      "crypto_context_keyword_present": false,
       "description": "Static site for paidbyagent.com — daily agentic-payments briefings, published from the briefed pipeline",
       "exclusion_indicators": [],
       "fundamental_proofs": {
@@ -4653,33 +4676,6 @@
         "UNMAPPED_NEW_TOPIC_REVIEW_REQUIRED"
       ],
       "triage_status": "UNCONFIRMED_RELEVANCE"
-    },
-    {
-      "buy_approved": false,
-      "crypto_context_keyword_present": true,
-      "description": "Smart contract security exercises: find the bug, prove it with a Wake test, fix it. Reentrancy, underflow, front-running. NIE-BLO, FIT ČVUT, by ack3.",
-      "exclusion_indicators": [
-        "learning_or_tutorial"
-      ],
-      "fundamental_proofs": {
-        "authentic_adoption": "NOT_VERIFIED",
-        "competitor_comparison": "NOT_VERIFIED",
-        "technical_superiority": "NOT_VERIFIED",
-        "token_value_capture": "NOT_VERIFIED",
-        "unresolved_problem": "NOT_VERIFIED"
-      },
-      "matched_topics_from_metadata": [
-        "onchain-risk"
-      ],
-      "reason": "Metadata-only routing; claims and real-world performance not independently verified",
-      "repository": "ack3-education/tutorial-6",
-      "repository_url": "https://github.com/ack3-education/tutorial-6",
-      "token_contract": null,
-      "token_contract_verified": false,
-      "topics": [
-        "onchain-risk"
-      ],
-      "triage_status": "LOW_PRIORITY_EXCLUSION_REVIEWABLE"
     },
     {
       "buy_approved": false,

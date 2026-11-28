@@ -1,8 +1,8 @@
 {
   "approved_for_buy": 0,
   "audit_scope": "GitHub repository existence, root file names and recent commit links only",
-  "audited_at_utc": "2026-11-27T06:13:17+00:00",
-  "audited_count": 12,
+  "audited_at_utc": "2026-11-28T06:11:28+00:00",
+  "audited_count": 11,
   "entries": [
     {
       "audited_at_utc": "2026-11-20T22:34:31+00:00",
@@ -489,6 +489,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-28T06:11:28+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/blando-dz/AETHER-L2",
+        "https://github.com/blando-dz/AETHER-L2/commit/00e98dcb0702b305003a48eb251f14b761906d58",
+        "https://github.com/blando-dz/AETHER-L2/commit/7588f356fdc2434f28af885d33d31738bf77492f",
+        "https://github.com/blando-dz/AETHER-L2/commit/b3aea68576c6c6853e2bed04d1ab1aa160f0edfc"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "blando-dz/AETHER-L2",
+      "repository_url": "https://github.com/blando-dz/AETHER-L2",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-24T06:09:33+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -624,6 +659,40 @@
       },
       "repository": "canmuratt-hub/fargo-midnight",
       "repository_url": "https://github.com/canmuratt-hub/fargo-midnight",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-28T06:11:28+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/ChedjouJohan/Solidity",
+        "https://github.com/ChedjouJohan/Solidity/commit/294fdf2ade4914f268b2b46817db62c9d2c15e4c",
+        "https://github.com/ChedjouJohan/Solidity/commit/1f1397cfa49cc639f0cb30e38c1a1e119da08646"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 2
+      },
+      "repository": "ChedjouJohan/Solidity",
+      "repository_url": "https://github.com/ChedjouJohan/Solidity",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -795,6 +864,39 @@
       },
       "repository": "divyaconnect/Sentinel.sol",
       "repository_url": "https://github.com/divyaconnect/Sentinel.sol",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-28T06:11:28+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/donystywn/audits",
+        "https://github.com/donystywn/audits/commit/5c75af8758aa895730b249ba950ab9fb97671252"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 1
+      },
+      "repository": "donystywn/audits",
+      "repository_url": "https://github.com/donystywn/audits",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -2537,6 +2639,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-28T06:11:28+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/obinnafranklinduru/ethernaut-foundry-solutions",
+        "https://github.com/obinnafranklinduru/ethernaut-foundry-solutions/commit/ca1842634ff2ef163419c370430018092fa87831",
+        "https://github.com/obinnafranklinduru/ethernaut-foundry-solutions/commit/addfcf171d20c544790c7d2fc3a2a19b7acb1200",
+        "https://github.com/obinnafranklinduru/ethernaut-foundry-solutions/commit/ee8e68b2bb2f4808b3031b70fa5fbf38dce2c625"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "obinnafranklinduru/ethernaut-foundry-solutions",
+      "repository_url": "https://github.com/obinnafranklinduru/ethernaut-foundry-solutions",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-24T06:09:33+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -2875,6 +3012,41 @@
       },
       "repository": "rakesh-pathuri/VIGIL",
       "repository_url": "https://github.com/rakesh-pathuri/VIGIL",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-28T06:11:28+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/RePublikEco/xcad-architecture",
+        "https://github.com/RePublikEco/xcad-architecture/commit/8ae44b5d5ee1e90eb30df9c29803a4580f578a2a",
+        "https://github.com/RePublikEco/xcad-architecture/commit/7013d17c199840511317f11fe64e97d96011eb01",
+        "https://github.com/RePublikEco/xcad-architecture/commit/bf6ef985a60db9367c7f877c3e14f17c615f735a"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "RePublikEco/xcad-architecture",
+      "repository_url": "https://github.com/RePublikEco/xcad-architecture",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -3333,6 +3505,41 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
+      "audited_at_utc": "2026-11-28T06:11:28+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/sentryxaudit/audit-reports",
+        "https://github.com/sentryxaudit/audit-reports/commit/a131507eeac4fb041ac62f7b6db2321da4381d15",
+        "https://github.com/sentryxaudit/audit-reports/commit/38b0bedc9c58d4e7a2b503e23f9fdc440251245f",
+        "https://github.com/sentryxaudit/audit-reports/commit/04fad11c912fd6a54900de8180cb96123182b0a0"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": false,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": false,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "sentryxaudit/audit-reports",
+      "repository_url": "https://github.com/sentryxaudit/audit-reports",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
       "audited_at_utc": "2026-11-25T06:09:32+00:00",
       "buy_approved": false,
       "evidence_links": [
@@ -3537,6 +3744,41 @@
       },
       "repository": "stealthbridge-labs/stealthbridge-frontend",
       "repository_url": "https://github.com/stealthbridge-labs/stealthbridge-frontend",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-28T06:11:28+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/stealthbridge-labs/stealthbridge-sdk",
+        "https://github.com/stealthbridge-labs/stealthbridge-sdk/commit/520a9e7eebec093ad876ce58c87b5fb9ff93d1c7",
+        "https://github.com/stealthbridge-labs/stealthbridge-sdk/commit/533e0201d5f0a120e5918f305e87a8d89c92a6e1",
+        "https://github.com/stealthbridge-labs/stealthbridge-sdk/commit/08f9ce0da6af3f93bfe314180071a28c2416893b"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 5,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": true,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "stealthbridge-labs/stealthbridge-sdk",
+      "repository_url": "https://github.com/stealthbridge-labs/stealthbridge-sdk",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -3782,13 +4024,13 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
-      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "audited_at_utc": "2026-11-28T06:11:28+00:00",
       "buy_approved": false,
       "evidence_links": [
         "https://github.com/Trustlink-Labs/TSN-Protocol",
-        "https://github.com/Trustlink-Labs/TSN-Protocol/commit/0591c0575b1c51e6d4496b4b69c706c6846e97a1",
-        "https://github.com/Trustlink-Labs/TSN-Protocol/commit/bf1b9d2817fcb93a9b9ffb38050eba332e200e20",
-        "https://github.com/Trustlink-Labs/TSN-Protocol/commit/b759cd091c66bfae9850c4dcf6fcb623b873871f"
+        "https://github.com/Trustlink-Labs/TSN-Protocol/commit/0142594f8b6f43bfb6f1c934e54689a3f018b4da",
+        "https://github.com/Trustlink-Labs/TSN-Protocol/commit/e96fb93fb90288cb85d8b847754d512d60ab5422",
+        "https://github.com/Trustlink-Labs/TSN-Protocol/commit/5339be0f1257c2b5edfb0c85719fa1d258d247d2"
       ],
       "fundamental_proofs": {
         "authentic_adoption": "NOT_VERIFIED",
@@ -3802,7 +4044,7 @@
         "archived": false,
         "fork": false,
         "github_forks_public": 1,
-        "github_stars_public": 0,
+        "github_stars_public": 1,
         "has_build_manifest_at_root": true,
         "has_ci_directory_or_config_at_root": true,
         "has_license_at_root": false,
@@ -3887,11 +4129,13 @@
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
     {
-      "audited_at_utc": "2026-11-20T22:20:26+00:00",
+      "audited_at_utc": "2026-11-28T06:11:28+00:00",
       "buy_approved": false,
       "evidence_links": [
         "https://github.com/vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail",
-        "https://github.com/vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail/commit/ea757fd22dba92fbb2d10586513f4b37f09f7b35"
+        "https://github.com/vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail/commit/f1eda78bc117241fdc66612874fdec1aec42dfe6",
+        "https://github.com/vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail/commit/a2b4db957269f55f6b9290a3dab7e0a1db736e65",
+        "https://github.com/vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail/commit/05e1ca06166a871cb734b4b2391afde34a2c2260"
       ],
       "fundamental_proofs": {
         "authentic_adoption": "NOT_VERIFIED",
@@ -3912,7 +4156,7 @@
         "has_readme_at_root": true,
         "has_source_directory_at_root": false,
         "has_tests_directory_at_root": false,
-        "recent_commit_objects_returned": 1
+        "recent_commit_objects_returned": 3
       },
       "repository": "vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail",
       "repository_url": "https://github.com/vaishnavigiri1210/Blockchain-Style-Database-Audit-Trail",
@@ -4021,6 +4265,41 @@
       },
       "repository": "vjk7989/agent-audit",
       "repository_url": "https://github.com/vjk7989/agent-audit",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-28T06:11:28+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/vlovichot/internet-court-x402-demo",
+        "https://github.com/vlovichot/internet-court-x402-demo/commit/939bd50a6c0fd8ef9b791ca464237be9db047fa1",
+        "https://github.com/vlovichot/internet-court-x402-demo/commit/844e5d510d598bce62bced46bdb208b9789e43df",
+        "https://github.com/vlovichot/internet-court-x402-demo/commit/9ede1c831052c8f39938160020e3ab42a4a6683d"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": false,
+        "has_ci_directory_or_config_at_root": false,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "vlovichot/internet-court-x402-demo",
+      "repository_url": "https://github.com/vlovichot/internet-court-x402-demo",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
     },
@@ -4196,12 +4475,53 @@
       "repository_url": "https://github.com/zribiamine-11/ethershield",
       "token_contract_verified": false,
       "verdict": "METADATA_EVIDENCE_ONLY"
+    },
+    {
+      "audited_at_utc": "2026-11-28T06:11:28+00:00",
+      "buy_approved": false,
+      "evidence_links": [
+        "https://github.com/zzzbedream/AegisOS",
+        "https://github.com/zzzbedream/AegisOS/commit/0f2c52050a5709b55a49886b5cfd1a3dadf5aee9",
+        "https://github.com/zzzbedream/AegisOS/commit/a04449d8f977257730ed4a4b621f377f3dadcdc2",
+        "https://github.com/zzzbedream/AegisOS/commit/6073d3d8b90e605caef9a7bcd7aba7b689efc923"
+      ],
+      "fundamental_proofs": {
+        "authentic_adoption": "NOT_VERIFIED",
+        "competitor_comparison": "NOT_VERIFIED",
+        "technical_superiority": "NOT_VERIFIED",
+        "token_value_capture": "NOT_VERIFIED",
+        "unresolved_problem": "NOT_VERIFIED"
+      },
+      "limitations": "Root-level presence tests only. Does not inspect code quality, run tests, validate an external product, infer token existence, or prove user adoption.",
+      "observables": {
+        "archived": false,
+        "fork": false,
+        "github_forks_public": 0,
+        "github_stars_public": 0,
+        "has_build_manifest_at_root": true,
+        "has_ci_directory_or_config_at_root": true,
+        "has_license_at_root": true,
+        "has_readme_at_root": true,
+        "has_source_directory_at_root": true,
+        "has_tests_directory_at_root": false,
+        "recent_commit_objects_returned": 3
+      },
+      "repository": "zzzbedream/AegisOS",
+      "repository_url": "https://github.com/zzzbedream/AegisOS",
+      "token_contract_verified": false,
+      "verdict": "METADATA_EVIDENCE_ONLY"
     }
   ],
-  "error_count": 0,
-  "errors": [],
+  "error_count": 1,
+  "errors": [
+    {
+      "detail": "GitHub API request failed: HTTPError",
+      "reason": "RuntimeError",
+      "repository": "azkamaulanaaa/Stablecoin-Stability-and-Decentralized-Finance-Risk"
+    }
+  ],
   "remaining_unaudited_priority": 1,
   "schema_version": 2,
   "selected_count": 12,
-  "total_audited_unique": 121
+  "total_audited_unique": 130
 }
