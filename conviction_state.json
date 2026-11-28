@@ -4882,6 +4882,67 @@
       "symbol": "UrAnus",
       "token": "solana:27u3diWofnXGUkddjLGhcy1nRssFKHW3RtNbpWzUpump"
     },
+    "solana:28GQ3Mg66RGTA47jVvukvdfhKXgrYJ7rRF4zoNhipump": {
+      "analyzed_at_utc": "2026-11-28T01:59:09+00:00",
+      "assessment": {
+        "buy_approved": false,
+        "community": {
+          "reason": "Liens de réseaux sociaux != preuve d’engagement organique",
+          "status": "NOT_VERIFIED"
+        },
+        "decision": "REJECT",
+        "exceptional_signal_approved": false,
+        "exclusions": [
+          "Liquidité inférieure à 100 000 USD ou inconnue",
+          "Volume 24h inférieur à 50 000 USD ou inconnu",
+          "Sécurité du contrat non validée : UNKNOWN",
+          "Lien officiel projet–contrat non corroboré",
+          "Problème et innovation non démontrés indépendamment",
+          "Supériorité technique non démontrée",
+          "Comparaison concurrentielle non démontrée",
+          "Équipe, développeurs et exécution non vérifiés",
+          "Investisseurs et partenariats non corroborés",
+          "Communauté authentique / engagement organique non vérifiés",
+          "Adoption, rétention et usage réel non vérifiés",
+          "Capture de valeur du token non démontrée",
+          "Distribution, inflation et unlocks non vérifiés",
+          "Valorisation relative / risque de dilution non étudiés",
+          "Catalyseurs et timing non corroborés"
+        ],
+        "fundamental_gates": {
+          "adoption_and_retention": "NOT_VERIFIED",
+          "catalysts_and_timing": "NOT_VERIFIED",
+          "community_authenticity": "NOT_VERIFIED",
+          "competitor_comparison": "NOT_VERIFIED",
+          "investors_and_partnerships": "NOT_VERIFIED",
+          "problem_innovation": "NOT_VERIFIED",
+          "project_token_link": "NOT_VERIFIED",
+          "team_and_execution": "NOT_VERIFIED",
+          "technical_advantage": "NOT_VERIFIED",
+          "token_value_capture": "NOT_VERIFIED",
+          "tokenomics_dilution": "NOT_VERIFIED",
+          "valuation": "NOT_VERIFIED"
+        },
+        "project_token_link": "NOT_VERIFIED",
+        "reputation": {
+          "persons": [],
+          "status": "NOT_VERIFIED"
+        },
+        "security": "UNKNOWN",
+        "security_notes": [
+          "GoPlus inaccessible ou réponse invalide"
+        ],
+        "source_declared_links": [
+          "https://fsjal.net/",
+          "https://x.com/fsjaldotnet/status/2126488512291631609"
+        ],
+        "source_pair_url": "https://dexscreener.com/solana/asnkphxzdvbiadkffqccftu8h7ztvrno93anlnpa3jy"
+      },
+      "chain": "solana",
+      "contract": "28GQ3Mg66RGTA47jVvukvdfhKXgrYJ7rRF4zoNhipump",
+      "symbol": "fsjal",
+      "token": "solana:28GQ3Mg66RGTA47jVvukvdfhKXgrYJ7rRF4zoNhipump"
+    },
     "solana:2B5Kvj7fYFjowTW959yYzWVvKVwvWGUi9e96e3kMw7PB": {
       "analyzed_at_utc": "2026-11-27T22:37:08+00:00",
       "assessment": {
@@ -17913,6 +17974,64 @@
       "symbol": "Pompom",
       "token": "solana:8ArRsCwf3FqiMTY4wHqPmViWGJyJWQqQ6YucgTrhpump"
     },
+    "solana:8CbCH51PziZKvD1k9M9qy24CqfkmNSiprRjT14xNQTZT": {
+      "analyzed_at_utc": "2026-11-28T01:59:09+00:00",
+      "assessment": {
+        "buy_approved": false,
+        "community": {
+          "reason": "Liens de réseaux sociaux != preuve d’engagement organique",
+          "status": "NOT_VERIFIED"
+        },
+        "decision": "REJECT",
+        "exceptional_signal_approved": false,
+        "exclusions": [
+          "Liquidité inférieure à 100 000 USD ou inconnue",
+          "Lien officiel projet–contrat non corroboré",
+          "Problème et innovation non démontrés indépendamment",
+          "Supériorité technique non démontrée",
+          "Comparaison concurrentielle non démontrée",
+          "Équipe, développeurs et exécution non vérifiés",
+          "Investisseurs et partenariats non corroborés",
+          "Communauté authentique / engagement organique non vérifiés",
+          "Adoption, rétention et usage réel non vérifiés",
+          "Capture de valeur du token non démontrée",
+          "Distribution, inflation et unlocks non vérifiés",
+          "Valorisation relative / risque de dilution non étudiés",
+          "Catalyseurs et timing non corroborés"
+        ],
+        "fundamental_gates": {
+          "adoption_and_retention": "NOT_VERIFIED",
+          "catalysts_and_timing": "NOT_VERIFIED",
+          "community_authenticity": "NOT_VERIFIED",
+          "competitor_comparison": "NOT_VERIFIED",
+          "investors_and_partnerships": "NOT_VERIFIED",
+          "problem_innovation": "NOT_VERIFIED",
+          "project_token_link": "NOT_VERIFIED",
+          "team_and_execution": "NOT_VERIFIED",
+          "technical_advantage": "NOT_VERIFIED",
+          "token_value_capture": "NOT_VERIFIED",
+          "tokenomics_dilution": "NOT_VERIFIED",
+          "valuation": "NOT_VERIFIED"
+        },
+        "project_token_link": "NOT_VERIFIED",
+        "reputation": {
+          "persons": [],
+          "status": "NOT_VERIFIED"
+        },
+        "security": "PARTIAL_PASS",
+        "security_notes": [
+          "Contrôle partiel mint/freeze seulement"
+        ],
+        "source_declared_links": [
+          "https://www.retardedether.com/"
+        ],
+        "source_pair_url": "https://dexscreener.com/solana/6nnxn4gurxlf1pb8d2uwta4uxzyurriaz4mamxzkswqp"
+      },
+      "chain": "solana",
+      "contract": "8CbCH51PziZKvD1k9M9qy24CqfkmNSiprRjT14xNQTZT",
+      "symbol": "ETHEREM",
+      "token": "solana:8CbCH51PziZKvD1k9M9qy24CqfkmNSiprRjT14xNQTZT"
+    },
     "solana:8DDM5ioUMwH8VgyHoNQzHjDUoHodXRgnZkSJtvSapump": {
       "analyzed_at_utc": "2026-11-24T20:53:15+00:00",
       "assessment": {
@@ -20551,6 +20670,67 @@
       "contract": "9FTqGrt13Skmq9ic7G3cv8aWSv696kuXsYsphVLcpump",
       "symbol": "TBW",
       "token": "solana:9FTqGrt13Skmq9ic7G3cv8aWSv696kuXsYsphVLcpump"
+    },
+    "solana:9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump": {
+      "analyzed_at_utc": "2026-11-28T01:59:09+00:00",
+      "assessment": {
+        "buy_approved": false,
+        "community": {
+          "reason": "Liens de réseaux sociaux != preuve d’engagement organique",
+          "status": "NOT_VERIFIED"
+        },
+        "decision": "REJECT",
+        "exceptional_signal_approved": false,
+        "exclusions": [
+          "Liquidité inférieure à 100 000 USD ou inconnue",
+          "Hausse de prix supérieure à 50 % sur 24h",
+          "Lien officiel projet–contrat non corroboré",
+          "Problème et innovation non démontrés indépendamment",
+          "Supériorité technique non démontrée",
+          "Comparaison concurrentielle non démontrée",
+          "Équipe, développeurs et exécution non vérifiés",
+          "Investisseurs et partenariats non corroborés",
+          "Communauté authentique / engagement organique non vérifiés",
+          "Adoption, rétention et usage réel non vérifiés",
+          "Capture de valeur du token non démontrée",
+          "Distribution, inflation et unlocks non vérifiés",
+          "Valorisation relative / risque de dilution non étudiés",
+          "Catalyseurs et timing non corroborés"
+        ],
+        "fundamental_gates": {
+          "adoption_and_retention": "NOT_VERIFIED",
+          "catalysts_and_timing": "NOT_VERIFIED",
+          "community_authenticity": "NOT_VERIFIED",
+          "competitor_comparison": "NOT_VERIFIED",
+          "investors_and_partnerships": "NOT_VERIFIED",
+          "problem_innovation": "NOT_VERIFIED",
+          "project_token_link": "NOT_VERIFIED",
+          "team_and_execution": "NOT_VERIFIED",
+          "technical_advantage": "NOT_VERIFIED",
+          "token_value_capture": "NOT_VERIFIED",
+          "tokenomics_dilution": "NOT_VERIFIED",
+          "valuation": "NOT_VERIFIED"
+        },
+        "project_token_link": "NOT_VERIFIED",
+        "reputation": {
+          "persons": [],
+          "status": "NOT_VERIFIED"
+        },
+        "security": "PARTIAL_PASS",
+        "security_notes": [
+          "Contrôle partiel mint/freeze seulement"
+        ],
+        "source_declared_links": [
+          "https://www.memeball.fun/",
+          "https://x.com/Memeballfun",
+          "https://t.me/memeballfun"
+        ],
+        "source_pair_url": "https://dexscreener.com/solana/br6x4ccmyij3sfi5p66arx5p1eupqrg9wgt7rknjlq83"
+      },
+      "chain": "solana",
+      "contract": "9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump",
+      "symbol": "Memeball",
+      "token": "solana:9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump"
     },
     "solana:9GQhJ7t7Gy8DyeMVxjJZuTsHvmoZro5sVDxzNxsFpump": {
       "analyzed_at_utc": "2026-11-22T03:33:20+00:00",
@@ -35620,6 +35800,66 @@
       "contract": "FxWDDcxosMaRnFRzzDQisFjN4a5Gip5ECs7MtsQYFLoW",
       "symbol": "FLOW",
       "token": "solana:FxWDDcxosMaRnFRzzDQisFjN4a5Gip5ECs7MtsQYFLoW"
+    },
+    "solana:FzBtBoWuF1e2W2PEBQJMorUy3wkXGN17URfCYWLSpump": {
+      "analyzed_at_utc": "2026-11-28T01:59:09+00:00",
+      "assessment": {
+        "buy_approved": false,
+        "community": {
+          "reason": "Liens de réseaux sociaux != preuve d’engagement organique",
+          "status": "NOT_VERIFIED"
+        },
+        "decision": "REJECT",
+        "exceptional_signal_approved": false,
+        "exclusions": [
+          "Liquidité inférieure à 100 000 USD ou inconnue",
+          "Volume 24h inférieur à 50 000 USD ou inconnu",
+          "Sécurité du contrat non validée : UNKNOWN",
+          "Lien officiel projet–contrat non corroboré",
+          "Problème et innovation non démontrés indépendamment",
+          "Supériorité technique non démontrée",
+          "Comparaison concurrentielle non démontrée",
+          "Équipe, développeurs et exécution non vérifiés",
+          "Investisseurs et partenariats non corroborés",
+          "Communauté authentique / engagement organique non vérifiés",
+          "Adoption, rétention et usage réel non vérifiés",
+          "Capture de valeur du token non démontrée",
+          "Distribution, inflation et unlocks non vérifiés",
+          "Valorisation relative / risque de dilution non étudiés",
+          "Catalyseurs et timing non corroborés"
+        ],
+        "fundamental_gates": {
+          "adoption_and_retention": "NOT_VERIFIED",
+          "catalysts_and_timing": "NOT_VERIFIED",
+          "community_authenticity": "NOT_VERIFIED",
+          "competitor_comparison": "NOT_VERIFIED",
+          "investors_and_partnerships": "NOT_VERIFIED",
+          "problem_innovation": "NOT_VERIFIED",
+          "project_token_link": "NOT_VERIFIED",
+          "team_and_execution": "NOT_VERIFIED",
+          "technical_advantage": "NOT_VERIFIED",
+          "token_value_capture": "NOT_VERIFIED",
+          "tokenomics_dilution": "NOT_VERIFIED",
+          "valuation": "NOT_VERIFIED"
+        },
+        "project_token_link": "NOT_VERIFIED",
+        "reputation": {
+          "persons": [],
+          "status": "NOT_VERIFIED"
+        },
+        "security": "UNKNOWN",
+        "security_notes": [
+          "GoPlus inaccessible ou réponse invalide"
+        ],
+        "source_declared_links": [
+          "https://x.com/CATErpillarPump"
+        ],
+        "source_pair_url": "https://dexscreener.com/solana/5sshwsesaxdtjngjtwg84bc3dbvfu7kkvwhrnqd4ardy"
+      },
+      "chain": "solana",
+      "contract": "FzBtBoWuF1e2W2PEBQJMorUy3wkXGN17URfCYWLSpump",
+      "symbol": "PILLAR",
+      "token": "solana:FzBtBoWuF1e2W2PEBQJMorUy3wkXGN17URfCYWLSpump"
     },
     "solana:G1ij1UjWBcUFtVHz5GVDAopPNMQcbwtdegH94LU6Jray": {
       "analyzed_at_utc": "2026-11-27T18:30:13+00:00",
